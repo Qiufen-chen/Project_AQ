@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="cqfnenu@39.97.240.2:22">
+    <serverData>
+      <paths name="Keggdrug">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="cqfnenu@39.97.240.2:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/cqfnenu/nosql-biosets-master" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="cqfnenu@39.97.240.2:22 (1)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/cqfnenu/nosql-biosets-master" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="lznenu@39.97.240.2:22">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="lznenu@39.97.240.2:22 (1)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

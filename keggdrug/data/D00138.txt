@@ -1,0 +1,129 @@
+dr:D00138	cpd:C07521	P	unclassified
+dr:D00138	dr:D00136	P	unclassified
+dr:D00138	dr:D00228	P	unclassified
+dr:D00138	dr:D00283	P	unclassified
+dr:D00138	dr:D00298	P	unclassified
+dr:D00138	dr:D00346	P	unclassified
+dr:D00138	dr:D00430	P	unclassified
+dr:D00138	dr:D00454	P	unclassified
+dr:D00138	dr:D00474	P	unclassified
+dr:D00138	dr:D00480	P	unclassified
+dr:D00138	dr:D00487	P	unclassified
+dr:D00138	dr:D00499	P	unclassified
+dr:D00138	dr:D00500	P	unclassified
+dr:D00138	dr:D00506	P	unclassified
+dr:D00138	dr:D00555	P	unclassified
+dr:D00138	dr:D00661	P	Target: CHRM3
+dr:D00138	dr:D00665	P	unclassified
+dr:D00138	dr:D00666	P	unclassified
+dr:D00138	dr:D00668	P	unclassified
+dr:D00138	dr:D00669	P	unclassified
+dr:D00138	dr:D00670	P	unclassified
+dr:D00138	dr:D00698	P	unclassified
+dr:D00138	dr:D00699	P	unclassified
+dr:D00138	dr:D00700	P	unclassified
+dr:D00138	dr:D00701	P	unclassified
+dr:D00138	dr:D00712	P	unclassified
+dr:D00138	dr:D00713	P	unclassified
+dr:D00138	dr:D00714	P	unclassified
+dr:D00138	dr:D00722	P	Target: CHRM1 CHRM2 CHRM3 CHRM4 CHRM5
+dr:D00138	dr:D00726	P	unclassified
+dr:D00138	dr:D00762	P	unclassified
+dr:D00138	dr:D00783	P	unclassified
+dr:D00138	dr:D00787	P	Target: CHRM1 CHRM2 CHRM3 CHRM4 CHRM5
+dr:D00138	dr:D00809	P	unclassified
+dr:D00138	dr:D00811	P	unclassified
+dr:D00138	dr:D00815	P	unclassified
+dr:D00138	dr:D00816	P	unclassified
+dr:D00138	dr:D00818	P	unclassified
+dr:D00138	dr:D00839	P	unclassified
+dr:D00138	dr:D00842	P	unclassified
+dr:D00138	dr:D00995	P	unclassified
+dr:D00138	dr:D00998	P	unclassified
+dr:D00138	dr:D00999	P	Target: CHRM1 CHRM2 CHRM3 CHRM4 CHRM5
+dr:D00138	dr:D01001	P	unclassified
+dr:D00138	dr:D01007	P	Target: CHRM1 CHRM2 CHRM3 CHRM4 CHRM5
+dr:D00138	dr:D01071	P	unclassified
+dr:D00138	dr:D01101	P	unclassified
+dr:D00138	dr:D01148	P	Target: CHRM3
+dr:D00138	dr:D01164	P	unclassified
+dr:D00138	dr:D01228	P	unclassified
+dr:D00138	dr:D01231	P	Target: CHRM1 CHRM2 CHRM3 CHRM4 CHRM5
+dr:D00138	dr:D01240	P	unclassified
+dr:D00138	dr:D01269	P	Target: CHRM3
+dr:D00138	dr:D01285	P	unclassified
+dr:D00138	dr:D01298	P	unclassified
+dr:D00138	dr:D01310	P	unclassified
+dr:D00138	dr:D01321	P	unclassified
+dr:D00138	dr:D01324	P	unclassified
+dr:D00138	dr:D01382	P	unclassified
+dr:D00138	dr:D01383	P	unclassified
+dr:D00138	dr:D01451	P	Target: CHRM1 CHRM2 CHRM3 CHRM4 CHRM5
+dr:D00138	dr:D01481	P	unclassified
+dr:D00138	dr:D01546	P	unclassified
+dr:D00138	dr:D01740	P	unclassified
+dr:D00138	dr:D01745	P	unclassified
+dr:D00138	dr:D01898	P	unclassified
+dr:D00138	dr:D01976	P	Target: CHRM1 CHRM2 CHRM3 CHRM4 CHRM5
+dr:D00138	dr:D01994	P	unclassified
+dr:D00138	dr:D02016	P	unclassified
+dr:D00138	dr:D02060	P	unclassified
+dr:D00138	dr:D02069	P	Target: CHRM1 CHRM2 CHRM3 CHRM4 CHRM5
+dr:D00138	dr:D02101	P	unclassified
+dr:D00138	dr:D02102	P	unclassified
+dr:D00138	dr:D02173	P	unclassified
+dr:D00138	dr:D02200	P	Target: CHRM2 CHRM3
+dr:D00138	dr:D02213	P	unclassified
+dr:D00138	dr:D02234	P	unclassified
+dr:D00138	dr:D02246	P	Target: CHRM1 CHRM2 CHRM3 CHRM4 CHRM5
+dr:D00138	dr:D02247	P	Target: CHRM1 CHRM2 CHRM3 CHRM4 CHRM5
+dr:D00138	dr:D02252	P	unclassified
+dr:D00138	dr:D02253	P	unclassified
+dr:D00138	dr:D02271	P	unclassified
+dr:D00138	dr:D02408	P	unclassified
+dr:D00138	dr:D02535	P	Target: CHRM1 CHRM2 CHRM3 CHRM4 CHRM5
+dr:D00138	dr:D02587	P	unclassified
+dr:D00138	dr:D02618	P	unclassified
+dr:D00138	dr:D02729	P	unclassified
+dr:D00138	dr:D02735	P	unclassified
+dr:D00138	dr:D02817	P	unclassified
+dr:D00138	dr:D02995	P	unclassified
+dr:D00138	dr:D03180	P	unclassified
+dr:D00138	dr:D03182	P	unclassified
+dr:D00138	dr:D03264	P	Target: CHRM1 CHRM2 CHRM3 CHRM4 CHRM5
+dr:D00138	dr:D03290	P	unclassified
+dr:D00138	dr:D03444	P	unclassified
+dr:D00138	dr:D03445	P	unclassified
+dr:D00138	dr:D03822	P	unclassified
+dr:D00138	dr:D03855	P	unclassified
+dr:D00138	dr:D03869	P	unclassified
+dr:D00138	dr:D04046	P	unclassified
+dr:D00138	dr:D04077	P	unclassified
+dr:D00138	dr:D04313	P	unclassified
+dr:D00138	dr:D04338	P	unclassified
+dr:D00138	dr:D04364	P	unclassified
+dr:D00138	dr:D04447	P	unclassified
+dr:D00138	dr:D04948	P	unclassified
+dr:D00138	dr:D04952	P	unclassified
+dr:D00138	dr:D04970	P	Target: CHRM1 CHRM2 CHRM3 CHRM4 CHRM5
+dr:D00138	dr:D04985	P	unclassified
+dr:D00138	dr:D05462	P	unclassified
+dr:D00138	dr:D06106	P	unclassified
+dr:D00138	dr:D06273	P	Target: CHRM1 CHRM3
+dr:D00138	dr:D06405	P	unclassified
+dr:D00138	dr:D06499	P	unclassified
+dr:D00138	dr:D06887	P	unclassified
+dr:D00138	dr:D07298	P	unclassified
+dr:D00138	dr:D07321	P	unclassified
+dr:D00138	dr:D07322	P	unclassified
+dr:D00138	dr:D07323	P	unclassified
+dr:D00138	dr:D07324	P	unclassified
+dr:D00138	dr:D07757	P	unclassified
+dr:D00138	dr:D08356	P	unclassified
+dr:D00138	dr:D08697	P	unclassified
+dr:D00138	dr:D08768	P	unclassified
+dr:D00138	dr:D08769	P	unclassified
+dr:D00138	dr:D08838	P	unclassified
+dr:D00138	dr:D09186	P	unclassified
+dr:D00138	dr:D09197	P	unclassified
+dr:D00138	dr:D10516	P	unclassified

@@ -1,0 +1,85 @@
+dr:D00124	dr:D00095	CI	Target: ADRA1A ADRA1B ADRA1D ADRA2A ADRA2B ADRA2C ADRB1 ADRB2 ADRB3
+dr:D00124	dr:D00228	P	unclassified
+dr:D00124	dr:D00235	P	Target: ADRB1
+dr:D00124	dr:D00247	P	unclassified
+dr:D00124	dr:D00255	P	Target: ADRA1A ADRA1B ADRA1D ADRB1 ADRB2
+dr:D00124	dr:D00283	CI	Target: ADRA2A ADRA2B ADRA2C
+dr:D00124	dr:D00292	P	unclassified
+dr:D00124	dr:D00298	P	unclassified
+dr:D00124	dr:D00331	P	unclassified
+dr:D00124	dr:D00340	P	unclassified
+dr:D00124	dr:D00345	P	unclassified
+dr:D00124	dr:D00346	P	unclassified
+dr:D00124	dr:D00367	P	unclassified
+dr:D00124	dr:D00371	P	unclassified
+dr:D00124	dr:D00382	P	unclassified
+dr:D00124	dr:D00478	P	unclassified
+dr:D00124	dr:D00483	P	Target: ADRB1 ADRB2 ADRB3
+dr:D00124	dr:D00513	P	Target: ADRB1 ADRB2 ADRB3
+dr:D00124	dr:D00528	P	unclassified
+dr:D00124	dr:D00547	P	unclassified
+dr:D00124	dr:D00600	P	Target: ADRA1A ADRA1B ADRA1D ADRB1 ADRB2
+dr:D00124	dr:D00644	P	Target: ADRB1
+dr:D00124	dr:D00658	P	unclassified
+dr:D00124	dr:D00780	P	unclassified
+dr:D00124	dr:D00785	P	unclassified
+dr:D00124	dr:D00809	P	unclassified
+dr:D00124	dr:D00811	P	unclassified
+dr:D00124	dr:D00815	P	unclassified
+dr:D00124	dr:D00816	P	unclassified
+dr:D00124	dr:D00818	P	unclassified
+dr:D00124	dr:D00831	P	unclassified
+dr:D00124	dr:D00947	P	unclassified
+dr:D00124	dr:D00973	P	unclassified
+dr:D00124	dr:D00975	P	unclassified
+dr:D00124	dr:D00977	P	unclassified
+dr:D00124	dr:D00999	P	unclassified
+dr:D00124	dr:D01010	P	unclassified
+dr:D00124	dr:D01011	P	unclassified
+dr:D00124	dr:D01026	P	Target: ADRB1 ADRB2
+dr:D00124	dr:D01240	P	unclassified
+dr:D00124	dr:D01263	P	Target: ADRB2
+dr:D00124	dr:D01285	P	unclassified
+dr:D00124	dr:D01323	P	unclassified
+dr:D00124	dr:D01390	CI,P	Target: ADRB1 ADRB2 ADRB3
+dr:D00124	dr:D01546	P	unclassified
+dr:D00124	dr:D01748	P	Target: ADRB2
+dr:D00124	dr:D01847	P	Target: ADRB1
+dr:D00124	dr:D01856	P	unclassified
+dr:D00124	dr:D01872	P	unclassified
+dr:D00124	dr:D01877	P	unclassified
+dr:D00124	dr:D01895	P	unclassified
+dr:D00124	dr:D02150	CI,P	Target: ADRB1 ADRB2 ADRB3
+dr:D00124	dr:D02574	P	unclassified
+dr:D00124	dr:D02587	P	unclassified
+dr:D00124	dr:D03365	P	unclassified
+dr:D00124	dr:D04447	P	unclassified
+dr:D00124	dr:D04970	P	unclassified
+dr:D00124	dr:D05429	P	unclassified
+dr:D00124	dr:D06698	P	unclassified
+dr:D00124	dr:D06921	P	unclassified
+dr:D00124	dr:D06927	P	unclassified
+dr:D00124	dr:D06928	P	unclassified
+dr:D00124	dr:D06951	P	unclassified
+dr:D00124	dr:D06953	P	unclassified
+dr:D00124	dr:D06955	P	unclassified
+dr:D00124	dr:D06956	P	unclassified
+dr:D00124	dr:D06987	P	unclassified
+dr:D00124	dr:D06994	P	unclassified
+dr:D00124	dr:D07041	P	unclassified
+dr:D00124	dr:D07042	P	unclassified
+dr:D00124	dr:D07043	P	unclassified
+dr:D00124	dr:D07044	P	unclassified
+dr:D00124	dr:D07045	P	unclassified
+dr:D00124	dr:D07048	P	unclassified
+dr:D00124	dr:D07895	P	unclassified
+dr:D00124	dr:D09196	P	unclassified
+dr:D00124	dr:D09197	P	unclassified
+dr:D00124	dr:D09219	P	unclassified
+dr:D00124	dr:D09319	P	Target: ADRB2
+dr:D00124	dr:D10191	P	unclassified
+dr:D00124	dr:D10252	P	unclassified
+dr:D00124	dr:D10480	P	unclassified
+dr:D00124	dr:D10505	P	unclassified
+dr:D00124	dr:D10744	P	unclassified
+dr:D00124	dr:D10805	P	unclassified

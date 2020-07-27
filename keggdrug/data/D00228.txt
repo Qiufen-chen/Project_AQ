@@ -1,0 +1,486 @@
+dr:D00228	cpd:C07506	P	unclassified
+dr:D00228	cpd:C07521	P	unclassified
+dr:D00228	cpd:C07814	P	unclassified
+dr:D00228	dr:D00068	P	unclassified
+dr:D00228	dr:D00076	P	unclassified
+dr:D00228	dr:D00095	P	unclassified
+dr:D00228	dr:D00113	P	unclassified
+dr:D00228	dr:D00124	P	unclassified
+dr:D00228	dr:D00136	P	Enzyme: CYP2D6
+dr:D00228	dr:D00138	P	unclassified
+dr:D00228	dr:D00147	P	unclassified
+dr:D00228	dr:D00232	P	unclassified
+dr:D00228	dr:D00252	P	unclassified
+dr:D00228	dr:D00270	P	Enzyme: CYP2D6 / CYP inhibition: CYP2D6
+dr:D00228	dr:D00281	P	unclassified
+dr:D00228	dr:D00285	P	unclassified
+dr:D00228	dr:D00295	P	unclassified
+dr:D00228	dr:D00320	P	unclassified
+dr:D00228	dr:D00326	P	Enzyme: CYP2D6 / Target: SLC6A4 / CYP inhibition: CYP2D6
+dr:D00228	dr:D00346	P	unclassified
+dr:D00228	dr:D00397	P	unclassified
+dr:D00228	dr:D00405	P	unclassified
+dr:D00228	dr:D00430	P	unclassified
+dr:D00228	dr:D00454	P	unclassified
+dr:D00228	dr:D00465	P	unclassified
+dr:D00228	dr:D00474	P	unclassified
+dr:D00228	dr:D00478	P	unclassified
+dr:D00228	dr:D00480	P	Enzyme: CYP2D6
+dr:D00228	dr:D00481	P	unclassified
+dr:D00228	dr:D00485	P	unclassified
+dr:D00228	dr:D00499	P	unclassified
+dr:D00228	dr:D00500	P	unclassified
+dr:D00228	dr:D00506	P	unclassified
+dr:D00228	dr:D00511	P	unclassified
+dr:D00228	dr:D00512	P	unclassified
+dr:D00228	dr:D00514	P	Enzyme: CYP2D6
+dr:D00228	dr:D00515	P	unclassified
+dr:D00228	dr:D00538	P	unclassified
+dr:D00228	dr:D00540	P	unclassified
+dr:D00228	dr:D00554	P	unclassified
+dr:D00228	dr:D00555	P	unclassified
+dr:D00228	dr:D00600	P	unclassified
+dr:D00228	dr:D00604	P	unclassified
+dr:D00228	dr:D00606	P	unclassified
+dr:D00228	dr:D00607	P	unclassified
+dr:D00228	dr:D00632	P	unclassified
+dr:D00228	dr:D00636	P	unclassified
+dr:D00228	dr:D00646	P	Enzyme: CYP2D6
+dr:D00228	dr:D00661	P	Enzyme: CYP2D6
+dr:D00228	dr:D00669	P	unclassified
+dr:D00228	dr:D00683	P	unclassified
+dr:D00228	dr:D00684	P	unclassified
+dr:D00228	dr:D00685	P	unclassified
+dr:D00228	dr:D00686	P	unclassified
+dr:D00228	dr:D00687	P	unclassified
+dr:D00228	dr:D00688	P	unclassified
+dr:D00228	dr:D00698	P	unclassified
+dr:D00228	dr:D00699	P	unclassified
+dr:D00228	dr:D00700	P	unclassified
+dr:D00228	dr:D00701	P	unclassified
+dr:D00228	dr:D00712	P	unclassified
+dr:D00228	dr:D00713	P	unclassified
+dr:D00228	dr:D00714	P	unclassified
+dr:D00228	dr:D00715	P	unclassified
+dr:D00228	dr:D00716	P	unclassified
+dr:D00228	dr:D00717	P	unclassified
+dr:D00228	dr:D00719	P	unclassified
+dr:D00228	dr:D00720	P	unclassified
+dr:D00228	dr:D00721	P	unclassified
+dr:D00228	dr:D00722	P	unclassified
+dr:D00228	dr:D00723	P	unclassified
+dr:D00228	dr:D00743	P	unclassified
+dr:D00228	dr:D00756	P	unclassified
+dr:D00228	dr:D00757	P	unclassified
+dr:D00228	dr:D00774	P	unclassified
+dr:D00228	dr:D00776	P	unclassified
+dr:D00228	dr:D00778	P	unclassified
+dr:D00228	dr:D00779	P	unclassified
+dr:D00228	dr:D00782	P	unclassified
+dr:D00228	dr:D00785	CI	Enzyme: CYP2D6
+dr:D00228	dr:D00787	P	unclassified
+dr:D00228	dr:D00789	P	Enzyme: CYP2D6 / CYP inhibition: CYP2D6
+dr:D00228	dr:D00811	P	Enzyme: CYP2D6 / Target: SLC6A2 SLC6A4
+dr:D00228	dr:D00815	P	Enzyme: CYP2D6 / Target: SLC6A2 SLC6A4
+dr:D00228	dr:D00822	P	Enzyme: CYP2D6 / Target: SLC6A4
+dr:D00228	dr:D00823	P	Enzyme: CYP2D6 / Target: SLC6A4 / CYP inhibition: CYP2D6
+dr:D00228	dr:D00824	P	Enzyme: CYP2D6 / Target: SLC6A4 / CYP inhibition: CYP2D6
+dr:D00228	dr:D00825	P	Target: SLC6A4
+dr:D00228	dr:D00831	P	unclassified
+dr:D00228	dr:D00839	P	unclassified
+dr:D00228	dr:D00842	P	unclassified
+dr:D00228	dr:D00874	P	unclassified
+dr:D00228	dr:D00947	P	unclassified
+dr:D00228	dr:D00996	P	unclassified
+dr:D00228	dr:D01002	P	unclassified
+dr:D00228	dr:D01003	P	unclassified
+dr:D00228	dr:D01004	P	unclassified
+dr:D00228	dr:D01005	P	unclassified
+dr:D00228	dr:D01006	P	unclassified
+dr:D00228	dr:D01007	P	unclassified
+dr:D00228	dr:D01008	P	unclassified
+dr:D00228	dr:D01017	P	unclassified
+dr:D00228	dr:D01019	P	unclassified
+dr:D00228	dr:D01020	P	unclassified
+dr:D00228	dr:D01021	P	unclassified
+dr:D00228	dr:D01022	P	unclassified
+dr:D00228	dr:D01023	P	unclassified
+dr:D00228	dr:D01026	P	unclassified
+dr:D00228	dr:D01071	P	unclassified
+dr:D00228	dr:D01077	P	unclassified
+dr:D00228	dr:D01101	P	unclassified
+dr:D00228	dr:D01103	P	unclassified
+dr:D00228	dr:D01118	P	unclassified
+dr:D00228	dr:D01148	P	Enzyme: CYP2D6
+dr:D00228	dr:D01165	P	unclassified
+dr:D00228	dr:D01179	P	Target: SLC6A2 SLC6A4 / CYP inhibition: CYP2D6
+dr:D00228	dr:D01201	P	unclassified
+dr:D00228	dr:D01205	P	Enzyme: CYP2D6
+dr:D00228	dr:D01224	P	unclassified
+dr:D00228	dr:D01231	P	unclassified
+dr:D00228	dr:D01253	P	unclassified
+dr:D00228	dr:D01263	P	unclassified
+dr:D00228	dr:D01269	P	unclassified
+dr:D00228	dr:D01276	P	unclassified
+dr:D00228	dr:D01277	P	unclassified
+dr:D00228	dr:D01280	P	unclassified
+dr:D00228	dr:D01296	P	Target: SLC6A2
+dr:D00228	dr:D01297	P	unclassified
+dr:D00228	dr:D01307	P	unclassified
+dr:D00228	dr:D01310	P	unclassified
+dr:D00228	dr:D01315	P	unclassified
+dr:D00228	dr:D01321	P	unclassified
+dr:D00228	dr:D01324	P	Enzyme: CYP2D6
+dr:D00228	dr:D01347	P	unclassified
+dr:D00228	dr:D01349	P	unclassified
+dr:D00228	dr:D01355	P	Enzyme: CYP2D6
+dr:D00228	dr:D01359	P	unclassified
+dr:D00228	dr:D01360	P	unclassified
+dr:D00228	dr:D01362	P	unclassified
+dr:D00228	dr:D01373	P	unclassified
+dr:D00228	dr:D01377	P	unclassified
+dr:D00228	dr:D01382	P	unclassified
+dr:D00228	dr:D01383	P	unclassified
+dr:D00228	dr:D01386	P	unclassified
+dr:D00228	dr:D01390	P	unclassified
+dr:D00228	dr:D01399	P	unclassified
+dr:D00228	dr:D01405	P	unclassified
+dr:D00228	dr:D01428	P	unclassified
+dr:D00228	dr:D01444	P	Enzyme: CYP2D6
+dr:D00228	dr:D01451	P	unclassified
+dr:D00228	dr:D01463	P	unclassified
+dr:D00228	dr:D01481	P	Enzyme: CYP2D6
+dr:D00228	dr:D01491	P	unclassified
+dr:D00228	dr:D01521	P	unclassified
+dr:D00228	dr:D01538	P	unclassified
+dr:D00228	dr:D01573	P	unclassified
+dr:D00228	dr:D01589	P	unclassified
+dr:D00228	dr:D01599	P	unclassified
+dr:D00228	dr:D01600	P	unclassified
+dr:D00228	dr:D01635	P	unclassified
+dr:D00228	dr:D01648	P	unclassified
+dr:D00228	dr:D01699	P	Enzyme: CYP2D6
+dr:D00228	dr:D01740	P	unclassified
+dr:D00228	dr:D01748	P	unclassified
+dr:D00228	dr:D01815	P	unclassified
+dr:D00228	dr:D01835	P	unclassified
+dr:D00228	dr:D01856	P	unclassified
+dr:D00228	dr:D01871	P	unclassified
+dr:D00228	dr:D01875	P	unclassified
+dr:D00228	dr:D01898	P	Enzyme: CYP2D6
+dr:D00228	dr:D01929	P	unclassified
+dr:D00228	dr:D01946	P	unclassified
+dr:D00228	dr:D01952	P	unclassified
+dr:D00228	dr:D01976	P	unclassified
+dr:D00228	dr:D01978	P	unclassified
+dr:D00228	dr:D02002	P	unclassified
+dr:D00228	dr:D02016	P	Enzyme: CYP2D6
+dr:D00228	dr:D02066	P	unclassified
+dr:D00228	dr:D02069	P	unclassified
+dr:D00228	dr:D02070	P	unclassified
+dr:D00228	dr:D02071	P	unclassified
+dr:D00228	dr:D02076	P	unclassified
+dr:D00228	dr:D02093	P	unclassified
+dr:D00228	dr:D02101	P	Enzyme: CYP2D6
+dr:D00228	dr:D02102	P	Enzyme: CYP2D6
+dr:D00228	dr:D02103	P	unclassified
+dr:D00228	dr:D02109	P	unclassified
+dr:D00228	dr:D02147	P	unclassified
+dr:D00228	dr:D02149	P	unclassified
+dr:D00228	dr:D02150	P	unclassified
+dr:D00228	dr:D02151	P	unclassified
+dr:D00228	dr:D02200	P	unclassified
+dr:D00228	dr:D02212	P	unclassified
+dr:D00228	dr:D02219	P	CYP inhibition: CYP2D6
+dr:D00228	dr:D02235	P	unclassified
+dr:D00228	dr:D02237	P	Target: SLC6A2
+dr:D00228	dr:D02242	P	Enzyme: CYP2D6 / Target: SLC6A2 SLC6A4
+dr:D00228	dr:D02246	P	unclassified
+dr:D00228	dr:D02247	P	unclassified
+dr:D00228	dr:D02252	P	unclassified
+dr:D00228	dr:D02253	P	unclassified
+dr:D00228	dr:D02260	P	Enzyme: CYP2D6 / Target: SLC6A4 / CYP inhibition: CYP2D6
+dr:D00228	dr:D02271	P	unclassified
+dr:D00228	dr:D02272	P	unclassified
+dr:D00228	dr:D02281	P	unclassified
+dr:D00228	dr:D02349	P	unclassified
+dr:D00228	dr:D02359	P	unclassified
+dr:D00228	dr:D02360	P	Target: SLC6A4
+dr:D00228	dr:D02362	P	Enzyme: CYP2D6 / Target: SLC6A4 / CYP inhibition: CYP2D6
+dr:D00228	dr:D02388	P	unclassified
+dr:D00228	dr:D02396	P	unclassified
+dr:D00228	dr:D02404	P	unclassified
+dr:D00228	dr:D02417	P	unclassified
+dr:D00228	dr:D02535	P	unclassified
+dr:D00228	dr:D02537	P	CYP inhibition: CYP2D6
+dr:D00228	dr:D02562	CI	unclassified
+dr:D00228	dr:D02567	P	Enzyme: CYP2D6 / Target: SLC6A4 / CYP inhibition: CYP2D6
+dr:D00228	dr:D02574	P	Enzyme: CYP2D6 / Target: SLC6A2
+dr:D00228	dr:D02599	P	unclassified
+dr:D00228	dr:D02614	P	unclassified
+dr:D00228	dr:D02618	P	unclassified
+dr:D00228	dr:D02702	P	unclassified
+dr:D00228	dr:D02748	P	unclassified
+dr:D00228	dr:D02774	P	unclassified
+dr:D00228	dr:D02787	P	Target: SLC6A4
+dr:D00228	dr:D02798	P	unclassified
+dr:D00228	dr:D02817	P	unclassified
+dr:D00228	dr:D02867	P	unclassified
+dr:D00228	dr:D02876	P	unclassified
+dr:D00228	dr:D02901	P	unclassified
+dr:D00228	dr:D02910	P	unclassified
+dr:D00228	dr:D02976	P	unclassified
+dr:D00228	dr:D02981	P	unclassified
+dr:D00228	dr:D03087	P	unclassified
+dr:D00228	dr:D03180	P	unclassified
+dr:D00228	dr:D03182	P	unclassified
+dr:D00228	dr:D03195	P	unclassified
+dr:D00228	dr:D03230	P	unclassified
+dr:D00228	dr:D03250	P	unclassified
+dr:D00228	dr:D03264	P	unclassified
+dr:D00228	dr:D03274	P	Enzyme: CYP2D6 / CYP inhibition: CYP2D6
+dr:D00228	dr:D03276	P	unclassified
+dr:D00228	dr:D03290	P	Enzyme: CYP2D6
+dr:D00228	dr:D03402	P	unclassified
+dr:D00228	dr:D03444	P	unclassified
+dr:D00228	dr:D03445	P	unclassified
+dr:D00228	dr:D03502	P	unclassified
+dr:D00228	dr:D03503	P	unclassified
+dr:D00228	dr:D03505	P	CYP inhibition: CYP2D6
+dr:D00228	dr:D03587	P	unclassified
+dr:D00228	dr:D03648	P	unclassified
+dr:D00228	dr:D03649	P	Target: SLC6A4
+dr:D00228	dr:D03654	P	Enzyme: CYP2D6
+dr:D00228	dr:D03702	P	unclassified
+dr:D00228	dr:D03711	P	unclassified
+dr:D00228	dr:D03824	P	unclassified
+dr:D00228	dr:D03852	P	unclassified
+dr:D00228	dr:D03855	P	unclassified
+dr:D00228	dr:D03869	P	unclassified
+dr:D00228	dr:D03879	P	unclassified
+dr:D00228	dr:D03880	P	unclassified
+dr:D00228	dr:D03881	P	unclassified
+dr:D00228	dr:D03891	P	unclassified
+dr:D00228	dr:D03892	P	unclassified
+dr:D00228	dr:D03914	P	CYP inhibition: CYP2D6
+dr:D00228	dr:D04018	P	unclassified
+dr:D00228	dr:D04034	P	Enzyme: CYP2D6 / CYP inhibition: CYP2D6
+dr:D00228	dr:D04046	P	unclassified
+dr:D00228	dr:D04052	P	unclassified
+dr:D00228	dr:D04057	P	unclassified
+dr:D00228	dr:D04059	P	unclassified
+dr:D00228	dr:D04062	P	unclassified
+dr:D00228	dr:D04077	P	unclassified
+dr:D00228	dr:D04081	P	unclassified
+dr:D00228	dr:D04087	P	unclassified
+dr:D00228	dr:D04105	P	unclassified
+dr:D00228	dr:D04116	P	unclassified
+dr:D00228	dr:D04157	P	unclassified
+dr:D00228	dr:D04307	P	unclassified
+dr:D00228	dr:D04313	P	Enzyme: CYP2D6
+dr:D00228	dr:D04338	P	Enzyme: CYP2D6
+dr:D00228	dr:D04364	P	unclassified
+dr:D00228	dr:D04382	P	Target: SLC6A2
+dr:D00228	dr:D04463	P	unclassified
+dr:D00228	dr:D04475	P	unclassified
+dr:D00228	dr:D04477	P	unclassified
+dr:D00228	dr:D04479	P	unclassified
+dr:D00228	dr:D04482	P	unclassified
+dr:D00228	dr:D04483	P	unclassified
+dr:D00228	dr:D04484	P	unclassified
+dr:D00228	dr:D04539	P	unclassified
+dr:D00228	dr:D04540	P	unclassified
+dr:D00228	dr:D04625	P	unclassified
+dr:D00228	dr:D04626	P	unclassified
+dr:D00228	dr:D04701	P	unclassified
+dr:D00228	dr:D04703	P	unclassified
+dr:D00228	dr:D04708	P	unclassified
+dr:D00228	dr:D04747	P	Target: SLC6A2
+dr:D00228	dr:D04765	P	unclassified
+dr:D00228	dr:D04813	P	unclassified
+dr:D00228	dr:D04855	P	unclassified
+dr:D00228	dr:D04868	P	unclassified
+dr:D00228	dr:D04883	P	unclassified
+dr:D00228	dr:D04954	P	unclassified
+dr:D00228	dr:D04985	P	unclassified
+dr:D00228	dr:D05037	P	unclassified
+dr:D00228	dr:D05206	P	unclassified
+dr:D00228	dr:D05276	P	unclassified
+dr:D00228	dr:D05277	P	unclassified
+dr:D00228	dr:D05366	P	unclassified
+dr:D00228	dr:D05374	P	Enzyme: CYP2D6 / Target: SLC6A4 / CYP inhibition: CYP2D6
+dr:D00228	dr:D05375	P	Enzyme: CYP2D6 / Target: SLC6A4 / CYP inhibition: CYP2D6
+dr:D00228	dr:D05462	P	unclassified
+dr:D00228	dr:D05466	P	unclassified
+dr:D00228	dr:D05476	P	unclassified
+dr:D00228	dr:D05491	P	Target: SLC6A4
+dr:D00228	dr:D05606	P	unclassified
+dr:D00228	dr:D05648	P	unclassified
+dr:D00228	dr:D05649	P	unclassified
+dr:D00228	dr:D05691	P	unclassified
+dr:D00228	dr:D05718	P	unclassified
+dr:D00228	dr:D05730	P	unclassified
+dr:D00228	dr:D05792	P	unclassified
+dr:D00228	dr:D05832	P	unclassified
+dr:D00228	dr:D05879	P	unclassified
+dr:D00228	dr:D06106	P	unclassified
+dr:D00228	dr:D06273	P	unclassified
+dr:D00228	dr:D06344	P	unclassified
+dr:D00228	dr:D06367	P	unclassified
+dr:D00228	dr:D06374	P	unclassified
+dr:D00228	dr:D06394	P	unclassified
+dr:D00228	dr:D06405	P	unclassified
+dr:D00228	dr:D06499	P	unclassified
+dr:D00228	dr:D06542	P	unclassified
+dr:D00228	dr:D06887	P	unclassified
+dr:D00228	dr:D07076	P	unclassified
+dr:D00228	dr:D07099	P	unclassified
+dr:D00228	dr:D07148	P	unclassified
+dr:D00228	dr:D07226	P	Enzyme: CYP2D6
+dr:D00228	dr:D07298	P	unclassified
+dr:D00228	dr:D07301	P	unclassified
+dr:D00228	dr:D07302	P	unclassified
+dr:D00228	dr:D07303	P	unclassified
+dr:D00228	dr:D07321	P	unclassified
+dr:D00228	dr:D07322	P	unclassified
+dr:D00228	dr:D07323	P	unclassified
+dr:D00228	dr:D07324	P	unclassified
+dr:D00228	dr:D07377	P	unclassified
+dr:D00228	dr:D07406	P	unclassified
+dr:D00228	dr:D07461	P	unclassified
+dr:D00228	dr:D07463	P	unclassified
+dr:D00228	dr:D07489	P	unclassified
+dr:D00228	dr:D07511	P	unclassified
+dr:D00228	dr:D07513	P	unclassified
+dr:D00228	dr:D07534	P	unclassified
+dr:D00228	dr:D07560	P	unclassified
+dr:D00228	dr:D07583	P	unclassified
+dr:D00228	dr:D07595	P	unclassified
+dr:D00228	dr:D07704	P	Enzyme: CYP2D6 / Target: SLC6A4
+dr:D00228	dr:D07705	P	Enzyme: CYP2D6 / Target: SLC6A4
+dr:D00228	dr:D07713	P	unclassified
+dr:D00228	dr:D07757	P	unclassified
+dr:D00228	dr:D07759	P	unclassified
+dr:D00228	dr:D07775	P	unclassified
+dr:D00228	dr:D07795	P	unclassified
+dr:D00228	dr:D07804	P	unclassified
+dr:D00228	dr:D07820	P	unclassified
+dr:D00228	dr:D07821	P	unclassified
+dr:D00228	dr:D07913	P	Enzyme: CYP2D6 / Target: SLC6A4 / CYP inhibition: CYP2D6
+dr:D00228	dr:D07931	P	unclassified
+dr:D00228	dr:D07951	P	unclassified
+dr:D00228	dr:D07984	P	Enzyme: CYP2D6 / Target: SLC6A4 / CYP inhibition: CYP2D6
+dr:D00228	dr:D07990	P	unclassified
+dr:D00228	dr:D08030	P	Target: SLC6A2
+dr:D00228	dr:D08031	P	unclassified
+dr:D00228	dr:D08039	P	unclassified
+dr:D00228	dr:D08090	P	unclassified
+dr:D00228	dr:D08092	P	unclassified
+dr:D00228	dr:D08093	P	unclassified
+dr:D00228	dr:D08124	P	unclassified
+dr:D00228	dr:D08141	P	unclassified
+dr:D00228	dr:D08157	P	unclassified
+dr:D00228	dr:D08160	P	unclassified
+dr:D00228	dr:D08165	P	unclassified
+dr:D00228	dr:D08192	P	unclassified
+dr:D00228	dr:D08201	P	unclassified
+dr:D00228	dr:D08205	P	unclassified
+dr:D00228	dr:D08206	P	unclassified
+dr:D00228	dr:D08209	P	unclassified
+dr:D00228	dr:D08220	P	unclassified
+dr:D00228	dr:D08253	P	unclassified
+dr:D00228	dr:D08284	P	unclassified
+dr:D00228	dr:D08286	P	unclassified
+dr:D00228	dr:D08300	P	unclassified
+dr:D00228	dr:D08305	P	unclassified
+dr:D00228	dr:D08308	P	unclassified
+dr:D00228	dr:D08309	P	unclassified
+dr:D00228	dr:D08322	P	unclassified
+dr:D00228	dr:D08325	P	unclassified
+dr:D00228	dr:D08356	P	unclassified
+dr:D00228	dr:D08365	P	unclassified
+dr:D00228	dr:D08366	P	unclassified
+dr:D00228	dr:D08368	P	unclassified
+dr:D00228	dr:D08382	P	unclassified
+dr:D00228	dr:D08384	P	unclassified
+dr:D00228	dr:D08387	P	unclassified
+dr:D00228	dr:D08389	P	unclassified
+dr:D00228	dr:D08395	P	unclassified
+dr:D00228	dr:D08424	P	unclassified
+dr:D00228	dr:D08425	P	unclassified
+dr:D00228	dr:D08426	P	unclassified
+dr:D00228	dr:D08441	P	unclassified
+dr:D00228	dr:D08449	P	unclassified
+dr:D00228	dr:D08474	P	unclassified
+dr:D00228	dr:D08487	P	unclassified
+dr:D00228	dr:D08522	P	unclassified
+dr:D00228	dr:D08570	P	unclassified
+dr:D00228	dr:D08578	P	unclassified
+dr:D00228	dr:D08595	P	unclassified
+dr:D00228	dr:D08611	P	unclassified
+dr:D00228	dr:D08624	P	unclassified
+dr:D00228	dr:D08629	P	unclassified
+dr:D00228	dr:D08638	P	unclassified
+dr:D00228	dr:D08653	P	unclassified
+dr:D00228	dr:D08683	P	unclassified
+dr:D00228	dr:D08684	P	unclassified
+dr:D00228	dr:D08695	P	Enzyme: CYP2D6
+dr:D00228	dr:D08697	P	Enzyme: CYP2D6
+dr:D00228	dr:D08707	P	unclassified
+dr:D00228	dr:D08768	P	Enzyme: CYP2D6
+dr:D00228	dr:D08769	P	unclassified
+dr:D00228	dr:D08837	P	CYP inhibition: CYP2D6
+dr:D00228	dr:D08838	P	unclassified
+dr:D00228	dr:D08850	P	unclassified
+dr:D00228	dr:D08851	P	unclassified
+dr:D00228	dr:D08923	P	Enzyme: CYP2D6
+dr:D00228	dr:D08945	P	unclassified
+dr:D00228	dr:D08966	P	unclassified
+dr:D00228	dr:D09186	P	unclassified
+dr:D00228	dr:D09318	P	unclassified
+dr:D00228	dr:D09319	P	unclassified
+dr:D00228	dr:D09344	P	unclassified
+dr:D00228	dr:D09402	P	unclassified
+dr:D00228	dr:D09535	P	CYP inhibition: CYP2D6
+dr:D00228	dr:D09595	P	unclassified
+dr:D00228	dr:D09696	P	unclassified
+dr:D00228	dr:D09697	P	unclassified
+dr:D00228	dr:D09701	P	unclassified
+dr:D00228	dr:D09727	P	unclassified
+dr:D00228	dr:D09732	P	unclassified
+dr:D00228	dr:D09741	P	unclassified
+dr:D00228	dr:D09784	P	unclassified
+dr:D00228	dr:D09794	P	unclassified
+dr:D00228	dr:D09819	P	Enzyme: CYP2D6 / CYP inhibition: CYP2D6
+dr:D00228	dr:D09842	P	unclassified
+dr:D00228	dr:D09894	P	Enzyme: CYP2D6
+dr:D00228	dr:D09999	P	Enzyme: CYP2D6
+dr:D00228	dr:D10003	P	unclassified
+dr:D00228	dr:D10014	P	unclassified
+dr:D00228	dr:D10019	P	CYP inhibition: CYP2D6
+dr:D00228	dr:D10020	P	unclassified
+dr:D00228	dr:D10145	P	unclassified
+dr:D00228	dr:D10180	P	Enzyme: CYP2D6
+dr:D00228	dr:D10181	P	Enzyme: CYP2D6
+dr:D00228	dr:D10185	P	Enzyme: CYP2D6 / Target: SLC6A4
+dr:D00228	dr:D10191	CI	unclassified
+dr:D00228	dr:D10199	P	Target: SLC6A2
+dr:D00228	dr:D10218	P	unclassified
+dr:D00228	dr:D10219	P	unclassified
+dr:D00228	dr:D10220	P	unclassified
+dr:D00228	dr:D10433	P	unclassified
+dr:D00228	dr:D10501	P	unclassified
+dr:D00228	dr:D10505	P	unclassified
+dr:D00228	dr:D10506	P	unclassified
+dr:D00228	dr:D10514	P	unclassified
+dr:D00228	dr:D10533	P	Enzyme: CYP2D6
+dr:D00228	dr:D10537	P	unclassified
+dr:D00228	dr:D10570	P	unclassified
+dr:D00228	dr:D10744	P	unclassified
+dr:D00228	dr:D10793	P	unclassified
+dr:D00228	dr:D11009	P	unclassified
+dr:D00228	dr:D11034	P	unclassified
+dr:D00228	dr:D11035	P	unclassified
+dr:D00228	dr:D11036	P	unclassified
+dr:D00228	dr:D11567	P	unclassified
+dr:D00228	dr:D11584	P	unclassified

@@ -1,0 +1,98 @@
+dr:D00129	cpd:C07755	P	unclassified
+dr:D00129	cpd:C08130	P	unclassified
+dr:D00129	dr:D00122	P	Target: VDR
+dr:D00129	dr:D00129	P	Target: VDR
+dr:D00129	dr:D00184	P	unclassified
+dr:D00129	dr:D00187	P	Target: VDR
+dr:D00129	dr:D00188	P	Target: VDR
+dr:D00129	dr:D00298	P	unclassified
+dr:D00129	dr:D00299	P	Target: VDR
+dr:D00129	dr:D00340	P	unclassified
+dr:D00129	dr:D00472	P	unclassified
+dr:D00129	dr:D00506	P	unclassified
+dr:D00129	dr:D00512	P	unclassified
+dr:D00129	dr:D00519	P	unclassified
+dr:D00129	dr:D00628	P	Target: VDR
+dr:D00129	dr:D00650	P	unclassified
+dr:D00129	dr:D00651	P	unclassified
+dr:D00129	dr:D00654	P	unclassified
+dr:D00129	dr:D00656	P	unclassified
+dr:D00129	dr:D00657	P	unclassified
+dr:D00129	dr:D00658	P	unclassified
+dr:D00129	dr:D00701	P	unclassified
+dr:D00129	dr:D00731	P	unclassified
+dr:D00129	dr:D00930	P	Target: VDR
+dr:D00129	dr:D00931	P	unclassified
+dr:D00129	dr:D00932	P	unclassified
+dr:D00129	dr:D00933	P	unclassified
+dr:D00129	dr:D00934	P	unclassified
+dr:D00129	dr:D00935	P	unclassified
+dr:D00129	dr:D00936	P	unclassified
+dr:D00129	dr:D00937	P	unclassified
+dr:D00129	dr:D00938	P	unclassified
+dr:D00129	dr:D00981	P	unclassified
+dr:D00129	dr:D01009	P	Target: VDR
+dr:D00129	dr:D01098	P	Target: VDR
+dr:D00129	dr:D01108	P	unclassified
+dr:D00129	dr:D01125	P	Target: VDR
+dr:D00129	dr:D01167	P	unclassified
+dr:D00129	dr:D01239	P	unclassified
+dr:D00129	dr:D01240	P	unclassified
+dr:D00129	dr:D01241	P	unclassified
+dr:D00129	dr:D01246	P	unclassified
+dr:D00129	dr:D01247	P	unclassified
+dr:D00129	dr:D01256	P	unclassified
+dr:D00129	dr:D01446	P	unclassified
+dr:D00129	dr:D01472	P	Target: VDR
+dr:D00129	dr:D01518	P	Target: VDR
+dr:D00129	dr:D01598	P	unclassified
+dr:D00129	dr:D01662	P	Target: VDR
+dr:D00129	dr:D02026	P	unclassified
+dr:D00129	dr:D02061	P	unclassified
+dr:D00129	dr:D02103	P	unclassified
+dr:D00129	dr:D02254	P	unclassified
+dr:D00129	dr:D02256	P	unclassified
+dr:D00129	dr:D02453	P	unclassified
+dr:D00129	dr:D02587	P	unclassified
+dr:D00129	dr:D02838	P	unclassified
+dr:D00129	dr:D03189	P	unclassified
+dr:D00129	dr:D03265	P	unclassified
+dr:D00129	dr:D03271	P	unclassified
+dr:D00129	dr:D03294	P	unclassified
+dr:D00129	dr:D03302	P	unclassified
+dr:D00129	dr:D03303	P	unclassified
+dr:D00129	dr:D03306	P	unclassified
+dr:D00129	dr:D03309	P	unclassified
+dr:D00129	dr:D03358	P	unclassified
+dr:D00129	dr:D03471	P	unclassified
+dr:D00129	dr:D03819	P	unclassified
+dr:D00129	dr:D03930	P	Target: VDR
+dr:D00129	dr:D04033	P	unclassified
+dr:D00129	dr:D04393	P	unclassified
+dr:D00129	dr:D04834	P	unclassified
+dr:D00129	dr:D04835	P	unclassified
+dr:D00129	dr:D04839	P	unclassified
+dr:D00129	dr:D04952	P	unclassified
+dr:D00129	dr:D04976	P	unclassified
+dr:D00129	dr:D05364	P	unclassified
+dr:D00129	dr:D05463	P	unclassified
+dr:D00129	dr:D05821	P	unclassified
+dr:D00129	dr:D06078	P	unclassified
+dr:D00129	dr:D06437	P	unclassified
+dr:D00129	dr:D06546	P	unclassified
+dr:D00129	dr:D07172	P	unclassified
+dr:D00129	dr:D07578	P	Target: VDR
+dr:D00129	dr:D08263	P	unclassified
+dr:D00129	dr:D08356	P	unclassified
+dr:D00129	dr:D08554	P	Target: VDR
+dr:D00129	dr:D08704	P	unclassified
+dr:D00129	dr:D08708	P	unclassified
+dr:D00129	dr:D08834	P	unclassified
+dr:D00129	dr:D08868	P	Target: VDR
+dr:D00129	dr:D09019	P	unclassified
+dr:D00129	dr:D09197	P	unclassified
+dr:D00129	dr:D09928	P	unclassified
+dr:D00129	dr:D10198	P	Target: VDR
+dr:D00129	dr:D10534	P	unclassified
+dr:D00129	dr:D10788	P	unclassified
+dr:D00129	dr:D10913	P	unclassified

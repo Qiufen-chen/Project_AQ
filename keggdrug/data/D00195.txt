@@ -1,0 +1,84 @@
+dr:D00195	dr:D00211	P	unclassified
+dr:D00195	dr:D00236	P	unclassified
+dr:D00195	dr:D00241	P	unclassified
+dr:D00195	dr:D00276	P	unclassified
+dr:D00195	dr:D00283	P	unclassified
+dr:D00195	dr:D00320	P	Target: OPRM1
+dr:D00195	dr:D00332	P	unclassified
+dr:D00195	dr:D00350	P	unclassified
+dr:D00195	dr:D00420	P	unclassified
+dr:D00195	dr:D00506	P	unclassified
+dr:D00195	dr:D00512	P	unclassified
+dr:D00195	dr:D00545	P	unclassified
+dr:D00195	dr:D00546	P	unclassified
+dr:D00195	dr:D00549	P	unclassified
+dr:D00195	dr:D00550	P	unclassified
+dr:D00195	dr:D00636	P	unclassified
+dr:D00195	dr:D00672	P	unclassified
+dr:D00195	dr:D00701	P	unclassified
+dr:D00195	dr:D00711	P	unclassified
+dr:D00195	dr:D00831	P	unclassified
+dr:D00195	dr:D00961	P	unclassified
+dr:D00195	dr:D01177	P	Target: OPRM1
+dr:D00195	dr:D01253	P	unclassified
+dr:D00195	dr:D01276	P	unclassified
+dr:D00195	dr:D01324	P	Enzyme: CYP2D6
+dr:D00195	dr:D01355	P	Enzyme: CYP2D6 / Target: OPRM1
+dr:D00195	dr:D01399	P	Target: OPRM1
+dr:D00195	dr:D01773	P	unclassified
+dr:D00195	dr:D01855	P	unclassified
+dr:D00195	dr:D02076	P	unclassified
+dr:D00195	dr:D02102	P	Enzyme: CYP2D6 / Target: OPRM1
+dr:D00195	dr:D02103	P	unclassified
+dr:D00195	dr:D02372	P	unclassified
+dr:D00195	dr:D02484	P	unclassified
+dr:D00195	dr:D02691	P	unclassified
+dr:D00195	dr:D02716	P	unclassified
+dr:D00195	dr:D02732	P	unclassified
+dr:D00195	dr:D02748	P	unclassified
+dr:D00195	dr:D02867	CI	unclassified
+dr:D00195	dr:D02968	P	unclassified
+dr:D00195	dr:D03106	P	unclassified
+dr:D00195	dr:D03669	P	unclassified
+dr:D00195	dr:D03852	P	unclassified
+dr:D00195	dr:D04024	P	unclassified
+dr:D00195	dr:D04059	P	unclassified
+dr:D00195	dr:D04307	P	unclassified
+dr:D00195	dr:D04641	P	unclassified
+dr:D00195	dr:D04666	P	unclassified
+dr:D00195	dr:D05394	P	unclassified
+dr:D00195	dr:D05775	P	unclassified
+dr:D00195	dr:D06405	P	unclassified
+dr:D00195	dr:D06413	P	unclassified
+dr:D00195	dr:D06414	P	unclassified
+dr:D00195	dr:D06597	P	unclassified
+dr:D00195	dr:D07132	P	Target: OPRM1
+dr:D00195	dr:D07583	P	unclassified
+dr:D00195	dr:D07595	P	unclassified
+dr:D00195	dr:D09535	P	CYP inhibition: CYP2D6
+dr:D00195	dr:D09638	P	unclassified
+dr:D00195	dr:D09701	P	unclassified
+dr:D00195	dr:D09731	P	unclassified
+dr:D00195	dr:D09894	P	Enzyme: CYP2D6
+dr:D00195	dr:D09996	P	unclassified
+dr:D00195	dr:D09999	P	Enzyme: CYP2D6
+dr:D00195	dr:D10003	P	unclassified
+dr:D00195	dr:D10019	P	CYP inhibition: CYP2D6
+dr:D00195	dr:D10104	P	unclassified
+dr:D00195	dr:D10161	P	unclassified
+dr:D00195	dr:D10194	P	unclassified
+dr:D00195	dr:D10199	P	Target: OPRM1
+dr:D00195	dr:D10218	P	unclassified
+dr:D00195	dr:D10298	P	unclassified
+dr:D00195	dr:D10372	P	unclassified
+dr:D00195	dr:D10514	P	unclassified
+dr:D00195	dr:D10551	P	unclassified
+dr:D00195	dr:D10564	P	unclassified
+dr:D00195	dr:D10566	P	unclassified
+dr:D00195	dr:D10762	P	unclassified
+dr:D00195	dr:D10801	P	unclassified
+dr:D00195	dr:D10812	CI,P	Target: OPRM1
+dr:D00195	dr:D10854	P	unclassified
+dr:D00195	dr:D10926	P	unclassified
+dr:D00195	dr:D11012	P	unclassified
+dr:D00195	dr:D11040	P	unclassified

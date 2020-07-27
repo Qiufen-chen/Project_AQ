@@ -1,0 +1,17 @@
+dr:D00043	dr:D00487	P	Target: ACHE
+dr:D00043	dr:D00661	P	unclassified
+dr:D00043	dr:D00670	P	Target: ACHE
+dr:D00043	dr:D00672	P	unclassified
+dr:D00043	dr:D00999	P	Enzyme-Target: ACHE
+dr:D00043	dr:D01000	P	unclassified
+dr:D00043	dr:D01001	P	Target: ACHE
+dr:D00043	dr:D01096	P	unclassified
+dr:D00043	dr:D01228	P	Target: ACHE
+dr:D00043	dr:D01847	P	unclassified
+dr:D00043	dr:D01955	P	unclassified
+dr:D00043	dr:D02173	P	Target: ACHE
+dr:D00043	dr:D02200	P	unclassified
+dr:D00043	dr:D02275	P	unclassified
+dr:D00043	dr:D03822	P	Target: ACHE BCHE
+dr:D00043	dr:D04970	P	unclassified
+dr:D00043	dr:D08838	P	Target: ACHE

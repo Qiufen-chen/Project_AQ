@@ -1,0 +1,7 @@
+dr:D00160	dr:D00094	P	unclassified
+dr:D00160	dr:D00172	P	unclassified
+dr:D00160	dr:D01418	P	unclassified
+dr:D00160	dr:D03331	P	unclassified
+dr:D00160	dr:D03352	P	unclassified
+dr:D00160	dr:D08793	P	unclassified
+dr:D00160	dr:D08812	CI	unclassified

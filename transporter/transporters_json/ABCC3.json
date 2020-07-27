@@ -1,0 +1,223 @@
+{
+    "ABCC3": {
+        "expression": [
+            {
+                "Organ": "Brain",
+                "Source": "Nishimura",
+                "Relative Expression": 0.00036
+            },
+            {
+                "Organ": "Kidney*",
+                "Source": "Nishimura",
+                "Relative Expression": 0.0484
+            },
+            {
+                "Organ": "Liver*",
+                "Source": "Nishimura",
+                "Relative Expression": 0.114
+            },
+            {
+                "Organ": "Placenta*",
+                "Source": "Nishimura",
+                "Relative Expression": 0.0183
+            },
+            {
+                "Organ": "Small Intestine*",
+                "Source": "Nishimura",
+                "Relative Expression": 0.0513
+            },
+            {
+                "Organ": "Kidney*",
+                "Source": "Mean across all PMT Samples",
+                "Relative Expression": 6.291
+            },
+            {
+                "Organ": "Liver*",
+                "Source": "Mean across all PMT Samples",
+                "Relative Expression": 28.096
+            }
+        ],
+        "inhibitors": [
+            {
+                "Inhibitor": "Delavirdine",
+                "IC50 (μM)": "ND",
+                "Ki (μM)": null,
+                "Substrate used": "CMFDA",
+                "Cell System": "MDCKII-MRP3",
+                "Reference": "Weiss, 2007"
+            },
+            {
+                "Inhibitor": "Efavirenz",
+                "IC50 (μM)": "ND",
+                "Ki (μM)": null,
+                "Substrate used": "CMFDA",
+                "Cell System": "MDCKII-MRP3",
+                "Reference": "Weiss, 2007"
+            },
+            {
+                "Inhibitor": "Emtricitabine",
+                "IC50 (μM)": "ND",
+                "Ki (μM)": null,
+                "Substrate used": "CMFDA",
+                "Cell System": "MDCKII-MRP3",
+                "Reference": "Weiss, 2007"
+            },
+            {
+                "Inhibitor": "Taurocholate",
+                "IC50 (μM)": "40",
+                "Ki (μM)": null,
+                "Substrate used": "Estradiol-17beta-glucuronide",
+                "Cell System": "MRP3-expressing HEK293 vesicles",
+                "Reference": "Zhang, 2003"
+            }
+        ],
+        "substrates": [
+            {
+                "Substrate": "Estradiol-17beta-glucuronide",
+                "Km (μM)": "17.7",
+                "Cell System": "MRP3-expressing Sf9 vesicles",
+                "Reference": "Zelcer, 2001"
+            },
+            {
+                "Substrate": "Estradiol-17beta-glucuronide",
+                "Km (μM)": "25.6",
+                "Cell System": "MRP3-expressing HEK293 vesicles",
+                "Reference": "Zeng, 2000"
+            },
+            {
+                "Substrate": "Estradiol-17beta-glucuronide",
+                "Km (μM)": "29",
+                "Cell System": "MRP3-expressing HEK293 vesicles",
+                "Reference": "Zhang, 2003"
+            },
+            {
+                "Substrate": "Ethinylestradiol-glucuronide",
+                "Km (μM)": "9.2",
+                "Cell System": "MRP3-expressing Sf9 vesicles",
+                "Reference": "Chu, 2004"
+            },
+            {
+                "Substrate": "Etoposide glucuronide",
+                "Km (μM)": "11.4",
+                "Cell System": "MRP3-expressing Sf9 vesicles",
+                "Reference": "Zelcer, 2001"
+            },
+            {
+                "Substrate": "Fexofenadine",
+                "Km (μM)": "ND",
+                "Cell System": "MRP3-expressing HEK293 vesicles",
+                "Reference": "Matsushima, 2008"
+            },
+            {
+                "Substrate": "Folic acid",
+                "Km (μM)": "1960",
+                "Cell System": "MRP3-expressing HEK293 vesicles",
+                "Reference": "Zeng, 2001"
+            },
+            {
+                "Substrate": "Glycocholate",
+                "Km (μM)": "248",
+                "Cell System": "MRP3-expressing HEK293 vesicles",
+                "Reference": "Zeng, 2000"
+            },
+            {
+                "Substrate": "Hyocholate-glucuronide",
+                "Km (μM)": "0.2",
+                "Cell System": "MRP3-expressing Sf9 vesicles",
+                "Reference": "Zelcer, 2006"
+            },
+            {
+                "Substrate": "Hyodeoxycholate-glucuronide",
+                "Km (μM)": "0.7",
+                "Cell System": "MRP3-expressing Sf9 vesicles",
+                "Reference": "Zelcer, 2006"
+            },
+            {
+                "Substrate": "Leucovorin",
+                "Km (μM)": "1740",
+                "Cell System": "MRP3-expressing HEK293 vesicles",
+                "Reference": "Zeng, 2001"
+            },
+            {
+                "Substrate": "Leukotriene C4",
+                "Km (μM)": "5.3",
+                "Cell System": "MRP3-expressing HEK293 vesicles",
+                "Reference": "Zeng, 2000"
+            },
+            {
+                "Substrate": "Methotrexate",
+                "Km (μM)": "620",
+                "Cell System": "MRP3-expressing HEK293 vesicles",
+                "Reference": "Zeng, 2001"
+            },
+            {
+                "Substrate": "Methotrexate",
+                "Km (μM)": "776",
+                "Cell System": "MRP3-expressing HEK293 vesicles",
+                "Reference": "Zeng, 2000"
+            },
+            {
+                "Substrate": "Methotrexate",
+                "Km (μM)": "910",
+                "Cell System": "MRP1-expressing MCF7 vesicles",
+                "Reference": "Paumi, 2003"
+            },
+            {
+                "Substrate": "S-(2,4-dinitrophenyl)-glutathione",
+                "Km (μM)": "5.7",
+                "Cell System": "MRP3-expressing HEK293 vesicles",
+                "Reference": "Zeng, 2000"
+            },
+            {
+                "Substrate": "Taurocholate",
+                "Km (μM)": "30",
+                "Cell System": "MRP3-expressing HEK293 vesicles",
+                "Reference": "Zhang, 2003"
+            }
+        ],
+        "ddi": [
+            {
+                "DDI": "1",
+                "Implicated Transporter": "MRPs",
+                "Interacting Drug": "Probenecid",
+                "Affected Drug": "Cefmetazole",
+                "AUC": "1.6",
+                "Cmax": "NS",
+                "CLR": "0.6",
+                "CL/F": "0.6",
+                "t1/2": "1.5",
+                "Effect on PD": "ND",
+                "Reference": "Ko, 1989",
+                "More Details": "DDI 1"
+            },
+            {
+                "DDI": "2",
+                "Implicated Transporter": "OATs/MRPs",
+                "Interacting Drug": "Probenecid",
+                "Affected Drug": "Ciprofloxacin",
+                "AUC": "1.7",
+                "Cmax": "NS",
+                "CLR": "0.4",
+                "CL/F": "0.6",
+                "t1/2": "1.5",
+                "Effect on PD": "ND",
+                "Reference": "Jaehde, 1995",
+                "More Details": "DDI 2"
+            },
+            {
+                "DDI": "3",
+                "Implicated Transporter": "OATs/MRPs",
+                "Interacting Drug": "Probenecid",
+                "Affected Drug": "Furosemide",
+                "AUC": "2.7",
+                "Cmax": "1.5",
+                "CLR": "0.3",
+                "CL/F": "0.4",
+                "t1/2": "1.7",
+                "Effect on PD": "ND",
+                "Reference": "Vree, 1995",
+                "More Details": "DDI 3"
+            }
+        ]
+    }
+}

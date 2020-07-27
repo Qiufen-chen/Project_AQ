@@ -1,0 +1,6 @@
+elasticsearch
+neo4j-driver
+pymongo
+networkx
+six
+xmltodict

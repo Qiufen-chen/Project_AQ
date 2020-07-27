@@ -1,0 +1,989 @@
+{
+    "SLC22A8": {
+        "expression": [
+            {
+                "Organ": "Brain",
+                "Source": "Nishimura",
+                "Relative Expression": "0.000504"
+            },
+            {
+                "Organ": "Kidney*",
+                "Source": "Nishimura",
+                "Relative Expression": "0.818"
+            },
+            {
+                "Organ": "Liver",
+                "Source": "Nishimura",
+                "Relative Expression": "0.000135"
+            },
+            {
+                "Organ": "Placenta",
+                "Source": "Nishimura",
+                "Relative Expression": "BLQ"
+            },
+            {
+                "Organ": "Small Intestine",
+                "Source": "Nishimura",
+                "Relative Expression": "BLQ"
+            },
+            {
+                "Organ": "Kidney*",
+                "Source": "Mean across all PMT Samples",
+                "Relative Expression": "17.974"
+            },
+            {
+                "Organ": "Liver",
+                "Source": "Mean across all PMT Samples",
+                "Relative Expression": "BLQ"
+            }
+        ],
+        "inhibitors": [
+            {
+                "Inhibitor": "(Noradamantan-3-yl)-1,3-dipropylxanthine (KW-3902)",
+                "IC50 (μM)": null,
+                "Ki (μM)": 3.7,
+                "Substrate used": "Estrone 3-sulfate",
+                "Cell System": "S2-OAT3",
+                "Reference": "Takeda, 2001"
+            },
+            {
+                "Inhibitor": "1-butanesulfonic acid (BSA)",
+                "IC50 (μM)": 5098.0,
+                "Ki (μM)": null,
+                "Substrate used": "Estrone 3-sulfate",
+                "Cell System": "CHO-OAT3",
+                "Reference": "Astorga, 2011"
+            },
+            {
+                "Inhibitor": "2,3-Dimercapto-1-propane sulfonate (DMPS)",
+                "IC50 (μM)": 40.0,
+                "Ki (μM)": null,
+                "Substrate used": "Estrone 3-sulfate",
+                "Cell System": "CHO-OAT3",
+                "Reference": "Astorga, 2011"
+            },
+            {
+                "Inhibitor": "3-mercapto-1-propansulfonic acid (MPS)",
+                "IC50 (μM)": 2139.0,
+                "Ki (μM)": null,
+                "Substrate used": "Estrone 3-sulfate",
+                "Cell System": "CHO-OAT3",
+                "Reference": "Astorga, 2011"
+            },
+            {
+                "Inhibitor": "Acetazolamide",
+                "IC50 (μM)": 816.0,
+                "Ki (μM)": null,
+                "Substrate used": "Estrone 3-sulfate",
+                "Cell System": "S2-OAT3",
+                "Reference": "Hasannejad, 2004"
+            },
+            {
+                "Inhibitor": "Adipate",
+                "IC50 (μM)": 136.0,
+                "Ki (μM)": null,
+                "Substrate used": "Estrone 3-sulfate",
+                "Cell System": "HEK293-OAT3",
+                "Reference": "Kaufhold, 2011"
+            },
+            {
+                "Inhibitor": "Alpha-ketoglutarate",
+                "IC50 (μM)": 92.8,
+                "Ki (μM)": null,
+                "Substrate used": "Estrone 3-sulfate",
+                "Cell System": "HEK293-OAT3",
+                "Reference": "Kaufhold, 2011"
+            },
+            {
+                "Inhibitor": "Betamipron",
+                "IC50 (μM)": null,
+                "Ki (μM)": 48.3,
+                "Substrate used": "Estrone 3-sulfate",
+                "Cell System": "S2-OAT3",
+                "Reference": "Takeda, 2001"
+            },
+            {
+                "Inhibitor": "Bumetanide",
+                "IC50 (μM)": 0.75,
+                "Ki (μM)": null,
+                "Substrate used": "Estrone 3-sulfate",
+                "Cell System": "S2-OAT3",
+                "Reference": "Hasannejad, 2004"
+            },
+            {
+                "Inhibitor": "Bumetanide",
+                "IC50 (μM)": 7.8,
+                "Ki (μM)": null,
+                "Substrate used": "Estrone 3-sulfate",
+                "Cell System": "OAT3-expressing oocytes",
+                "Reference": "Elsby, 2011"
+            },
+            {
+                "Inhibitor": "Bumetanide",
+                "IC50 (μM)": 5.4,
+                "Ki (μM)": null,
+                "Substrate used": "Methotrexate",
+                "Cell System": "OAT3-expressing oocytes",
+                "Reference": "Elsby, 2011"
+            },
+            {
+                "Inhibitor": "Candesartan",
+                "IC50 (μM)": 0.3,
+                "Ki (μM)": null,
+                "Substrate used": "Uric acid",
+                "Cell System": "HEK293-OAT3",
+                "Reference": "Sato, 2008"
+            },
+            {
+                "Inhibitor": "Cefadroxil",
+                "IC50 (μM)": null,
+                "Ki (μM)": 8620.0,
+                "Substrate used": "Prostaglandin F2alpha",
+                "Cell System": "S2-OAT3",
+                "Reference": "Khamdang, 2003"
+            },
+            {
+                "Inhibitor": "Cefamandole",
+                "IC50 (μM)": null,
+                "Ki (μM)": 50.0,
+                "Substrate used": "Prostaglandin F2alpha",
+                "Cell System": "S2-OAT3",
+                "Reference": "Khamdang, 2003"
+            },
+            {
+                "Inhibitor": "Cefazolin",
+                "IC50 (μM)": null,
+                "Ki (μM)": 550.0,
+                "Substrate used": "Prostaglandin F2alpha",
+                "Cell System": "S2-OAT3",
+                "Reference": "Khamdang, 2003"
+            },
+            {
+                "Inhibitor": "Cefoperazone",
+                "IC50 (μM)": null,
+                "Ki (μM)": 1890.0,
+                "Substrate used": "Prostaglandin F2alpha",
+                "Cell System": "S2-OAT3",
+                "Reference": "Khamdang, 2003"
+            },
+            {
+                "Inhibitor": "Cefotaxime",
+                "IC50 (μM)": null,
+                "Ki (μM)": 290.0,
+                "Substrate used": "Prostaglandin F2alpha",
+                "Cell System": "S2-OAT3",
+                "Reference": "Khamdang, 2003"
+            },
+            {
+                "Inhibitor": "Ceftriaxone",
+                "IC50 (μM)": null,
+                "Ki (μM)": 4390.0,
+                "Substrate used": "Prostaglandin F2alpha",
+                "Cell System": "S2-OAT3",
+                "Reference": "Khamdang, 2003"
+            },
+            {
+                "Inhibitor": "Cephaloridine",
+                "IC50 (μM)": null,
+                "Ki (μM)": 2460.0,
+                "Substrate used": "Prostaglandin F2alpha",
+                "Cell System": "S2-OAT3",
+                "Reference": "Khamdang, 2003"
+            },
+            {
+                "Inhibitor": "Cephalothin",
+                "IC50 (μM)": null,
+                "Ki (μM)": 40.0,
+                "Substrate used": "Prostaglandin F2alpha",
+                "Cell System": "S2-OAT3",
+                "Reference": "Khamdang, 2003"
+            },
+            {
+                "Inhibitor": "Chlorothiazide",
+                "IC50 (μM)": 65.3,
+                "Ki (μM)": null,
+                "Substrate used": "Estrone 3-sulfate",
+                "Cell System": "S2-OAT3",
+                "Reference": "Hasannejad, 2004"
+            },
+            {
+                "Inhibitor": "Cilastatin",
+                "IC50 (μM)": null,
+                "Ki (μM)": 231.0,
+                "Substrate used": "Estrone 3-sulfate",
+                "Cell System": "S2-OAT3",
+                "Reference": "Takeda, 2001"
+            },
+            {
+                "Inhibitor": "Cimetidine",
+                "IC50 (μM)": 79.0,
+                "Ki (μM)": null,
+                "Substrate used": "Sitagliptin",
+                "Cell System": "CHO-OAT3",
+                "Reference": "Chu, 2007"
+            },
+            {
+                "Inhibitor": "Citrinin",
+                "IC50 (μM)": null,
+                "Ki (μM)": 15.4,
+                "Substrate used": "Ochratoxin A",
+                "Cell System": "S2-OAT2",
+                "Reference": "Jung, 2001"
+            },
+            {
+                "Inhibitor": "Cyclothiazide",
+                "IC50 (μM)": 27.9,
+                "Ki (μM)": null,
+                "Substrate used": "Estrone 3-sulfate",
+                "Cell System": "S2-OAT3",
+                "Reference": "Hasannejad, 2004"
+            },
+            {
+                "Inhibitor": "Diclofenac",
+                "IC50 (μM)": 7.78,
+                "Ki (μM)": null,
+                "Substrate used": "Estrone 3-sulfate",
+                "Cell System": "S2-OAT3",
+                "Reference": "Khamdang, 2002"
+            },
+            {
+                "Inhibitor": "Ethacrynic acid",
+                "IC50 (μM)": 0.58,
+                "Ki (μM)": null,
+                "Substrate used": "Estrone 3-sulfate",
+                "Cell System": "S2-OAT3",
+                "Reference": "Hasannejad, 2004"
+            },
+            {
+                "Inhibitor": "Fenofibric acid",
+                "IC50 (μM)": 2.2,
+                "Ki (μM)": null,
+                "Substrate used": "Sitagliptin",
+                "Cell System": "CHO-OAT3",
+                "Reference": "Chu, 2007"
+            },
+            {
+                "Inhibitor": "Fluvastatin",
+                "IC50 (μM)": 5.79,
+                "Ki (μM)": null,
+                "Substrate used": "Estrone 3-sulfate",
+                "Cell System": "S2-OAT3",
+                "Reference": "Takeda, 2004"
+            },
+            {
+                "Inhibitor": "Furosemide",
+                "IC50 (μM)": 7.31,
+                "Ki (μM)": null,
+                "Substrate used": "Estrone 3-sulfate",
+                "Cell System": "S2-OAT3",
+                "Reference": "Hasannejad, 2004"
+            },
+            {
+                "Inhibitor": "Furosemide",
+                "IC50 (μM)": 1.7,
+                "Ki (μM)": null,
+                "Substrate used": "Sitagliptin",
+                "Cell System": "CHO-OAT3",
+                "Reference": "Chu, 2007"
+            },
+            {
+                "Inhibitor": "Gemfibrozil",
+                "IC50 (μM)": 6.8,
+                "Ki (μM)": null,
+                "Substrate used": "Pravastatin",
+                "Cell System": "S2-OAT3",
+                "Reference": "Nakagomi-Hagihara, 2007"
+            },
+            {
+                "Inhibitor": "Glutarate",
+                "IC50 (μM)": 78.5,
+                "Ki (μM)": null,
+                "Substrate used": "Estrone 3-sulfate",
+                "Cell System": "HEK293-OAT3",
+                "Reference": "Kaufhold, 2011"
+            },
+            {
+                "Inhibitor": "Hydrochlorothiazide",
+                "IC50 (μM)": 942.0,
+                "Ki (μM)": null,
+                "Substrate used": "Estrone 3-sulfate",
+                "Cell System": "S2-OAT3",
+                "Reference": "Hasannejad, 2004"
+            },
+            {
+                "Inhibitor": "Ibuprofen",
+                "IC50 (μM)": 6.0,
+                "Ki (μM)": null,
+                "Substrate used": "Estrone 3-sulfate",
+                "Cell System": "S2-OAT3",
+                "Reference": "Khamdang, 2002"
+            },
+            {
+                "Inhibitor": "Ibuprofen",
+                "IC50 (μM)": 3.7,
+                "Ki (μM)": null,
+                "Substrate used": "Sitagliptin",
+                "Cell System": "CHO-OAT3",
+                "Reference": "Chu, 2007"
+            },
+            {
+                "Inhibitor": "Indapamide",
+                "IC50 (μM)": 11.0,
+                "Ki (μM)": null,
+                "Substrate used": "Sitagliptin",
+                "Cell System": "CHO-OAT3",
+                "Reference": "Chu, 2007"
+            },
+            {
+                "Inhibitor": "Indomethacin",
+                "IC50 (μM)": 0.61,
+                "Ki (μM)": null,
+                "Substrate used": "Estrone 3-sulfate",
+                "Cell System": "S2-OAT3",
+                "Reference": "Khamdang, 2002"
+            },
+            {
+                "Inhibitor": "JBP485",
+                "IC50 (μM)": 185.0,
+                "Ki (μM)": 160.0,
+                "Substrate used": "Bestatin",
+                "Cell System": "HEK293-OAT3",
+                "Reference": "Zhu, 2012"
+            },
+            {
+                "Inhibitor": "Ketoprofen",
+                "IC50 (μM)": 5.98,
+                "Ki (μM)": null,
+                "Substrate used": "Estrone 3-sulfate",
+                "Cell System": "S2-OAT3",
+                "Reference": "Khamdang, 2002"
+            },
+            {
+                "Inhibitor": "Losartan",
+                "IC50 (μM)": 1.6,
+                "Ki (μM)": null,
+                "Substrate used": "Uric acid",
+                "Cell System": "HEK293-OAT3",
+                "Reference": "Sato, 2008"
+            },
+            {
+                "Inhibitor": "Mefenamic acid",
+                "IC50 (μM)": 0.78,
+                "Ki (μM)": null,
+                "Substrate used": "Estrone 3-sulfate",
+                "Cell System": "S2-OAT3",
+                "Reference": "Khamdang, 2002"
+            },
+            {
+                "Inhibitor": "Methazolamide",
+                "IC50 (μM)": 97.5,
+                "Ki (μM)": null,
+                "Substrate used": "Estrone 3-sulfate",
+                "Cell System": "S2-OAT3",
+                "Reference": "Hasannejad, 2004"
+            },
+            {
+                "Inhibitor": "Naproxen",
+                "IC50 (μM)": 4.67,
+                "Ki (μM)": null,
+                "Substrate used": "Estrone 3-sulfate",
+                "Cell System": "S2-OAT3",
+                "Reference": "Khamdang, 2002"
+            },
+            {
+                "Inhibitor": "Novobiocin",
+                "IC50 (μM)": 4.99,
+                "Ki (μM)": 4.77,
+                "Substrate used": "Estrone 3-sulfate",
+                "Cell System": "COS7-OAT3",
+                "Reference": "Duan, 2009"
+            },
+            {
+                "Inhibitor": "Octanoate",
+                "IC50 (μM)": null,
+                "Ki (μM)": 8.6,
+                "Substrate used": "Ochratoxin A",
+                "Cell System": "S2-OAT2",
+                "Reference": "Jung, 2001"
+            },
+            {
+                "Inhibitor": "Olmesartan",
+                "IC50 (μM)": 0.027,
+                "Ki (μM)": null,
+                "Substrate used": "Uric acid",
+                "Cell System": "HEK293-OAT3",
+                "Reference": "Sato, 2008"
+            },
+            {
+                "Inhibitor": "Para-aminohippurate",
+                "IC50 (μM)": null,
+                "Ki (μM)": 19.6,
+                "Substrate used": "Ochratoxin A",
+                "Cell System": "S2-OAT2",
+                "Reference": "Jung, 2001"
+            },
+            {
+                "Inhibitor": "Penicillin G",
+                "IC50 (μM)": 102.0,
+                "Ki (μM)": 88.0,
+                "Substrate used": "Bestatin",
+                "Cell System": "HEK293-OAT3",
+                "Reference": "Zhu, 2012"
+            },
+            {
+                "Inhibitor": "Phenacetin",
+                "IC50 (μM)": 19.4,
+                "Ki (μM)": null,
+                "Substrate used": "Estrone 3-sulfate",
+                "Cell System": "S2-OAT3",
+                "Reference": "Khamdang, 2002"
+            },
+            {
+                "Inhibitor": "Pimelate",
+                "IC50 (μM)": 634.0,
+                "Ki (μM)": null,
+                "Substrate used": "Estrone 3-sulfate",
+                "Cell System": "HEK293-OAT3",
+                "Reference": "Kaufhold, 2011"
+            },
+            {
+                "Inhibitor": "Piroxicam",
+                "IC50 (μM)": 2.52,
+                "Ki (μM)": null,
+                "Substrate used": "Estrone 3-sulfate",
+                "Cell System": "S2-OAT3",
+                "Reference": "Khamdang, 2002"
+            },
+            {
+                "Inhibitor": "Piroxicam",
+                "IC50 (μM)": null,
+                "Ki (μM)": 4.88,
+                "Substrate used": "Ochratoxin A",
+                "Cell System": "S2-OAT2",
+                "Reference": "Jung, 2001"
+            },
+            {
+                "Inhibitor": "Pratosartan",
+                "IC50 (μM)": 0.095,
+                "Ki (μM)": null,
+                "Substrate used": "Uric acid",
+                "Cell System": "HEK293-OAT3",
+                "Reference": "Sato, 2008"
+            },
+            {
+                "Inhibitor": "Pravastatin",
+                "IC50 (μM)": 13.7,
+                "Ki (μM)": null,
+                "Substrate used": "Estrone 3-sulfate",
+                "Cell System": "S2-OAT3",
+                "Reference": "Takeda, 2004"
+            },
+            {
+                "Inhibitor": "Probenecid*",
+                "IC50 (μM)": 3.1,
+                "Ki (μM)": null,
+                "Substrate used": "Cimetidine",
+                "Cell System": "CHO-OAT3",
+                "Reference": "Chu, 2007"
+            },
+            {
+                "Inhibitor": "Probenecid",
+                "IC50 (μM)": null,
+                "Ki (μM)": 32.0,
+                "Substrate used": "Dimesna",
+                "Cell System": "HeLa-OAT3",
+                "Reference": "Cutler, 2012"
+            },
+            {
+                "Inhibitor": "Probenecid*",
+                "IC50 (μM)": null,
+                "Ki (μM)": 9.0,
+                "Substrate used": "Estrone 3-sulfate",
+                "Cell System": "S2-OAT3",
+                "Reference": "Takeda, 2001"
+            },
+            {
+                "Inhibitor": "Probenecid*",
+                "IC50 (μM)": null,
+                "Ki (μM)": 1.3,
+                "Substrate used": "Fexofenadine",
+                "Cell System": "HEK293-OAT3",
+                "Reference": "Tahara, 2006"
+            },
+            {
+                "Inhibitor": "Probenecid*",
+                "IC50 (μM)": null,
+                "Ki (μM)": 4.41,
+                "Substrate used": "Ochratoxin A",
+                "Cell System": "S2-OAT3",
+                "Reference": "Jung, 2001"
+            },
+            {
+                "Inhibitor": "Probenecid*",
+                "IC50 (μM)": 5.6,
+                "Ki (μM)": null,
+                "Substrate used": "Sitagliptin",
+                "Cell System": "CHO-OAT3",
+                "Reference": "Chu, 2007"
+            },
+            {
+                "Inhibitor": "Quinapril",
+                "IC50 (μM)": 6.2,
+                "Ki (μM)": null,
+                "Substrate used": "Sitagliptin",
+                "Cell System": "CHO-OAT3",
+                "Reference": "Chu, 2007"
+            },
+            {
+                "Inhibitor": "Simvastatin",
+                "IC50 (μM)": 32.3,
+                "Ki (μM)": null,
+                "Substrate used": "Estrone 3-sulfate",
+                "Cell System": "S2-OAT3",
+                "Reference": "Takeda, 2004"
+            },
+            {
+                "Inhibitor": "Sitagliptin",
+                "IC50 (μM)": 160.0,
+                "Ki (μM)": null,
+                "Substrate used": "Cimetidine",
+                "Cell System": "CHO-OAT3",
+                "Reference": "Chu, 2007"
+            },
+            {
+                "Inhibitor": "Suberate",
+                "IC50 (μM)": 232.0,
+                "Ki (μM)": null,
+                "Substrate used": "Estrone 3-sulfate",
+                "Cell System": "HEK293-OAT3",
+                "Reference": "Kaufhold, 2011"
+            },
+            {
+                "Inhibitor": "Sulfasalazine",
+                "IC50 (μM)": 3.0,
+                "Ki (μM)": null,
+                "Substrate used": "Methotrexate",
+                "Cell System": "OAT3-expressing oocytes",
+                "Reference": "Elsby, 2011"
+            },
+            {
+                "Inhibitor": "Sulindac",
+                "IC50 (μM)": 3.62,
+                "Ki (μM)": null,
+                "Substrate used": "Estrone 3-sulfate",
+                "Cell System": "S2-OAT3",
+                "Reference": "Khamdang, 2002"
+            },
+            {
+                "Inhibitor": "Telmisartan",
+                "IC50 (μM)": 1.6,
+                "Ki (μM)": null,
+                "Substrate used": "Uric acid",
+                "Cell System": "HEK293-OAT3",
+                "Reference": "Sato, 2008"
+            },
+            {
+                "Inhibitor": "Trichloromethiazide",
+                "IC50 (μM)": 71.2,
+                "Ki (μM)": null,
+                "Substrate used": "Estrone 3-sulfate",
+                "Cell System": "S2-OAT3",
+                "Reference": "Hasannejad, 2004"
+            },
+            {
+                "Inhibitor": "Valsartan",
+                "IC50 (μM)": 0.2,
+                "Ki (μM)": null,
+                "Substrate used": "Uric acid",
+                "Cell System": "HEK293-OAT3",
+                "Reference": "Sato, 2008"
+            }
+        ],
+        "substrates": [
+            {
+                "Substrate": "Bumetanide*",
+                "Km (μM)": "1586",
+                "Cell System": "S2-OAT3",
+                "Reference": "Hasannejad, 2004"
+            },
+            {
+                "Substrate": "Cefaclor",
+                "Km (μM)": "ND",
+                "Cell System": "HEK293-OAT3",
+                "Reference": "Ueo, 2005"
+            },
+            {
+                "Substrate": "Ceftizoxime",
+                "Km (μM)": "ND",
+                "Cell System": "HEK293-OAT3",
+                "Reference": "Ueo, 2005"
+            },
+            {
+                "Substrate": "Cimetidine",
+                "Km (μM)": "113",
+                "Cell System": "HEK293-OAT3",
+                "Reference": "Tahara, 2006"
+            },
+            {
+                "Substrate": "Cimetidine",
+                "Km (μM)": "174",
+                "Cell System": "CHO-OAT3",
+                "Reference": "Chu, 2007"
+            },
+            {
+                "Substrate": "Cimetidine",
+                "Km (μM)": "57.4",
+                "Cell System": "OAT3-expressing oocytes",
+                "Reference": "Cha, 2001"
+            },
+            {
+                "Substrate": "Cortisol",
+                "Km (μM)": "2.4",
+                "Cell System": "OAT3-expressing oocytes",
+                "Reference": "Asif, 2005"
+            },
+            {
+                "Substrate": "Dimesna",
+                "Km (μM)": "390",
+                "Cell System": "HeLa-OAT3",
+                "Reference": "Cutler, 2012"
+            },
+            {
+                "Substrate": "Edaravone sulfate",
+                "Km (μM)": "15.1",
+                "Cell System": "HEK293-OAT3",
+                "Reference": "Mizuno, 2007"
+            },
+            {
+                "Substrate": "Estrone 3-sulfate",
+                "Km (μM)": "2.18",
+                "Cell System": "COS7-OAT3",
+                "Reference": "Duan, 2009"
+            },
+            {
+                "Substrate": "Estrone 3-sulfate",
+                "Km (μM)": "2.21",
+                "Cell System": "S2-OAT3",
+                "Reference": "Takeda, 2001"
+            },
+            {
+                "Substrate": "Estrone 3-sulfate",
+                "Km (μM)": "3.1",
+                "Cell System": "OAT3-expressing oocytes",
+                "Reference": "Cha, 2001"
+            },
+            {
+                "Substrate": "Estrone 3-sulfate",
+                "Km (μM)": "6.3",
+                "Cell System": "HEK293-OAT3",
+                "Reference": "Ueo, 2005"
+            },
+            {
+                "Substrate": "Estrone 3-sulfate",
+                "Km (μM)": "7.5",
+                "Cell System": "S2-OAT3",
+                "Reference": "Takeda, 2000"
+            },
+            {
+                "Substrate": "Fexofenadine",
+                "Km (μM)": "70.2",
+                "Cell System": "HEK293-OAT3",
+                "Reference": "Tahara, 2006"
+            },
+            {
+                "Substrate": "Furosemide*",
+                "Km (μM)": "ND",
+                "Cell System": "S2-OAT3",
+                "Reference": "Hasannejad, 2004"
+            },
+            {
+                "Substrate": "Methotrexate",
+                "Km (μM)": "10.9",
+                "Cell System": "OAT3-expressing oocytes",
+                "Reference": "Cha, 2001"
+            },
+            {
+                "Substrate": "Methotrexate",
+                "Km (μM)": "17.2",
+                "Cell System": "OAT3-expressing oocytes",
+                "Reference": "Uwai, 2004"
+            },
+            {
+                "Substrate": "Methotrexate",
+                "Km (μM)": "21.1",
+                "Cell System": "S2-OAT3",
+                "Reference": "Takeda, 2002"
+            },
+            {
+                "Substrate": "Ochratoxin A",
+                "Km (μM)": "0.75",
+                "Cell System": "S2-OAT3",
+                "Reference": "Jung, 2001"
+            },
+            {
+                "Substrate": "Olmesartan",
+                "Km (μM)": "0.12",
+                "Cell System": "HEK293-OAT3",
+                "Reference": "Yamada, 2007"
+            },
+            {
+                "Substrate": "Para-aminohippurate",
+                "Km (μM)": "87.2",
+                "Cell System": "OAT3-expressing oocytes",
+                "Reference": "Cha, 2001"
+            },
+            {
+                "Substrate": "Pitavastatin",
+                "Km (μM)": "3.3",
+                "Cell System": "OAT3-expressing oocytes",
+                "Reference": "Fujino, 2005"
+            },
+            {
+                "Substrate": "Pravastatin",
+                "Km (μM)": "27.2",
+                "Cell System": "S2-OAT3",
+                "Reference": "Nakagomi-Hagihara, 2007"
+            },
+            {
+                "Substrate": "Prostaglandin E2",
+                "Km (μM)": "0.345",
+                "Cell System": "S2-OAT3",
+                "Reference": "Kimura, 2002"
+            },
+            {
+                "Substrate": "Prostaglandin F2alpha",
+                "Km (μM)": "1.092",
+                "Cell System": "S2-OAT3",
+                "Reference": "Kimura, 2002"
+            },
+            {
+                "Substrate": "Rosuvastatin",
+                "Km (μM)": "7.4",
+                "Cell System": "OAT3-expressing oocytes",
+                "Reference": "Windass, 2007"
+            },
+            {
+                "Substrate": "Sitagliptin",
+                "Km (μM)": "162",
+                "Cell System": "CHO-OAT3",
+                "Reference": "Chu, 2007"
+            },
+            {
+                "Substrate": "Tetracycline",
+                "Km (μM)": "566.2",
+                "Cell System": "S2-OAT3",
+                "Reference": "Babu, 2002"
+            },
+            {
+                "Substrate": "Uric acid",
+                "Km (μM)": "380.3",
+                "Cell System": "HEK293-OAT3",
+                "Reference": "Sato, 2008"
+            },
+            {
+                "Substrate": "Zidovudine",
+                "Km (μM)": "145",
+                "Cell System": "S2-OAT3",
+                "Reference": "Takeda, 2002"
+            }
+        ],
+        "ddi": [
+            {
+                "DDI": "1",
+                "Implicated Transporter": "OATs/OCTs",
+                "Interacting Drug": "Cotrimoxazole (trimethoprim/sulfamethoxazole)",
+                "Affected Drug": "Apricitabine",
+                "AUC": "1.7",
+                "Cmax": "1.3",
+                "CLR": "0.6",
+                "CL/F": "0.6",
+                "t1/2": "1.4",
+                "Effect on PD": "ND",
+                "Reference": "Shiveley, 2008",
+                "More Details": "DDI 1"
+            },
+            {
+                "DDI": "2",
+                "Implicated Transporter": "OATs/OCTs",
+                "Interacting Drug": "Cotrimoxazole (trimethoprim/sulfamethoxazole)",
+                "Affected Drug": "Zidovudine",
+                "AUC": "NS",
+                "Cmax": "ND",
+                "CLR": "0.4",
+                "CL/F": "NS",
+                "t1/2": "NS",
+                "Effect on PD": "ND",
+                "Reference": "Chatton, 1992",
+                "More Details": "DDI 2"
+            },
+            {
+                "DDI": "3",
+                "Implicated Transporter": "OATs",
+                "Interacting Drug": "Furosemide",
+                "Affected Drug": "Lomefloxacin",
+                "AUC": "1.1",
+                "Cmax": "NS",
+                "CLR": "0.7",
+                "CL/F": "0.9",
+                "t1/2": "NS",
+                "Effect on PD": "ND",
+                "Reference": "Sudoh, 1994",
+                "More Details": "DDI 3"
+            },
+            {
+                "DDI": "4",
+                "Implicated Transporter": "OATs",
+                "Interacting Drug": "Probenecid",
+                "Affected Drug": "Acyclovir",
+                "AUC": "1.4",
+                "Cmax": "ND",
+                "CLR": "0.7",
+                "CL/F": "NS",
+                "t1/2": "ND",
+                "Effect on PD": "ND",
+                "Reference": "Laskin, 1982",
+                "More Details": "DDI 4"
+            },
+            {
+                "DDI": "5",
+                "Implicated Transporter": "OATs",
+                "Interacting Drug": "Probenecid",
+                "Affected Drug": "Cefaclor",
+                "AUC": "2.1",
+                "Cmax": "1.5",
+                "CLR": "ND",
+                "CL/F": "ND",
+                "t1/2": "1.6",
+                "Effect on PD": "ND",
+                "Reference": "Welling, 1979",
+                "More Details": "DDI 5"
+            },
+            {
+                "DDI": "6",
+                "Implicated Transporter": "OATs",
+                "Interacting Drug": "Probenecid",
+                "Affected Drug": "Cefonicid",
+                "AUC": "2.1",
+                "Cmax": "1.2",
+                "CLR": "0.3",
+                "CL/F": "ND",
+                "t1/2": "1.5",
+                "Effect on PD": "ND",
+                "Reference": "Pitkin, 1981",
+                "More Details": "DDI 6"
+            },
+            {
+                "DDI": "7",
+                "Implicated Transporter": "OATs",
+                "Interacting Drug": "Probenecid",
+                "Affected Drug": "Cefoxitin",
+                "AUC": "2.4",
+                "Cmax": "ND",
+                "CLR": "0.4",
+                "CL/F": "ND",
+                "t1/2": "2.0",
+                "Effect on PD": "ND",
+                "Reference": "Vlasses, 1980",
+                "More Details": "DDI 7"
+            },
+            {
+                "DDI": "8",
+                "Implicated Transporter": "OATs",
+                "Interacting Drug": "Probenecid",
+                "Affected Drug": "Ceftriaxone",
+                "AUC": "0.7",
+                "Cmax": "ND",
+                "CLR": "ND",
+                "CL/F": "1.3",
+                "t1/2": "0.8",
+                "Effect on PD": "ND",
+                "Reference": "Stoeckel, 1988",
+                "More Details": "DDI 8"
+            },
+            {
+                "DDI": "9",
+                "Implicated Transporter": "OATs",
+                "Interacting Drug": "Probenecid",
+                "Affected Drug": "Cephradine",
+                "AUC": "2.4",
+                "Cmax": "1.9",
+                "CLR": "ND",
+                "CL/F": "ND",
+                "t1/2": "1.5",
+                "Effect on PD": "ND",
+                "Reference": "Welling, 1979",
+                "More Details": "DDI 9"
+            },
+            {
+                "DDI": "10",
+                "Implicated Transporter": "OATs",
+                "Interacting Drug": "Probenecid",
+                "Affected Drug": "Cidofovir",
+                "AUC": "ND",
+                "Cmax": "ND",
+                "CLR": "0.5",
+                "CL/F": "0.6",
+                "t1/2": "ND",
+                "Effect on PD": "ND",
+                "Reference": "Cundy, 1995",
+                "More Details": "DDI 10"
+            },
+            {
+                "DDI": "11",
+                "Implicated Transporter": "OATs/MRPs",
+                "Interacting Drug": "Probenecid",
+                "Affected Drug": "Ciprofloxacin",
+                "AUC": "1.7",
+                "Cmax": "NS",
+                "CLR": "0.4",
+                "CL/F": "0.6",
+                "t1/2": "1.5",
+                "Effect on PD": "ND",
+                "Reference": "Jaehde, 1995",
+                "More Details": "DDI 11"
+            },
+            {
+                "DDI": "12",
+                "Implicated Transporter": "OATs",
+                "Interacting Drug": "Probenecid",
+                "Affected Drug": "Dicloxacillin",
+                "AUC": "1.9",
+                "Cmax": "1.8",
+                "CLR": "0.3",
+                "CL/F": "0.5",
+                "t1/2": "ND",
+                "Effect on PD": "ND",
+                "Reference": "Beringer, 2008",
+                "More Details": "DDI 12"
+            },
+            {
+                "DDI": "13",
+                "Implicated Transporter": "OATs",
+                "Interacting Drug": "Probenecid",
+                "Affected Drug": "Famotidine",
+                "AUC": "1.8",
+                "Cmax": "1.5",
+                "CLR": "0.4",
+                "CL/F": "0.1",
+                "t1/2": "NS",
+                "Effect on PD": "ND",
+                "Reference": "Inotsume, 1990",
+                "More Details": "DDI 13"
+            },
+            {
+                "DDI": "14",
+                "Implicated Transporter": "OATs/MRPs",
+                "Interacting Drug": "Probenecid",
+                "Affected Drug": "Furosemide",
+                "AUC": "2.7",
+                "Cmax": "1.5",
+                "CLR": "0.3",
+                "CL/F": "0.4",
+                "t1/2": "1.7",
+                "Effect on PD": "ND",
+                "Reference": "Vree, 1995",
+                "More Details": "DDI 14"
+            }
+        ]
+    }
+}

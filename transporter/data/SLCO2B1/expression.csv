@@ -1,0 +1,8 @@
+Organ,Source,Relative Expression
+Brain,Nishimura,0.00975
+Kidney,Nishimura,0.0262
+Liver*,Nishimura,0.0677
+Placenta*,Nishimura,0.0557
+Small Intestine*,Nishimura,0.0277
+Kidney,Mean across all PMT Samples,6.496
+Liver*,Mean across all PMT Samples,65.867

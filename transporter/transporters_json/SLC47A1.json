@@ -1,0 +1,484 @@
+{
+    "SLC47A1": {
+        "expression": [
+            {
+                "Organ": "Kidney*",
+                "Source": "Mean across all PMT Samples",
+                "Relative Expression": 10.743
+            },
+            {
+                "Organ": "Liver*",
+                "Source": "Mean across all PMT Samples",
+                "Relative Expression": 18.098
+            }
+        ],
+        "inhibitors": [
+            {
+                "Inhibitor": "Amantadine",
+                "IC50 (μM)": null,
+                "Ki (μM)": 111.8,
+                "Substrate used": "Tetraethylammonium",
+                "Cell System": "HEK293-MATE1",
+                "Reference": "Tsuda, 2009"
+            },
+            {
+                "Inhibitor": "Cetirizine",
+                "IC50 (μM)": null,
+                "Ki (μM)": 371.2,
+                "Substrate used": "Tetraethylammonium",
+                "Cell System": "HEK293-MATE1",
+                "Reference": "Tsuda, 2009"
+            },
+            {
+                "Inhibitor": "Chloroquine",
+                "IC50 (μM)": 2.5,
+                "Ki (μM)": null,
+                "Substrate used": "Metformin",
+                "Cell System": "HEK293-MATE1",
+                "Reference": "Muller, 2011"
+            },
+            {
+                "Inhibitor": "Chlorpheniramine",
+                "IC50 (μM)": null,
+                "Ki (μM)": 87.6,
+                "Substrate used": "Tetraethylammonium",
+                "Cell System": "HEK293-MATE1",
+                "Reference": "Tsuda, 2009"
+            },
+            {
+                "Inhibitor": "Cimetidine",
+                "IC50 (μM)": null,
+                "Ki (μM)": 3.8,
+                "Substrate used": "Metformin",
+                "Cell System": "HEK293-MATE1",
+                "Reference": "Ito, 2012"
+            },
+            {
+                "Inhibitor": "Cimetidine",
+                "IC50 (μM)": null,
+                "Ki (μM)": 1.1,
+                "Substrate used": "Tetraethylammonium",
+                "Cell System": "HEK293-MATE1",
+                "Reference": "Tsuda, 2009"
+            },
+            {
+                "Inhibitor": "Desipramine",
+                "IC50 (μM)": null,
+                "Ki (μM)": 55.7,
+                "Substrate used": "Tetraethylammonium",
+                "Cell System": "HEK293-MATE1",
+                "Reference": "Tsuda, 2009"
+            },
+            {
+                "Inhibitor": "Diltiazem",
+                "IC50 (μM)": null,
+                "Ki (μM)": 12.5,
+                "Substrate used": "Tetraethylammonium",
+                "Cell System": "HEK293-MATE1",
+                "Reference": "Tsuda, 2009"
+            },
+            {
+                "Inhibitor": "Diphenhydramine",
+                "IC50 (μM)": null,
+                "Ki (μM)": 87.0,
+                "Substrate used": "Tetraethylammonium",
+                "Cell System": "HEK293-MATE1",
+                "Reference": "Tsuda, 2009"
+            },
+            {
+                "Inhibitor": "Disopyramide",
+                "IC50 (μM)": null,
+                "Ki (μM)": 83.8,
+                "Substrate used": "Tetraethylammonium",
+                "Cell System": "HEK293-MATE1",
+                "Reference": "Tsuda, 2009"
+            },
+            {
+                "Inhibitor": "DX-619",
+                "IC50 (μM)": null,
+                "Ki (μM)": 0.82,
+                "Substrate used": "Creatinine",
+                "Cell System": "HEK293-MATE1",
+                "Reference": "Imamura, 2011"
+            },
+            {
+                "Inhibitor": "Famotidine",
+                "IC50 (μM)": null,
+                "Ki (μM)": 0.6,
+                "Substrate used": "Tetraethylammonium",
+                "Cell System": "HEK293-MATE1",
+                "Reference": "Tsuda, 2009"
+            },
+            {
+                "Inhibitor": "Imipramine",
+                "IC50 (μM)": null,
+                "Ki (μM)": 42.0,
+                "Substrate used": "Tetraethylammonium",
+                "Cell System": "HEK293-MATE1",
+                "Reference": "Tsuda, 2009"
+            },
+            {
+                "Inhibitor": "Metformin",
+                "IC50 (μM)": null,
+                "Ki (μM)": 666.9,
+                "Substrate used": "Tetraethylammonium",
+                "Cell System": "HEK293-MATE1",
+                "Reference": "Tsuda, 2009"
+            },
+            {
+                "Inhibitor": "Mitoxantrone",
+                "IC50 (μM)": 4.4,
+                "Ki (μM)": null,
+                "Substrate used": "Metformin",
+                "Cell System": "HeLa-MATE1",
+                "Reference": "Meyer, 2010"
+            },
+            {
+                "Inhibitor": "Mitoxantrone",
+                "IC50 (μM)": 5.2,
+                "Ki (μM)": null,
+                "Substrate used": "Tetraethylammonium",
+                "Cell System": "HeLa-MATE1",
+                "Reference": "Meyer, 2010"
+            },
+            {
+                "Inhibitor": "N-butylpyridinium chloride (NBuPy-Cl)",
+                "IC50 (μM)": 8.5,
+                "Ki (μM)": null,
+                "Substrate used": "1-methyl-4-phenylpyridinium (MPP+)",
+                "Cell System": "CHO-MATE1",
+                "Reference": "Cheng, 2011"
+            },
+            {
+                "Inhibitor": "Pramipexole",
+                "IC50 (μM)": null,
+                "Ki (μM)": 141.4,
+                "Substrate used": "Tetraethylammonium",
+                "Cell System": "HEK293-MATE1",
+                "Reference": "Tsuda, 2009"
+            },
+            {
+                "Inhibitor": "Procainamide",
+                "IC50 (μM)": null,
+                "Ki (μM)": 217.0,
+                "Substrate used": "Tetraethylammonium",
+                "Cell System": "HEK293-MATE1",
+                "Reference": "Tsuda, 2009"
+            },
+            {
+                "Inhibitor": "Quinidine",
+                "IC50 (μM)": null,
+                "Ki (μM)": 29.2,
+                "Substrate used": "Tetraethylammonium",
+                "Cell System": "HEK293-MATE1",
+                "Reference": "Tsuda, 2009"
+            },
+            {
+                "Inhibitor": "Ranitidine",
+                "IC50 (μM)": 18.9,
+                "Ki (μM)": null,
+                "Substrate used": "Metformin",
+                "Cell System": "HeLa-MATE1",
+                "Reference": "Meyer, 2010"
+            },
+            {
+                "Inhibitor": "Ranitidine",
+                "IC50 (μM)": 17.5,
+                "Ki (μM)": null,
+                "Substrate used": "Tetraethylammonium",
+                "Cell System": "HeLa-MATE1",
+                "Reference": "Meyer, 2010"
+            },
+            {
+                "Inhibitor": "Ranitidine",
+                "IC50 (μM)": null,
+                "Ki (μM)": 25.4,
+                "Substrate used": "Tetraethylammonium",
+                "Cell System": "HEK293-MATE1",
+                "Reference": "Tsuda, 2009"
+            },
+            {
+                "Inhibitor": "Rapamycin",
+                "IC50 (μM)": 3.27,
+                "Ki (μM)": null,
+                "Substrate used": "Metformin",
+                "Cell System": "HeLa-MATE1",
+                "Reference": "Meyer, 2010"
+            },
+            {
+                "Inhibitor": "Rapamycin",
+                "IC50 (μM)": 3.51,
+                "Ki (μM)": null,
+                "Substrate used": "Tetraethylammonium",
+                "Cell System": "HeLa-MATE1",
+                "Reference": "Meyer, 2010"
+            },
+            {
+                "Inhibitor": "Ritonavir",
+                "IC50 (μM)": 15.4,
+                "Ki (μM)": null,
+                "Substrate used": "Metformin",
+                "Cell System": "HeLa-MATE1",
+                "Reference": "Meyer, 2010"
+            },
+            {
+                "Inhibitor": "Ritonavir",
+                "IC50 (μM)": 13.9,
+                "Ki (μM)": null,
+                "Substrate used": "Tetraethylammonium",
+                "Cell System": "HeLa-MATE1",
+                "Reference": "Meyer, 2010"
+            },
+            {
+                "Inhibitor": "Talipexole",
+                "IC50 (μM)": null,
+                "Ki (μM)": 66.0,
+                "Substrate used": "Tetraethylammonium",
+                "Cell System": "HEK293-MATE1",
+                "Reference": "Tsuda, 2009"
+            },
+            {
+                "Inhibitor": "Verapamil",
+                "IC50 (μM)": null,
+                "Ki (μM)": 27.5,
+                "Substrate used": "Tetraethylammonium",
+                "Cell System": "HEK293-MATE1",
+                "Reference": "Tsuda, 2009"
+            }
+        ],
+        "substrates": [
+            {
+                "Substrate": "Acyclovir",
+                "Km (μM)": 2640,
+                "Cell System": "HEK293-MATE1",
+                "Reference": "Tanihara, 2007"
+            },
+            {
+                "Substrate": "Cimetidine",
+                "Km (μM)": 170,
+                "Cell System": "HEK293-MATE1",
+                "Reference": "Tanihara, 2007"
+            },
+            {
+                "Substrate": "Estrone 3-sulfate",
+                "Km (μM)": 470,
+                "Cell System": "HEK293-MATE1",
+                "Reference": "Tanihara, 2007"
+            },
+            {
+                "Substrate": "Ganciclovir",
+                "Km (μM)": 5120,
+                "Cell System": "HEK293-MATE1",
+                "Reference": "Tanihara, 2007"
+            },
+            {
+                "Substrate": "Guanidine",
+                "Km (μM)": 2100,
+                "Cell System": "HEK293-MATE1",
+                "Reference": "Tanihara, 2007"
+            },
+            {
+                "Substrate": "Metformin",
+                "Km (μM)": 202,
+                "Cell System": "HeLa-MATE1",
+                "Reference": "Meyer, 2010"
+            },
+            {
+                "Substrate": "Metformin",
+                "Km (μM)": 227,
+                "Cell System": "HEK293-MATE1",
+                "Reference": "Chen, 2009"
+            },
+            {
+                "Substrate": "Metformin",
+                "Km (μM)": 780,
+                "Cell System": "HEK293-MATE1",
+                "Reference": "Tanihara, 2007"
+            },
+            {
+                "Substrate": "N-methylpyridinium",
+                "Km (μM)": 16,
+                "Cell System": "HEK293-MATE1",
+                "Reference": "Otsuka, 2005"
+            },
+            {
+                "Substrate": "N-methylpyridinium",
+                "Km (μM)": 100,
+                "Cell System": "HEK293-MATE1",
+                "Reference": "Tanihara, 2007"
+            },
+            {
+                "Substrate": "Paraquat",
+                "Km (μM)": 169,
+                "Cell System": "HEK293-MATE1",
+                "Reference": "Chen, 2009"
+            },
+            {
+                "Substrate": "Procainamide",
+                "Km (μM)": 1230,
+                "Cell System": "HEK293-MATE1",
+                "Reference": "Tanihara, 2007"
+            },
+            {
+                "Substrate": "Tetraethylammonium",
+                "Km (μM)": 220,
+                "Cell System": "HEK293-MATE1",
+                "Reference": "Otsuka, 2005"
+            },
+            {
+                "Substrate": "Tetraethylammonium",
+                "Km (μM)": 380,
+                "Cell System": "HEK293-MATE1",
+                "Reference": "Xie, 2007"
+            },
+            {
+                "Substrate": "Topotecan",
+                "Km (μM)": 70,
+                "Cell System": "HEK293-MATE1",
+                "Reference": "Tanihara, 2007"
+            }
+        ],
+        "ddi": [
+            {
+                "DDI": "1",
+                "Implicated Transporter": "OCTs/MATEs",
+                "Interacting Drug": "Cetirizine",
+                "Affected Drug": "Pilsicainide",
+                "AUC": "1.4",
+                "Cmax": "NS",
+                "CLR": "ND",
+                "CL/F": "ND",
+                "t1/2": "ND",
+                "Effect on PD": "ND",
+                "Reference": "Tsuruoka, 2006",
+                "More Details": "DDI 1"
+            },
+            {
+                "DDI": "2",
+                "Implicated Transporter": "OCTs/MATEs",
+                "Interacting Drug": "Cimetidine",
+                "Affected Drug": "Cephalexin",
+                "AUC": "NS",
+                "Cmax": "NS",
+                "CLR": "0.8",
+                "CL/F": "0.8",
+                "t1/2": "NS",
+                "Effect on PD": "ND",
+                "Reference": "van, 1986",
+                "More Details": "DDI 2"
+            },
+            {
+                "DDI": "3",
+                "Implicated Transporter": "OCTs/MATEs",
+                "Interacting Drug": "Cimetidine",
+                "Affected Drug": "Dofetilide",
+                "AUC": "1.5",
+                "Cmax": "1.3",
+                "CLR": "0.7",
+                "CL/F": "0.7",
+                "t1/2": "1.3",
+                "Effect on PD": "yes",
+                "Reference": "Abel, 2000",
+                "More Details": "DDI 3"
+            },
+            {
+                "DDI": "4",
+                "Implicated Transporter": "OCTs/MATEs",
+                "Interacting Drug": "Cimetidine",
+                "Affected Drug": "Metformin",
+                "AUC": "1.5",
+                "Cmax": "1.7",
+                "CLR": "0.7",
+                "CL/F": "ND",
+                "t1/2": "ND",
+                "Effect on PD": "ND",
+                "Reference": "Somogyi, 1987",
+                "More Details": "DDI 4"
+            },
+            {
+                "DDI": "5",
+                "Implicated Transporter": "OCTs/MATEs",
+                "Interacting Drug": "Cimetidine",
+                "Affected Drug": "Pilsicainide",
+                "AUC": "1.3",
+                "Cmax": "NS",
+                "CLR": "0.7",
+                "CL/F": "0.7",
+                "t1/2": "1.2",
+                "Effect on PD": "ND",
+                "Reference": "Shiga, 2000",
+                "More Details": "DDI 5"
+            },
+            {
+                "DDI": "6",
+                "Implicated Transporter": "OCTs/MATEs",
+                "Interacting Drug": "Cimetidine",
+                "Affected Drug": "Pindolol (S-enantiomer)",
+                "AUC": "1.4",
+                "Cmax": "1.3",
+                "CLR": "0.7",
+                "CL/F": "ND",
+                "t1/2": "NS",
+                "Effect on PD": "ND",
+                "Reference": "Somogyi, 1992",
+                "More Details": "DDI 6"
+            },
+            {
+                "DDI": "7",
+                "Implicated Transporter": "OCTs/MATEs",
+                "Interacting Drug": "Cimetidine",
+                "Affected Drug": "Procainamide",
+                "AUC": "1.4",
+                "Cmax": "NS",
+                "CLR": "0.6",
+                "CL/F": "ND",
+                "t1/2": "1.3",
+                "Effect on PD": "ND",
+                "Reference": "Somogyi, 1983",
+                "More Details": "DDI 7"
+            },
+            {
+                "DDI": "8",
+                "Implicated Transporter": "OCTs/MATEs",
+                "Interacting Drug": "Cimetidine",
+                "Affected Drug": "Ranitidine",
+                "AUC": "1.3",
+                "Cmax": "NS",
+                "CLR": "0.7",
+                "CL/F": "ND",
+                "t1/2": "1.3",
+                "Effect on PD": "ND",
+                "Reference": "van, 1986",
+                "More Details": "DDI 8"
+            },
+            {
+                "DDI": "9",
+                "Implicated Transporter": "OCTs/MATEs",
+                "Interacting Drug": "Cimetidine",
+                "Affected Drug": "Varenicline",
+                "AUC": "1.3",
+                "Cmax": "ND",
+                "CLR": "0.8",
+                "CL/F": "0.8",
+                "t1/2": "ND",
+                "Effect on PD": "ND",
+                "Reference": "Feng, 2008",
+                "More Details": "DDI 9"
+            },
+            {
+                "DDI": "10",
+                "Implicated Transporter": "MATEs",
+                "Interacting Drug": "Pyrimethamine",
+                "Affected Drug": "Metformin",
+                "AUC": "1.4",
+                "Cmax": "1.4",
+                "CLR": "0.6",
+                "CL/F": "ND",
+                "t1/2": "ND",
+                "Effect on PD": "ND",
+                "Reference": "Kusuhara, 2011",
+                "More Details": "DDI 10"
+            }
+        ]
+    }
+}

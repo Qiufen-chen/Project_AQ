@@ -1,0 +1,15 @@
+Metadata-Version: 1.1
+Name: nosqlbiosets
+Version: 0.0.5
+Summary: Index/query scripts for selected free bioinformatics datasets
+Home-page: https://bitbucket.org/hspsdb/nosql-biosets
+Author: Mahmut Uludag
+Author-email: mahmut.uludag@kaust.edu.sa
+License: MIT License
+Description-Content-Type: UNKNOWN
+Description: UNKNOWN
+Keywords: bioinformatics
+Platform: GNU/Linux
+Platform: Mac OS X
+Classifier: Intended Audience :: Science/Research
+Classifier: Development Status :: 3 - Alpha

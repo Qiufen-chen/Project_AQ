@@ -1,0 +1,22 @@
+language: python
+
+python:
+  - "2.7"
+  - "3.4"
+  - "3.6"
+
+install:
+  - pip install gffutils SQLAlchemy pytz
+  - python setup.py install
+
+script:
+  - pytest tests/test_readers.py
+  - ./nosqlbiosets/uniprot/index.py --help
+  - ./nosqlbiosets/uniprot/query.py --help
+  - ./nosqlbiosets/intenz/index.py --help
+  - ./nosqlbiosets/intenz/query.py --help
+  - ./nosqlbiosets/metanetx/index.py --help
+  - ./hmdb/index.py --help
+  - ./hmdb/drugbank.py --help
+  - ./scripts/nosqlbiosets --help
+  - ./scripts/nosqlbiosets index --help

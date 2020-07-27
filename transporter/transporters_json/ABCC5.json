@@ -1,0 +1,397 @@
+{
+    "ABCC5": {
+        "expression": [
+            {
+                "Organ": "Brain",
+                "Source": "Nishimura",
+                "Relative Expression": "0.0484"
+            },
+            {
+                "Organ": "Kidney*",
+                "Source": "Nishimura",
+                "Relative Expression": "0.0193"
+            },
+            {
+                "Organ": "Liver",
+                "Source": "Nishimura",
+                "Relative Expression": "0.00500"
+            },
+            {
+                "Organ": "Placenta*",
+                "Source": "Nishimura",
+                "Relative Expression": "0.00803"
+            },
+            {
+                "Organ": "Small Intestine",
+                "Source": "Nishimura",
+                "Relative Expression": "0.00820"
+            },
+            {
+                "Organ": "Kidney*",
+                "Source": "Mean across all PMT Samples",
+                "Relative Expression": "10.428"
+            },
+            {
+                "Organ": "Liver",
+                "Source": "Mean across all PMT Samples",
+                "Relative Expression": "BLQ"
+            }
+        ],
+        "inhibitors": [
+            {
+                "Inhibitor": "5-fluorodeoxyuridine monophosphate",
+                "IC50 (μM)": null,
+                "Ki (μM)": 1163.0,
+                "Substrate used": "Carboxydichlorofluorescein",
+                "Cell System": "MRP5-expressing HEK293 vesicles",
+                "Reference": "Pratt, 2006"
+            },
+            {
+                "Inhibitor": "5-nitro-2-(3-phenylpropylamino)-benzoic acid (NPPB)",
+                "IC50 (μM)": 2.0,
+                "Ki (μM)": null,
+                "Substrate used": "5-fluorodeoxyuridine monophosphate",
+                "Cell System": "MRP5-expressing HEK293 vesicles",
+                "Reference": "Pratt, 2005"
+            },
+            {
+                "Inhibitor": "5-nitro-2-(3-phenylpropylamino)-benzoic acid (NPPB)",
+                "IC50 (μM)": 0.102,
+                "Ki (μM)": null,
+                "Substrate used": "Carboxydichlorofluorescein",
+                "Cell System": "MRP5-expressing HEK293 vesicles",
+                "Reference": "Pratt, 2006"
+            },
+            {
+                "Inhibitor": "Benzbromarone",
+                "IC50 (μM)": 150.0,
+                "Ki (μM)": null,
+                "Substrate used": "9-(2-phosphonomethoxyethyl)adenine (PMEA)",
+                "Cell System": "MRP4-expressing HEK293 vesicles",
+                "Reference": "Reid, 2003"
+            },
+            {
+                "Inhibitor": "Cyclic GMP",
+                "IC50 (μM)": 960.0,
+                "Ki (μM)": null,
+                "Substrate used": "5-fluorodeoxyuridine monophosphate",
+                "Cell System": "MRP5-expressing HEK293 vesicles",
+                "Reference": "Pratt, 2005"
+            },
+            {
+                "Inhibitor": "Cyclic GMP",
+                "IC50 (μM)": 4855.5,
+                "Ki (μM)": null,
+                "Substrate used": "Carboxydichlorofluorescein",
+                "Cell System": "MRP5-expressing HEK293 vesicles",
+                "Reference": "Pratt, 2006"
+            },
+            {
+                "Inhibitor": "Dipyridamole",
+                "IC50 (μM)": 30.0,
+                "Ki (μM)": null,
+                "Substrate used": "9-(2-phosphonomethoxyethyl)adenine (PMEA)",
+                "Cell System": "MRP4-expressing HEK293 vesicles",
+                "Reference": "Reid, 2003"
+            },
+            {
+                "Inhibitor": "Glyburide",
+                "IC50 (μM)": 15.0,
+                "Ki (μM)": null,
+                "Substrate used": "5-fluorodeoxyuridine monophosphate",
+                "Cell System": "MRP5-expressing HEK293 vesicles",
+                "Reference": "Pratt, 2005"
+            },
+            {
+                "Inhibitor": "Methotrexate",
+                "IC50 (μM)": 780.0,
+                "Ki (μM)": null,
+                "Substrate used": "5-fluorodeoxyuridine monophosphate",
+                "Cell System": "MRP5-expressing HEK293 vesicles",
+                "Reference": "Pratt, 2005"
+            },
+            {
+                "Inhibitor": "Methotrexate",
+                "IC50 (μM)": null,
+                "Ki (μM)": 1059.0,
+                "Substrate used": "Carboxydichlorofluorescein",
+                "Cell System": "MRP5-expressing HEK293 vesicles",
+                "Reference": "Pratt, 2006"
+            },
+            {
+                "Inhibitor": "MK-571",
+                "IC50 (μM)": 17.0,
+                "Ki (μM)": null,
+                "Substrate used": "5-fluorodeoxyuridine monophosphate",
+                "Cell System": "MRP5-expressing HEK293 vesicles",
+                "Reference": "Pratt, 2005"
+            },
+            {
+                "Inhibitor": "MK-571",
+                "IC50 (μM)": 200.0,
+                "Ki (μM)": null,
+                "Substrate used": "9-(2-phosphonomethoxyethyl)adenine (PMEA)",
+                "Cell System": "MRP4-expressing HEK293 vesicles",
+                "Reference": "Reid, 2003"
+            },
+            {
+                "Inhibitor": "MK-571",
+                "IC50 (μM)": 15.9,
+                "Ki (μM)": null,
+                "Substrate used": "Carboxydichlorofluorescein",
+                "Cell System": "MRP5-expressing HEK293 vesicles",
+                "Reference": "Pratt, 2006"
+            },
+            {
+                "Inhibitor": "Pemetrexed",
+                "IC50 (μM)": 2110.0,
+                "Ki (μM)": null,
+                "Substrate used": "5-fluorodeoxyuridine monophosphate",
+                "Cell System": "MRP5-expressing HEK293 vesicles",
+                "Reference": "Pratt, 2005"
+            },
+            {
+                "Inhibitor": "Pemetrexed",
+                "IC50 (μM)": 442.0,
+                "Ki (μM)": null,
+                "Substrate used": "Carboxydichlorofluorescein",
+                "Cell System": "MRP5-expressing HEK293 vesicles",
+                "Reference": "Pratt, 2006"
+            },
+            {
+                "Inhibitor": "Pemetrexed",
+                "IC50 (μM)": null,
+                "Ki (μM)": 300.0,
+                "Substrate used": "Carboxydichlorofluorescein",
+                "Cell System": "MRP5-expressing HEK293 vesicles",
+                "Reference": "Pratt, 2006"
+            },
+            {
+                "Inhibitor": "Probenecid",
+                "IC50 (μM)": 70.0,
+                "Ki (μM)": null,
+                "Substrate used": "5-fluorodeoxyuridine monophosphate",
+                "Cell System": "MRP5-expressing HEK293 vesicles",
+                "Reference": "Pratt, 2005"
+            },
+            {
+                "Inhibitor": "Probenecid",
+                "IC50 (μM)": 200.0,
+                "Ki (μM)": null,
+                "Substrate used": "9-(2-phosphonomethoxyethyl)adenine (PMEA)",
+                "Cell System": "MRP4-expressing HEK293 vesicles",
+                "Reference": "Reid, 2003"
+            },
+            {
+                "Inhibitor": "Probenecid",
+                "IC50 (μM)": 34.0,
+                "Ki (μM)": null,
+                "Substrate used": "Carboxydichlorofluorescein",
+                "Cell System": "MRP5-expressing HEK293 vesicles",
+                "Reference": "Pratt, 2006"
+            },
+            {
+                "Inhibitor": "Sildenafil",
+                "IC50 (μM)": 580.0,
+                "Ki (μM)": null,
+                "Substrate used": "5-fluorodeoxyuridine monophosphate",
+                "Cell System": "MRP5-expressing HEK293 vesicles",
+                "Reference": "Pratt, 2005"
+            },
+            {
+                "Inhibitor": "Sildenafil",
+                "IC50 (μM)": 80.0,
+                "Ki (μM)": null,
+                "Substrate used": "9-(2-phosphonomethoxyethyl)adenine (PMEA)",
+                "Cell System": "MRP4-expressing HEK293 vesicles",
+                "Reference": "Reid, 2003"
+            },
+            {
+                "Inhibitor": "Sildenafil",
+                "IC50 (μM)": null,
+                "Ki (μM)": 0.267,
+                "Substrate used": "Cyclic GMP",
+                "Cell System": "MRP5-expressing V79 vesicles",
+                "Reference": "Jedlitschky, 2000"
+            },
+            {
+                "Inhibitor": "Sulfinpyrazone",
+                "IC50 (μM)": 300.0,
+                "Ki (μM)": null,
+                "Substrate used": "9-(2-phosphonomethoxyethyl)adenine (PMEA)",
+                "Cell System": "MRP4-expressing HEK293 vesicles",
+                "Reference": "Reid, 2003"
+            },
+            {
+                "Inhibitor": "Sulfinpyrazone",
+                "IC50 (μM)": 103.2,
+                "Ki (μM)": null,
+                "Substrate used": "Carboxydichlorofluorescein",
+                "Cell System": "MRP5-expressing HEK293 vesicles",
+                "Reference": "Pratt, 2006"
+            },
+            {
+                "Inhibitor": "Trequinsin",
+                "IC50 (μM)": 580.0,
+                "Ki (μM)": null,
+                "Substrate used": "5-fluorodeoxyuridine monophosphate",
+                "Cell System": "MRP5-expressing HEK293 vesicles",
+                "Reference": "Pratt, 2005"
+            },
+            {
+                "Inhibitor": "Trequinsin",
+                "IC50 (μM)": 30.0,
+                "Ki (μM)": null,
+                "Substrate used": "9-(2-phosphonomethoxyethyl)adenine (PMEA)",
+                "Cell System": "MRP4-expressing HEK293 vesicles",
+                "Reference": "Reid, 2003"
+            },
+            {
+                "Inhibitor": "Trequinsin",
+                "IC50 (μM)": 218.0,
+                "Ki (μM)": null,
+                "Substrate used": "Carboxydichlorofluorescein",
+                "Cell System": "MRP5-expressing HEK293 vesicles",
+                "Reference": "Pratt, 2006"
+            },
+            {
+                "Inhibitor": "Trequinsin",
+                "IC50 (μM)": null,
+                "Ki (μM)": 0.24,
+                "Substrate used": "Cyclic GMP",
+                "Cell System": "MRP5-expressing V79 vesicles",
+                "Reference": "Jedlitschky, 2000"
+            },
+            {
+                "Inhibitor": "Zaprinast",
+                "IC50 (μM)": 20.0,
+                "Ki (μM)": null,
+                "Substrate used": "5-fluorodeoxyuridine monophosphate",
+                "Cell System": "MRP5-expressing HEK293 vesicles",
+                "Reference": "Pratt, 2005"
+            },
+            {
+                "Inhibitor": "Zaprinast",
+                "IC50 (μM)": 250.0,
+                "Ki (μM)": null,
+                "Substrate used": "9-(2-phosphonomethoxyethyl)adenine (PMEA)",
+                "Cell System": "MRP4-expressing HEK293 vesicles",
+                "Reference": "Reid, 2003"
+            },
+            {
+                "Inhibitor": "Zaprinast",
+                "IC50 (μM)": 32.3,
+                "Ki (μM)": null,
+                "Substrate used": "Carboxydichlorofluorescein",
+                "Cell System": "MRP5-expressing HEK293 vesicles",
+                "Reference": "Pratt, 2006"
+            }
+        ],
+        "substrates": [
+            {
+                "Substrate": "5-fluorodeoxyuridine monophosphate",
+                "Km (μM)": 1100.0,
+                "Cell System": "MRP5-expressing HEK293 vesicles",
+                "Reference": "Pratt, 2005"
+            },
+            {
+                "Substrate": "5-fluorodeoxyuridine monophosphate",
+                "Km (μM)": 1100.0,
+                "Cell System": "MRP5-expressing HEK293 vesicles",
+                "Reference": "Pratt, 2006"
+            },
+            {
+                "Substrate": "Carboxydichlorofluorescein",
+                "Km (μM)": 11.6,
+                "Cell System": "MRP5-expressing HEK293 vesicles",
+                "Reference": "Pratt, 2006"
+            },
+            {
+                "Substrate": "Cyclic AMP",
+                "Km (μM)": 379.0,
+                "Cell System": "MRP5-expressing V79 vesicles",
+                "Reference": "Jedlitschky, 2000"
+            },
+            {
+                "Substrate": "Cyclic GMP",
+                "Km (μM)": 2.1,
+                "Cell System": "MRP5-expressing V79 vesicles",
+                "Reference": "Jedlitschky, 2000"
+            },
+            {
+                "Substrate": "Folic acid",
+                "Km (μM)": 1000.0,
+                "Cell System": "MRP5-expressing HEK293 vesicles",
+                "Reference": "Wielinga, 2005"
+            },
+            {
+                "Substrate": "Methotrexate",
+                "Km (μM)": 1174.0,
+                "Cell System": "MRP5-expressing HEK293 vesicles",
+                "Reference": "Pratt, 2006"
+            },
+            {
+                "Substrate": "Methotrexate",
+                "Km (μM)": 1200.0,
+                "Cell System": "MRP5-expressing HEK293 vesicles",
+                "Reference": "Wielinga, 2005"
+            },
+            {
+                "Substrate": "Methotrexate-glucuronide",
+                "Km (μM)": 700.0,
+                "Cell System": "MRP5-expressing HEK293 vesicles",
+                "Reference": "Wielinga, 2005"
+            },
+            {
+                "Substrate": "Pemetrexed",
+                "Km (μM)": 281.0,
+                "Cell System": "MRP5-expressing HEK293 vesicles",
+                "Reference": "Pratt, 2006"
+            }
+        ],
+        "ddi": [
+            {
+                "DDI": "1",
+                "Implicated Transporter": "MRPs",
+                "Interacting Drug": "Probenecid",
+                "Affected Drug": "Cefmetazole",
+                "AUC": "1.6",
+                "Cmax": "NS",
+                "CLR": "0.6",
+                "CL/F": "0.6",
+                "t1/2": "1.5",
+                "Effect on PD": "ND",
+                "Reference": "Ko, 1989",
+                "More Details": "DDI 1"
+            },
+            {
+                "DDI": "2",
+                "Implicated Transporter": "OATs/MRPs",
+                "Interacting Drug": "Probenecid",
+                "Affected Drug": "Ciprofloxacin",
+                "AUC": "1.7",
+                "Cmax": "NS",
+                "CLR": "0.4",
+                "CL/F": "0.6",
+                "t1/2": "1.5",
+                "Effect on PD": "ND",
+                "Reference": "Jaehde, 1995",
+                "More Details": "DDI 2"
+            },
+            {
+                "DDI": "3",
+                "Implicated Transporter": "OATs/MRPs",
+                "Interacting Drug": "Probenecid",
+                "Affected Drug": "Furosemide",
+                "AUC": "2.7",
+                "Cmax": "1.5",
+                "CLR": "0.3",
+                "CL/F": "0.4",
+                "t1/2": "1.7",
+                "Effect on PD": "ND",
+                "Reference": "Vree, 1995",
+                "More Details": "DDI 3"
+            }
+        ]
+    }
+}

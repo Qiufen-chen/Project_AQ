@@ -1,0 +1,843 @@
+{
+    "SLC22A1": {
+        "expression": [
+            {
+                "Organ": "Brain",
+                "Source": "Nishimura",
+                "Relative Expression": 7.06e-05
+            },
+            {
+                "Organ": "Kidney",
+                "Source": "Nishimura",
+                "Relative Expression": 0.00389
+            },
+            {
+                "Organ": "Liver*",
+                "Source": "Nishimura",
+                "Relative Expression": 2.23
+            },
+            {
+                "Organ": "Placenta",
+                "Source": "Nishimura",
+                "Relative Expression": 8.3e-05
+            },
+            {
+                "Organ": "Small Intestine*",
+                "Source": "Nishimura",
+                "Relative Expression": 2.41e-05
+            },
+            {
+                "Organ": "Liver*",
+                "Source": "Mean across all PMT Samples",
+                "Relative Expression": 322.166
+            },
+            {
+                "Organ": "Kidney",
+                "Source": "Mean across all PMT Samples",
+                "Relative Expression": 0.876
+            }
+        ],
+        "inhibitors": [
+            {
+                "Inhibitor": "3,4-methylenedioxymetamphetamine (MDMA)",
+                "IC50 (μM)": null,
+                "Ki (μM)": 24.2,
+                "Substrate used": "N-methylpyridinium",
+                "Cell System": "HEK293-OCT1",
+                "Reference": "Amphoux, 2006"
+            },
+            {
+                "Inhibitor": "Amantadine",
+                "IC50 (μM)": null,
+                "Ki (μM)": 236.0,
+                "Substrate used": "N-methylpyridinium",
+                "Cell System": "HEK293-OCT1",
+                "Reference": "Amphoux, 2006"
+            },
+            {
+                "Inhibitor": "Amantadine",
+                "IC50 (μM)": 39.6,
+                "Ki (μM)": null,
+                "Substrate used": "YM155",
+                "Cell System": "HEK293-OCT1",
+                "Reference": "Minematsu, 2010"
+            },
+            {
+                "Inhibitor": "Amitriptyline",
+                "IC50 (μM)": 6.99,
+                "Ki (μM)": null,
+                "Substrate used": "Metformin",
+                "Cell System": "HEK293-OCT1",
+                "Reference": "Ahlin, 2010"
+            },
+            {
+                "Inhibitor": "Atropine",
+                "IC50 (μM)": 1.2,
+                "Ki (μM)": null,
+                "Substrate used": "N-methylpyridinium",
+                "Cell System": "HEK293-OCT1",
+                "Reference": "Muller, 2005"
+            },
+            {
+                "Inhibitor": "Butylscopolamine",
+                "IC50 (μM)": 16.0,
+                "Ki (μM)": null,
+                "Substrate used": "N-methylpyridinium",
+                "Cell System": "HEK293-OCT1",
+                "Reference": "Muller, 2005"
+            },
+            {
+                "Inhibitor": "Cimetidine",
+                "IC50 (μM)": 149.0,
+                "Ki (μM)": null,
+                "Substrate used": "YM155",
+                "Cell System": "HEK293-OCT1",
+                "Reference": "Minematsu, 2010"
+            },
+            {
+                "Inhibitor": "Clonidine",
+                "IC50 (μM)": 6.5,
+                "Ki (μM)": null,
+                "Substrate used": "N-methylpyridinium",
+                "Cell System": "HEK293-OCT1",
+                "Reference": "Muller, 2005"
+            },
+            {
+                "Inhibitor": "Clonidine",
+                "IC50 (μM)": null,
+                "Ki (μM)": 0.55,
+                "Substrate used": "Tetraethylammonium",
+                "Cell System": "HeLa-OCT1",
+                "Reference": "Zhang, 1998"
+            },
+            {
+                "Inhibitor": "Cocaine",
+                "IC50 (μM)": null,
+                "Ki (μM)": 85.0,
+                "Substrate used": "N-methylpyridinium",
+                "Cell System": "HEK293-OCT1",
+                "Reference": "Amphoux, 2006"
+            },
+            {
+                "Inhibitor": "Corticosterone",
+                "IC50 (μM)": 8.89,
+                "Ki (μM)": null,
+                "Substrate used": "YM155",
+                "Cell System": "HEK293-OCT1",
+                "Reference": "Minematsu, 2010"
+            },
+            {
+                "Inhibitor": "D-Amphetamine",
+                "IC50 (μM)": null,
+                "Ki (μM)": 202.0,
+                "Substrate used": "N-methylpyridinium",
+                "Cell System": "HEK293-OCT1",
+                "Reference": "Amphoux, 2006"
+            },
+            {
+                "Inhibitor": "Decynium-22",
+                "IC50 (μM)": 21.9,
+                "Ki (μM)": null,
+                "Substrate used": "Tetraethylammonium",
+                "Cell System": "OCT1-expressing oocytes",
+                "Reference": "Okuda, 1999"
+            },
+            {
+                "Inhibitor": "Decynium-22",
+                "IC50 (μM)": null,
+                "Ki (μM)": 2.73,
+                "Substrate used": "Tetraethylammonium",
+                "Cell System": "HeLa-OCT1",
+                "Reference": "Zhang, 1998"
+            },
+            {
+                "Inhibitor": "Diphenhydramine",
+                "IC50 (μM)": 3.4,
+                "Ki (μM)": null,
+                "Substrate used": "N-methylpyridinium",
+                "Cell System": "HEK293-OCT1",
+                "Reference": "Muller, 2005"
+            },
+            {
+                "Inhibitor": "Disopyramide",
+                "IC50 (μM)": 81.7,
+                "Ki (μM)": null,
+                "Substrate used": "4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)",
+                "Cell System": "HEK293-OCT1",
+                "Reference": "Ahlin, 2008"
+            },
+            {
+                "Inhibitor": "Etilefrine",
+                "IC50 (μM)": 447.0,
+                "Ki (μM)": null,
+                "Substrate used": "N-methylpyridinium",
+                "Cell System": "HEK293-OCT1",
+                "Reference": "Muller, 2005"
+            },
+            {
+                "Inhibitor": "Famotidine",
+                "IC50 (μM)": 28.0,
+                "Ki (μM)": null,
+                "Substrate used": "N-methylpyridinium",
+                "Cell System": "OCT1-expressing oocytes",
+                "Reference": "Bourdet, 2005"
+            },
+            {
+                "Inhibitor": "Furamidine",
+                "IC50 (μM)": 7.4,
+                "Ki (μM)": null,
+                "Substrate used": "N-methylpyridinium",
+                "Cell System": "CHO-OCT1",
+                "Reference": "Ming, 2009"
+            },
+            {
+                "Inhibitor": "Glyburide",
+                "IC50 (μM)": 199.0,
+                "Ki (μM)": null,
+                "Substrate used": "Metformin",
+                "Cell System": "HEK293-OCT1",
+                "Reference": "Ahlin, 2010"
+            },
+            {
+                "Inhibitor": "Indinavir",
+                "IC50 (μM)": 61.7,
+                "Ki (μM)": null,
+                "Substrate used": "Tetraethylammonium",
+                "Cell System": "HeLa-OCT1",
+                "Reference": "Zhang, 2000"
+            },
+            {
+                "Inhibitor": "Ketamine",
+                "IC50 (μM)": null,
+                "Ki (μM)": 114.5,
+                "Substrate used": "N-methylpyridinium",
+                "Cell System": "HEK293-OCT1",
+                "Reference": "Amphoux, 2006"
+            },
+            {
+                "Inhibitor": "Memantine",
+                "IC50 (μM)": null,
+                "Ki (μM)": 3.7,
+                "Substrate used": "N-methylpyridinium",
+                "Cell System": "HEK293-OCT1",
+                "Reference": "Amphoux, 2006"
+            },
+            {
+                "Inhibitor": "Metformin",
+                "IC50 (μM)": 1231.0,
+                "Ki (μM)": null,
+                "Substrate used": "N-methylpyridinium",
+                "Cell System": "OCT1-expressing oocytes",
+                "Reference": "Bourdet, 2005"
+            },
+            {
+                "Inhibitor": "Metformin",
+                "IC50 (μM)": null,
+                "Ki (μM)": 493.0,
+                "Substrate used": "N-methylpyridinium",
+                "Cell System": "HEK293-OCT1",
+                "Reference": "Umehara, 2007"
+            },
+            {
+                "Inhibitor": "Metformin",
+                "IC50 (μM)": null,
+                "Ki (μM)": 2820.0,
+                "Substrate used": "Tetraethylammonium",
+                "Cell System": "HEK293-OCT1",
+                "Reference": "Umehara, 2007"
+            },
+            {
+                "Inhibitor": "Midazolam",
+                "IC50 (μM)": null,
+                "Ki (μM)": 3.7,
+                "Substrate used": "Tetraethylammonium",
+                "Cell System": "HeLa-OCT1",
+                "Reference": "Zhang, 1998"
+            },
+            {
+                "Inhibitor": "MK-801",
+                "IC50 (μM)": null,
+                "Ki (μM)": 80.5,
+                "Substrate used": "N-methylpyridinium",
+                "Cell System": "HEK293-OCT1",
+                "Reference": "Amphoux, 2006"
+            },
+            {
+                "Inhibitor": "N-methylpyridinium",
+                "IC50 (μM)": 30.4,
+                "Ki (μM)": null,
+                "Substrate used": "YM155",
+                "Cell System": "HEK293-OCT1",
+                "Reference": "Minematsu, 2010"
+            },
+            {
+                "Inhibitor": "Nelfinavir",
+                "IC50 (μM)": 21.8,
+                "Ki (μM)": null,
+                "Substrate used": "Tetraethylammonium",
+                "Cell System": "HeLa-OCT1",
+                "Reference": "Zhang, 2000"
+            },
+            {
+                "Inhibitor": "Pentamidine",
+                "IC50 (μM)": 16.4,
+                "Ki (μM)": null,
+                "Substrate used": "N-methylpyridinium",
+                "Cell System": "CHO-OCT1",
+                "Reference": "Ming, 2009"
+            },
+            {
+                "Inhibitor": "Phencyclidine",
+                "IC50 (μM)": null,
+                "Ki (μM)": 4.4,
+                "Substrate used": "N-methylpyridinium",
+                "Cell System": "HEK293-OCT1",
+                "Reference": "Amphoux, 2006"
+            },
+            {
+                "Inhibitor": "Phenformin",
+                "IC50 (μM)": null,
+                "Ki (μM)": 13.0,
+                "Substrate used": "N-methylpyridinium",
+                "Cell System": "HEK293-OCT1",
+                "Reference": "Umehara, 2007"
+            },
+            {
+                "Inhibitor": "Phenformin",
+                "IC50 (μM)": null,
+                "Ki (μM)": 23.0,
+                "Substrate used": "Tetraethylammonium",
+                "Cell System": "HEK293-OCT1",
+                "Reference": "Umehara, 2007"
+            },
+            {
+                "Inhibitor": "Phenoxy-benzamine",
+                "IC50 (μM)": 15.1,
+                "Ki (μM)": null,
+                "Substrate used": "4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)",
+                "Cell System": "HEK293-OCT1",
+                "Reference": "Ahlin, 2008"
+            },
+            {
+                "Inhibitor": "Pioglitazone",
+                "IC50 (μM)": 185.0,
+                "Ki (μM)": null,
+                "Substrate used": "Metformin",
+                "Cell System": "HEK293-OCT1",
+                "Reference": "Ahlin, 2010"
+            },
+            {
+                "Inhibitor": "Prazosin",
+                "IC50 (μM)": 1.56,
+                "Ki (μM)": null,
+                "Substrate used": "YM155",
+                "Cell System": "HEK293-OCT1",
+                "Reference": "Minematsu, 2010"
+            },
+            {
+                "Inhibitor": "Procainamide",
+                "IC50 (μM)": 51.3,
+                "Ki (μM)": null,
+                "Substrate used": "YM155",
+                "Cell System": "HEK293-OCT1",
+                "Reference": "Minematsu, 2010"
+            },
+            {
+                "Inhibitor": "Quinidine",
+                "IC50 (μM)": 5.7,
+                "Ki (μM)": null,
+                "Substrate used": "N-methylpyridinium",
+                "Cell System": "CHO-OCT1",
+                "Reference": "Ming, 2009"
+            },
+            {
+                "Inhibitor": "Quinidine",
+                "IC50 (μM)": 6.7,
+                "Ki (μM)": null,
+                "Substrate used": "N-methylpyridinium",
+                "Cell System": "OCT1-expressing oocytes",
+                "Reference": "Bourdet, 2005"
+            },
+            {
+                "Inhibitor": "Quinidine",
+                "IC50 (μM)": null,
+                "Ki (μM)": 17.5,
+                "Substrate used": "Tetraethylammonium",
+                "Cell System": "HeLa-OCT1",
+                "Reference": "Zhang, 1998"
+            },
+            {
+                "Inhibitor": "Quinidine",
+                "IC50 (μM)": 7.11,
+                "Ki (μM)": null,
+                "Substrate used": "YM155",
+                "Cell System": "HEK293-OCT1",
+                "Reference": "Minematsu, 2010"
+            },
+            {
+                "Inhibitor": "Quinine",
+                "IC50 (μM)": 13.0,
+                "Ki (μM)": null,
+                "Substrate used": "N-methylpyridinium",
+                "Cell System": "HEK293-OCT1",
+                "Reference": "Muller, 2005"
+            },
+            {
+                "Inhibitor": "Quinine",
+                "IC50 (μM)": null,
+                "Ki (μM)": 22.9,
+                "Substrate used": "Tetraethylammonium",
+                "Cell System": "HeLa-OCT1",
+                "Reference": "Zhang, 1998"
+            },
+            {
+                "Inhibitor": "R-(-)-disopyramide",
+                "IC50 (μM)": 15.4,
+                "Ki (μM)": null,
+                "Substrate used": "Tetraethylammonium",
+                "Cell System": "HeLa-OCT1",
+                "Reference": "Zhang, 1998"
+            },
+            {
+                "Inhibitor": "Ranitidine",
+                "IC50 (μM)": 28.0,
+                "Ki (μM)": null,
+                "Substrate used": "N-methylpyridinium",
+                "Cell System": "HEK293-OCT1",
+                "Reference": "Muller, 2005"
+            },
+            {
+                "Inhibitor": "Ranitidine",
+                "IC50 (μM)": 33.0,
+                "Ki (μM)": null,
+                "Substrate used": "N-methylpyridinium",
+                "Cell System": "OCT1-expressing oocytes",
+                "Reference": "Bourdet, 2005"
+            },
+            {
+                "Inhibitor": "Repaglinide",
+                "IC50 (μM)": 1.6,
+                "Ki (μM)": null,
+                "Substrate used": "Metformin",
+                "Cell System": "MDCK II-OCT1",
+                "Reference": "Bachmakov, 2008"
+            },
+            {
+                "Inhibitor": "Repaglinide",
+                "IC50 (μM)": 1.8,
+                "Ki (μM)": null,
+                "Substrate used": "N-methylpyridinium",
+                "Cell System": "MDCK II-OCT1",
+                "Reference": "Bachmakov, 2008"
+            },
+            {
+                "Inhibitor": "Ritonavir",
+                "IC50 (μM)": 14.0,
+                "Ki (μM)": null,
+                "Substrate used": "N-methylpyridinium",
+                "Cell System": "HEK293-OCT1",
+                "Reference": "Jung, 2008"
+            },
+            {
+                "Inhibitor": "Ritonavir",
+                "IC50 (μM)": 5.18,
+                "Ki (μM)": null,
+                "Substrate used": "Tetraethylammonium",
+                "Cell System": "HeLa-OCT1",
+                "Reference": "Zhang, 2000"
+            },
+            {
+                "Inhibitor": "Rosiglitazone",
+                "IC50 (μM)": 6.9,
+                "Ki (μM)": null,
+                "Substrate used": "Metformin",
+                "Cell System": "MDCK II-OCT1",
+                "Reference": "Bachmakov, 2008"
+            },
+            {
+                "Inhibitor": "Rosiglitazone",
+                "IC50 (μM)": 30.4,
+                "Ki (μM)": null,
+                "Substrate used": "N-methylpyridinium",
+                "Cell System": "MDCK II-OCT1",
+                "Reference": "Bachmakov, 2008"
+            },
+            {
+                "Inhibitor": "S-(+)-disopyramide",
+                "IC50 (μM)": 29.9,
+                "Ki (μM)": null,
+                "Substrate used": "Tetraethylammonium",
+                "Cell System": "HeLa-OCT1",
+                "Reference": "Zhang, 1998"
+            },
+            {
+                "Inhibitor": "Saquinavir",
+                "IC50 (μM)": 8.26,
+                "Ki (μM)": null,
+                "Substrate used": "Tetraethylammonium",
+                "Cell System": "HeLa-OCT1",
+                "Reference": "Zhang, 2000"
+            },
+            {
+                "Inhibitor": "Simvastatin",
+                "IC50 (μM)": 89.0,
+                "Ki (μM)": null,
+                "Substrate used": "Metformin",
+                "Cell System": "HEK293-OCT1",
+                "Reference": "Ahlin, 2010"
+            },
+            {
+                "Inhibitor": "Tetraethylammonium",
+                "IC50 (μM)": 216.0,
+                "Ki (μM)": null,
+                "Substrate used": "N-methylpyridinium",
+                "Cell System": "OCT1-expressing oocytes",
+                "Reference": "Bourdet, 2005"
+            },
+            {
+                "Inhibitor": "Tetraethylammonium",
+                "IC50 (μM)": 469.7,
+                "Ki (μM)": null,
+                "Substrate used": "N-methylpyridinium",
+                "Cell System": "CHO-OCT1",
+                "Reference": "Ming, 2009"
+            },
+            {
+                "Inhibitor": "Tetraethylammonium",
+                "IC50 (μM)": null,
+                "Ki (μM)": 158.0,
+                "Substrate used": "N-methylpyridinium",
+                "Cell System": "OCT1-expressing oocytes",
+                "Reference": "Dresser, 2000"
+            },
+            {
+                "Inhibitor": "Tetraethylammonium",
+                "IC50 (μM)": 167.0,
+                "Ki (μM)": null,
+                "Substrate used": "Tetraethylammonium",
+                "Cell System": "OCT1-expressing oocytes",
+                "Reference": "Okuda, 1999"
+            },
+            {
+                "Inhibitor": "Tubocurarine",
+                "IC50 (μM)": 62.4,
+                "Ki (μM)": null,
+                "Substrate used": "YM155",
+                "Cell System": "HEK293-OCT1",
+                "Reference": "Minematsu, 2010"
+            },
+            {
+                "Inhibitor": "Verapamil",
+                "IC50 (μM)": 0.62,
+                "Ki (μM)": null,
+                "Substrate used": "Metformin",
+                "Cell System": "HEK293-OCT1",
+                "Reference": "Ahlin, 2010"
+            },
+            {
+                "Inhibitor": "Verapamil (racemic)",
+                "IC50 (μM)": null,
+                "Ki (μM)": 2.9,
+                "Substrate used": "Tetraethylammonium",
+                "Cell System": "HeLa-OCT1",
+                "Reference": "Zhang, 1998"
+            },
+            {
+                "Inhibitor": "Verapamil (racemic)",
+                "IC50 (μM)": 1.23,
+                "Ki (μM)": null,
+                "Substrate used": "YM155",
+                "Cell System": "HEK293-OCT1",
+                "Reference": "Minematsu, 2010"
+            },
+            {
+                "Inhibitor": "YM155",
+                "IC50 (μM)": 23.8,
+                "Ki (μM)": null,
+                "Substrate used": "N-methylpyridinium",
+                "Cell System": "HEK293-OCT1",
+                "Reference": "Minematsu, 2010"
+            }
+        ],
+        "substrates": [
+            {
+                "Substrate": "4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)",
+                "Km (μM)": "9.21",
+                "Cell System": "HEK293-OCT1",
+                "Reference": "Ahlin, 2010"
+            },
+            {
+                "Substrate": "Acyclovir",
+                "Km (μM)": "151.2",
+                "Cell System": "S2-OCT1",
+                "Reference": "Takeda, 2002"
+            },
+            {
+                "Substrate": "Furamidine",
+                "Km (μM)": "6.1",
+                "Cell System": "CHO-OCT1",
+                "Reference": "Ming, 2009"
+            },
+            {
+                "Substrate": "Ganciclovir",
+                "Km (μM)": "516.2",
+                "Cell System": "S2-OCT1",
+                "Reference": "Takeda, 2002"
+            },
+            {
+                "Substrate": "Metformin*",
+                "Km (μM)": "1060",
+                "Cell System": "HEK293-OCT1",
+                "Reference": "Choi, 2007"
+            },
+            {
+                "Substrate": "Metformin*",
+                "Km (μM)": "1470",
+                "Cell System": "HEK293-OCT1",
+                "Reference": "Kimura, 2005"
+            },
+            {
+                "Substrate": "Metformin*",
+                "Km (μM)": "2160",
+                "Cell System": "CHO-OCT1",
+                "Reference": "Nies, 2009"
+            },
+            {
+                "Substrate": "Metformin*",
+                "Km (μM)": "5450",
+                "Cell System": "HEK293-OCT1",
+                "Reference": "Ahlin, 2010"
+            },
+            {
+                "Substrate": "N-methylpyridinium",
+                "Km (μM)": "14.6",
+                "Cell System": "OCT1-expressing oocytes",
+                "Reference": "Zhang, 1997"
+            },
+            {
+                "Substrate": "N-methylpyridinium",
+                "Km (μM)": "21",
+                "Cell System": "MDCK II-OCT1",
+                "Reference": "Bachmakov, 2008"
+            },
+            {
+                "Substrate": "Oxaliplatin",
+                "Km (μM)": "ND",
+                "Cell System": "MDCK-OCT1",
+                "Reference": "Zhang, 2006"
+            },
+            {
+                "Substrate": "Pentamidine",
+                "Km (μM)": "36.4",
+                "Cell System": "CHO-OCT1",
+                "Reference": "Ming, 2009"
+            },
+            {
+                "Substrate": "Prostaglandin E2",
+                "Km (μM)": "0.657",
+                "Cell System": "S2-OCT1",
+                "Reference": "Kimura, 2002"
+            },
+            {
+                "Substrate": "Prostaglandin F2alpha",
+                "Km (μM)": "0.477",
+                "Cell System": "S2-OCT1",
+                "Reference": "Kimura, 2002"
+            },
+            {
+                "Substrate": "Ranitidine",
+                "Km (μM)": "70",
+                "Cell System": "OCT1-expressing oocytes",
+                "Reference": "Bourdet, 2005"
+            },
+            {
+                "Substrate": "Tetraethylammonium",
+                "Km (μM)": "229",
+                "Cell System": "HeLa-OCT1",
+                "Reference": "Zhang, 1998"
+            },
+            {
+                "Substrate": "Tetraethylammonium",
+                "Km (μM)": "566",
+                "Cell System": "S2-OCT1",
+                "Reference": "Iwai, 2009"
+            },
+            {
+                "Substrate": "YM155",
+                "Km (μM)": "22.1",
+                "Cell System": "HEK293-OCT1",
+                "Reference": "Minematsu, 2010"
+            }
+        ],
+        "ddi": [
+            {
+                "DDI": "1",
+                "Implicated Transporter": "OCTs/MATEs",
+                "Interacting Drug": "Cetirizine",
+                "Affected Drug": "Pilsicainide",
+                "AUC": "1.4",
+                "Cmax": "NS",
+                "CLR": "ND",
+                "CL/F": "ND",
+                "t1/2": "ND",
+                "Effect on PD": "ND",
+                "Reference": "Tsuruoka, 2006",
+                "More Details": "DDI 1"
+            },
+            {
+                "DDI": "2",
+                "Implicated Transporter": "OCTs/MATEs",
+                "Interacting Drug": "Cimetidine",
+                "Affected Drug": "Cephalexin",
+                "AUC": "NS",
+                "Cmax": "NS",
+                "CLR": "0.8",
+                "CL/F": "0.8",
+                "t1/2": "NS",
+                "Effect on PD": "ND",
+                "Reference": "van, 1986",
+                "More Details": "DDI 2"
+            },
+            {
+                "DDI": "3",
+                "Implicated Transporter": "OCTs/MATEs",
+                "Interacting Drug": "Cimetidine",
+                "Affected Drug": "Dofetilide",
+                "AUC": "1.5",
+                "Cmax": "1.3",
+                "CLR": "0.7",
+                "CL/F": "0.7",
+                "t1/2": "1.3",
+                "Effect on PD": "yes",
+                "Reference": "Abel, 2000",
+                "More Details": "DDI 3"
+            },
+            {
+                "DDI": "4",
+                "Implicated Transporter": "OCTs/MATEs",
+                "Interacting Drug": "Cimetidine",
+                "Affected Drug": "Metformin",
+                "AUC": "1.5",
+                "Cmax": "1.7",
+                "CLR": "0.7",
+                "CL/F": "ND",
+                "t1/2": "ND",
+                "Effect on PD": "ND",
+                "Reference": "Somogyi, 1987",
+                "More Details": "DDI 4"
+            },
+            {
+                "DDI": "5",
+                "Implicated Transporter": "OCTs/MATEs",
+                "Interacting Drug": "Cimetidine",
+                "Affected Drug": "Pilsicainide",
+                "AUC": "1.3",
+                "Cmax": "NS",
+                "CLR": "0.7",
+                "CL/F": "0.7",
+                "t1/2": "1.2",
+                "Effect on PD": "ND",
+                "Reference": "Shiga, 2000",
+                "More Details": "DDI 5"
+            },
+            {
+                "DDI": "6",
+                "Implicated Transporter": "OCTs/MATEs",
+                "Interacting Drug": "Cimetidine",
+                "Affected Drug": "Pindolol (S-enantiomer)",
+                "AUC": "1.4",
+                "Cmax": "1.3",
+                "CLR": "0.7",
+                "CL/F": "ND",
+                "t1/2": "NS",
+                "Effect on PD": "ND",
+                "Reference": "Somogyi, 1992",
+                "More Details": "DDI 6"
+            },
+            {
+                "DDI": "7",
+                "Implicated Transporter": "OCTs/MATEs",
+                "Interacting Drug": "Cimetidine",
+                "Affected Drug": "Procainamide",
+                "AUC": "1.4",
+                "Cmax": "NS",
+                "CLR": "0.6",
+                "CL/F": "ND",
+                "t1/2": "1.3",
+                "Effect on PD": "ND",
+                "Reference": "Somogyi, 1983",
+                "More Details": "DDI 7"
+            },
+            {
+                "DDI": "8",
+                "Implicated Transporter": "OCTs/MATEs",
+                "Interacting Drug": "Cimetidine",
+                "Affected Drug": "Ranitidine",
+                "AUC": "1.3",
+                "Cmax": "NS",
+                "CLR": "0.7",
+                "CL/F": "ND",
+                "t1/2": "1.3",
+                "Effect on PD": "ND",
+                "Reference": "van, 1986",
+                "More Details": "DDI 8"
+            },
+            {
+                "DDI": "9",
+                "Implicated Transporter": "OCTs/MATEs",
+                "Interacting Drug": "Cimetidine",
+                "Affected Drug": "Varenicline",
+                "AUC": "1.3",
+                "Cmax": "ND",
+                "CLR": "0.8",
+                "CL/F": "0.8",
+                "t1/2": "ND",
+                "Effect on PD": "ND",
+                "Reference": "Feng, 2008",
+                "More Details": "DDI 9"
+            },
+            {
+                "DDI": "10",
+                "Implicated Transporter": "OATs/OCTs",
+                "Interacting Drug": "Cotrimoxazole (trimethoprim/sulfamethoxazole)",
+                "Affected Drug": "Apricitabine",
+                "AUC": "1.7",
+                "Cmax": "1.3",
+                "CLR": "0.6",
+                "CL/F": "0.6",
+                "t1/2": "1.4",
+                "Effect on PD": "ND",
+                "Reference": "Shiveley, 2008",
+                "More Details": "DDI 10"
+            },
+            {
+                "DDI": "11",
+                "Implicated Transporter": "OATs/OCTs",
+                "Interacting Drug": "Cotrimoxazole (trimethoprim/sulfamethoxazole)",
+                "Affected Drug": "Zidovudine",
+                "AUC": "NS",
+                "Cmax": "ND",
+                "CLR": "0.4",
+                "CL/F": "NS",
+                "t1/2": "NS",
+                "Effect on PD": "ND",
+                "Reference": "Chatton, 1992",
+                "More Details": "DDI 11"
+            },
+            {
+                "DDI": "12",
+                "Implicated Transporter": "OCTs",
+                "Interacting Drug": "Trimethoprim",
+                "Affected Drug": "Zidovudine",
+                "AUC": "NS",
+                "Cmax": "ND",
+                "CLR": "0.5",
+                "CL/F": "NS",
+                "t1/2": "NS",
+                "Effect on PD": "ND",
+                "Reference": "Chatton, 1992",
+                "More Details": "DDI 12"
+            }
+        ]
+    }
+}

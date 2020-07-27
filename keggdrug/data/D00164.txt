@@ -1,0 +1,10 @@
+dr:D00164	dr:D00094	CI	Target: RARA RARA RARB RARG
+dr:D00164	dr:D00316	CI	Target: RARA RARB RARG
+dr:D00164	dr:D00491	P	Enzyme: CYP2C8
+dr:D00164	dr:D00769	P	CYP inhibition: CYP2C8
+dr:D00164	dr:D00850	P	unclassified
+dr:D00164	dr:D01418	CI	Target: RARA
+dr:D00164	dr:D01516	CI	Target: RARA RARB RARG
+dr:D00164	dr:D03106	CI	unclassified
+dr:D00164	dr:D04024	P	Enzyme: CYP2C8
+dr:D00164	dr:D10513	P	CYP inhibition: CYP2C8

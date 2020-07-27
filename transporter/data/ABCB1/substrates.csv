@@ -1,0 +1,33 @@
+Substrate,Km (μM),Cell System,Reference,Substrate_link,Reference_link
+Berberine,>300,Caco-2,"Maeng, 2002",http://transportal.compbio.ucsf.edu/compounds/berberine/,http://www.ncbi.nlm.nih.gov/pubmed/12434406
+Biotin,13,MDCK-MDR1,"Luo, 2006",http://transportal.compbio.ucsf.edu/compounds/biotin/,http://www.ncbi.nlm.nih.gov/pubmed/16749865
+Colchicine,1640,Caco-2,"Troutman, 2003",http://transportal.compbio.ucsf.edu/compounds/colchicine/,http://www.ncbi.nlm.nih.gov/pubmed/12948018
+Dexamethasone,826,ATPase assay of Sf9-MDR1 liposomes,"Kimura, 2007",http://transportal.compbio.ucsf.edu/compounds/dexamethasone/,http://www.ncbi.nlm.nih.gov/pubmed/17029589
+Digoxin*,73,Caco-2,"Collett, 2004",http://transportal.compbio.ucsf.edu/compounds/digoxin/,http://www.ncbi.nlm.nih.gov/pubmed/15180340
+Digoxin*,177,Caco-2,"Troutman, 2003",http://transportal.compbio.ucsf.edu/compounds/digoxin/,http://www.ncbi.nlm.nih.gov/pubmed/12948018
+Digoxin*,181,ATPase assay of Sf9-MDR1 liposomes,"Kimura, 2007",http://transportal.compbio.ucsf.edu/compounds/digoxin/,http://www.ncbi.nlm.nih.gov/pubmed/17029589
+Doxorubicin,ND,MDR1 transfected LLC-PK1,"Woodahl, 2009",http://transportal.compbio.ucsf.edu/compounds/doxorubicin/,http://www.ncbi.nlm.nih.gov/pubmed/19123050
+Etoposide,255,MDCK II-MDR1,"Guo, 2002",http://transportal.compbio.ucsf.edu/compounds/etoposide/,http://www.ncbi.nlm.nih.gov/pubmed/11901101
+Etoposide,461,Caco-2,"Troutman, 2003",http://transportal.compbio.ucsf.edu/compounds/etoposide/,http://www.ncbi.nlm.nih.gov/pubmed/12948018
+Fexofenadine,150,Caco-2,"Petri, 2004",http://transportal.compbio.ucsf.edu/compounds/fexofenadine/,http://www.ncbi.nlm.nih.gov/pubmed/15359574
+Indinavir,0.47,ATPase assay of High Five-MDR1 membranes,"Lee, 1998",http://transportal.compbio.ucsf.edu/compounds/indinavir/,http://www.ncbi.nlm.nih.gov/pubmed/9530286
+Irinotecan,45.5,MDCK II-MDR1,"Luo, 2002",http://transportal.compbio.ucsf.edu/compounds/irinotecan/,http://www.ncbi.nlm.nih.gov/pubmed/12065434
+Irinotecan,116.1,Caco-2,"Luo, 2002",http://transportal.compbio.ucsf.edu/compounds/irinotecan/,http://www.ncbi.nlm.nih.gov/pubmed/12065434
+Loperamide*,11.4,Sf9-MDR1 ATPase assay,"Feng, 2008",http://transportal.compbio.ucsf.edu/compounds/loperamide/,http://www.ncbi.nlm.nih.gov/pubmed/17962372
+Nicardipine,2.6,ATPase assay of Sf9-MDR1 liposomes,"Kimura, 2007",http://transportal.compbio.ucsf.edu/compounds/nicardipine/,http://www.ncbi.nlm.nih.gov/pubmed/17029589
+Paclitaxel,1.4,ATPase assay of Sf9-MDR1 liposomes,"Kimura, 2007",http://transportal.compbio.ucsf.edu/compounds/paclitaxel/,http://www.ncbi.nlm.nih.gov/pubmed/17029589
+Paclitaxel,65.0,Caco-2,"Collett, 2004",http://transportal.compbio.ucsf.edu/compounds/paclitaxel/,http://www.ncbi.nlm.nih.gov/pubmed/15180340
+Rhodamine 123,21,ATPase assay of Sf9-MDR1 liposomes,"Kimura, 2007",http://transportal.compbio.ucsf.edu/compounds/rhodamine-123/,http://www.ncbi.nlm.nih.gov/pubmed/17029589
+Ritonavir,0.8,MDR1 transfected LLC-PK1,"Woodahl, 2005",http://transportal.compbio.ucsf.edu/compounds/ritonavir/,http://www.ncbi.nlm.nih.gov/pubmed/16184031
+Saquinavir,14.5,MDR1 transfected LLC-PK1,"Woodahl, 2005",http://transportal.compbio.ucsf.edu/compounds/saquinavir/,http://www.ncbi.nlm.nih.gov/pubmed/16184031
+Saquinavir,15.4,Caco-2,"Collett, 2004",http://transportal.compbio.ucsf.edu/compounds/saquinavir/,http://www.ncbi.nlm.nih.gov/pubmed/15180340
+Topotecan,78.3,Caco-2,"Li, 2008",http://transportal.compbio.ucsf.edu/compounds/topotecan/,http://www.ncbi.nlm.nih.gov/pubmed/18654741
+Topotecan,102,MDCK II-MDR1,"Li, 2008",http://transportal.compbio.ucsf.edu/compounds/topotecan/,http://www.ncbi.nlm.nih.gov/pubmed/18654741
+Valinomycin,2.5,ATPase assay of Sf9-MDR1 liposomes,"Kimura, 2007",http://transportal.compbio.ucsf.edu/compounds/valinomycin/,http://www.ncbi.nlm.nih.gov/pubmed/17029589
+Verapamil,4.1,ATPase assay of Sf9-MDR1 liposomes,"Kimura, 2007",http://transportal.compbio.ucsf.edu/compounds/verapamil/,http://www.ncbi.nlm.nih.gov/pubmed/17029589
+Vinblastine,1.7,ATPase assay of Sf9-MDR1 liposomes,"Kimura, 2007",http://transportal.compbio.ucsf.edu/compounds/vinblastine/,http://www.ncbi.nlm.nih.gov/pubmed/17029589
+Vinblastine,19.0,Caco-2,"Hunter, 1993",http://transportal.compbio.ucsf.edu/compounds/vinblastine/,http://www.ncbi.nlm.nih.gov/pubmed/8100817
+Vinblastine,89.2,Caco-2,"Tang, 2002",http://transportal.compbio.ucsf.edu/compounds/vinblastine/,http://www.ncbi.nlm.nih.gov/pubmed/12134945
+Vinblastine,146,MDR1-expressing oocytes,"Jutabha, 2010",http://transportal.compbio.ucsf.edu/compounds/vinblastine/,http://www.ncbi.nlm.nih.gov/pubmed/19631272
+Vinblastine,253,MDCK-MDR1,"Tang, 2002",http://transportal.compbio.ucsf.edu/compounds/vinblastine/,http://www.ncbi.nlm.nih.gov/pubmed/12134945
+Vincristine,3.7,ATPase assay of Sf9-MDR1 liposomes,"Kimura, 2007",http://transportal.compbio.ucsf.edu/compounds/vincristine/,http://www.ncbi.nlm.nih.gov/pubmed/17029589

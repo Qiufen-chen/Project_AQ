@@ -1,0 +1,262 @@
+dr:D00225	cpd:C07051	CI	unclassified
+dr:D00225	cpd:C07521	P	unclassified
+dr:D00225	dr:D00211	P	unclassified
+dr:D00225	dr:D00236	P	unclassified
+dr:D00225	dr:D00252	P	unclassified
+dr:D00225	dr:D00270	P	unclassified
+dr:D00225	dr:D00276	P	unclassified
+dr:D00225	dr:D00283	P	unclassified
+dr:D00225	dr:D00295	P	unclassified
+dr:D00225	dr:D00298	P	unclassified
+dr:D00225	dr:D00320	P	unclassified
+dr:D00225	dr:D00346	P	unclassified
+dr:D00225	dr:D00350	P	unclassified
+dr:D00225	dr:D00373	P	unclassified
+dr:D00225	dr:D00390	P	unclassified
+dr:D00225	dr:D00403	P	unclassified
+dr:D00225	dr:D00416	P	unclassified
+dr:D00225	dr:D00420	P	unclassified
+dr:D00225	dr:D00427	CI,P	Enzyme: CYP3A / CYP inhibition: CYP3A
+dr:D00225	dr:D00429	CI	unclassified
+dr:D00225	dr:D00430	P	Target: GABRA1 GABRA2 GABRA3 GABRA4 GABRA5 GABRA6 GABRB1 GABRB2 GABRB3 GABRD GABRE GABRG1 GABRG2 GABRG3 GABRP GABRQ
+dr:D00225	dr:D00454	P	unclassified
+dr:D00225	dr:D00474	P	unclassified
+dr:D00225	dr:D00479	P	unclassified
+dr:D00225	dr:D00493	P	unclassified
+dr:D00225	dr:D00498	P	unclassified
+dr:D00225	dr:D00499	P	Target: GABRA1 GABRA2 GABRA3 GABRA4 GABRA5 GABRA6 GABRB1 GABRB2 GABRB3 GABRD GABRE GABRG1 GABRG2 GABRG3 GABRP GABRQ
+dr:D00225	dr:D00500	P	Target: GABRA1 GABRA2 GABRA3 GABRA4 GABRA5 GABRA6 GABRB1 GABRB2 GABRB3 GABRD GABRE GABRG1 GABRG2 GABRG3 GABRP GABRQ
+dr:D00225	dr:D00503	P	unclassified
+dr:D00225	dr:D00505	P	unclassified
+dr:D00225	dr:D00506	P	Target: GABRA1 GABRA2 GABRA3 GABRA4 GABRA5 GABRA6 GABRB1 GABRB2 GABRB3 GABRD GABRE GABRG1 GABRG2 GABRG3 GABRP GABRQ
+dr:D00225	dr:D00512	P	CYP induction: CYP3A
+dr:D00225	dr:D00528	P	unclassified
+dr:D00225	dr:D00545	P	unclassified
+dr:D00225	dr:D00546	P	unclassified
+dr:D00225	dr:D00549	P	Target: GABRA1 GABRA2 GABRA3 GABRA4 GABRA5 GABRA6 GABRB1 GABRB2 GABRB3 GABRD GABRE GABRG1 GABRG2 GABRG3 GABRP GABRQ
+dr:D00225	dr:D00550	P	Target: GABRA1 GABRA2 GABRA3 GABRA4 GABRA5 GABRA6 GABRB1 GABRB2 GABRB3 GABRD GABRE GABRG1 GABRG2 GABRG3 GABRP GABRQ
+dr:D00225	dr:D00555	P	Target: GABRA1 GABRA2 GABRA3 GABRA4 GABRA5 GABRA6 GABRB1 GABRB2 GABRB3 GABRD GABRE GABRG1 GABRG2 GABRG3 GABRP GABRQ
+dr:D00225	dr:D00563	P	unclassified
+dr:D00225	dr:D00606	P	unclassified
+dr:D00225	dr:D00636	P	unclassified
+dr:D00225	dr:D00697	P	Target: GABRA1 GABRA2 GABRA3 GABRA4 GABRA5 GABRA6 GABRB1 GABRB2 GABRB3 GABRD GABRE GABRG1 GABRG2 GABRG3 GABRP GABRQ
+dr:D00225	dr:D00698	P	Target: GABRA1 GABRA2 GABRA3 GABRA4 GABRA5 GABRA6 GABRB1 GABRB2 GABRB3 GABRD GABRE GABRG1 GABRG2 GABRG3 GABRP GABRQ
+dr:D00225	dr:D00699	P	Target: GABRA1 GABRA2 GABRA3 GABRA4 GABRA5 GABRA6 GABRB1 GABRB2 GABRB3 GABRD GABRE GABRG1 GABRG2 GABRG3 GABRP GABRQ
+dr:D00225	dr:D00700	P	Target: GABRA1 GABRA2 GABRA3 GABRA4 GABRA5 GABRA6 GABRB1 GABRB2 GABRB3 GABRD GABRE GABRG1 GABRG2 GABRG3 GABRP GABRQ
+dr:D00225	dr:D00701	P	Target: GABRA1 GABRA2 GABRA3 GABRA4 GABRA5 GABRA6 GABRB1 GABRB2 GABRB3 GABRD GABRE GABRG1 GABRG2 GABRG3 GABRP GABRQ
+dr:D00225	dr:D00710	P	unclassified
+dr:D00225	dr:D00712	P	Target: GABRA1
+dr:D00225	dr:D00713	P	Target: GABRA1 GABRA2 GABRA3 GABRA4 GABRA5 GABRA6 GABRB1 GABRB2 GABRB3 GABRD GABRE GABRG1 GABRG2 GABRG3 GABRP GABRQ
+dr:D00225	dr:D00714	P	Target: GABRA1 GABRA2 GABRA3 GABRA4 GABRA5 GABRA6 GABRB1 GABRB2 GABRB3 GABRD GABRE GABRG1 GABRG2 GABRG3 GABRP GABRQ
+dr:D00225	dr:D00754	P	unclassified
+dr:D00225	dr:D00762	P	unclassified
+dr:D00225	dr:D00783	P	unclassified
+dr:D00225	dr:D00785	P	unclassified
+dr:D00225	dr:D00788	P	unclassified
+dr:D00225	dr:D00789	P	unclassified
+dr:D00225	dr:D00791	P	unclassified
+dr:D00225	dr:D00792	P	unclassified
+dr:D00225	dr:D00793	P	unclassified
+dr:D00225	dr:D00795	P	unclassified
+dr:D00225	dr:D00797	P	unclassified
+dr:D00225	dr:D00798	P	unclassified
+dr:D00225	dr:D00799	P	unclassified
+dr:D00225	dr:D00800	P	unclassified
+dr:D00225	dr:D00811	P	unclassified
+dr:D00225	dr:D00812	P	unclassified
+dr:D00225	dr:D00815	P	unclassified
+dr:D00225	dr:D00818	P	unclassified
+dr:D00225	dr:D00824	P	unclassified
+dr:D00225	dr:D00826	P	unclassified
+dr:D00225	dr:D00831	P	Enzyme: CYP3A
+dr:D00225	dr:D00836	P	unclassified
+dr:D00225	dr:D00894	CI	CYP inhibition: CYP3A / CYP induction: CYP3A
+dr:D00225	dr:D00897	CI	unclassified
+dr:D00225	dr:D00899	CI	unclassified
+dr:D00225	dr:D00961	P	unclassified
+dr:D00225	dr:D01071	P	Target: GABRA1 GABRA2 GABRA3 GABRA4 GABRA5 GABRA6 GABRB1 GABRB2 GABRB3 GABRD GABRE GABRG1 GABRG2 GABRG3 GABRP GABRQ
+dr:D00225	dr:D01097	P	unclassified
+dr:D00225	dr:D01130	P	unclassified
+dr:D00225	dr:D01145	P	unclassified
+dr:D00225	dr:D01160	CI	unclassified
+dr:D00225	dr:D01177	P	unclassified
+dr:D00225	dr:D01205	P	unclassified
+dr:D00225	dr:D01253	P	Target: GABRA1 GABRA2 GABRA3 GABRA4 GABRA5 GABRA6 GABRB1 GABRB2 GABRB3 GABRD GABRE GABRG1 GABRG2 GABRG3 GABRP GABRQ
+dr:D00225	dr:D01276	CI,P	unclassified
+dr:D00225	dr:D01310	P	Target: GABRA1 GABRA2 GABRA3 GABRA4 GABRA5 GABRA6 GABRB1 GABRB2 GABRB3 GABRD GABRE GABRG1 GABRG2 GABRG3 GABRP GABRQ
+dr:D00225	dr:D01324	P	unclassified
+dr:D00225	dr:D01382	P	Target: GABRA1 GABRA2 GABRA3 GABRA4 GABRA5 GABRA6 GABRB1 GABRB2 GABRB3 GABRD GABRE GABRG1 GABRG2 GABRG3 GABRP GABRQ
+dr:D00225	dr:D01399	P	unclassified
+dr:D00225	dr:D01412	P	unclassified
+dr:D00225	dr:D01425	CI	Enzyme: CYP3A / CYP inhibition: CYP3A
+dr:D00225	dr:D01447	P	unclassified
+dr:D00225	dr:D01448	P	unclassified
+dr:D00225	dr:D01485	P	unclassified
+dr:D00225	dr:D01501	P	unclassified
+dr:D00225	dr:D01520	P	unclassified
+dr:D00225	dr:D01740	P	Target: GABRA1 GABRA2 GABRA3 GABRA4 GABRA5 GABRA6 GABRB1 GABRB2 GABRB3 GABRD GABRE GABRG1 GABRG2 GABRG3 GABRP GABRQ
+dr:D00225	dr:D01855	P	unclassified
+dr:D00225	dr:D01860	P	unclassified
+dr:D00225	dr:D01879	P	unclassified
+dr:D00225	dr:D01888	P	unclassified
+dr:D00225	dr:D01935	P	unclassified
+dr:D00225	dr:D02002	P	unclassified
+dr:D00225	dr:D02022	P	unclassified
+dr:D00225	dr:D02037	P	unclassified
+dr:D00225	dr:D02102	P	unclassified
+dr:D00225	dr:D02103	P	CYP induction: CYP3A
+dr:D00225	dr:D02163	P	unclassified
+dr:D00225	dr:D02227	P	unclassified
+dr:D00225	dr:D02234	P	unclassified
+dr:D00225	dr:D02248	P	unclassified
+dr:D00225	dr:D02252	P	Target: GABRA1 GABRA2 GABRA3 GABRA4 GABRA5 GABRA6 GABRB1 GABRB2 GABRB3 GABRD GABRE GABRG1 GABRG2 GABRG3 GABRP GABRQ
+dr:D00225	dr:D02253	P	Target: GABRA1 GABRA2 GABRA3 GABRA4 GABRA5 GABRA6 GABRB1 GABRB2 GABRB3 GABRD GABRE GABRG1 GABRG2 GABRG3 GABRP GABRQ
+dr:D00225	dr:D02274	P	Enzyme: CYP3A
+dr:D00225	dr:D02283	P	Target: GABRA1 GABRA2 GABRA3 GABRA4 GABRA5 GABRA6 GABRB1 GABRB2 GABRB3 GABRD GABRE GABRG1 GABRG2 GABRG3 GABRP GABRQ
+dr:D00225	dr:D02354	P	unclassified
+dr:D00225	dr:D02372	P	unclassified
+dr:D00225	dr:D02484	P	Enzyme: CYP3A
+dr:D00225	dr:D02497	CI	unclassified
+dr:D00225	dr:D02498	CI	Enzyme: CYP3A / CYP inhibition: CYP3A
+dr:D00225	dr:D02555	P	unclassified
+dr:D00225	dr:D02559	P	unclassified
+dr:D00225	dr:D02560	P	unclassified
+dr:D00225	dr:D02561	P	unclassified
+dr:D00225	dr:D02562	P	unclassified
+dr:D00225	dr:D02563	P	unclassified
+dr:D00225	dr:D02564	P	unclassified
+dr:D00225	dr:D02579	P	unclassified
+dr:D00225	dr:D02580	P	unclassified
+dr:D00225	dr:D02581	P	unclassified
+dr:D00225	dr:D02604	P	unclassified
+dr:D00225	dr:D02605	P	unclassified
+dr:D00225	dr:D02607	P	unclassified
+dr:D00225	dr:D02608	P	unclassified
+dr:D00225	dr:D02609	P	unclassified
+dr:D00225	dr:D02610	P	unclassified
+dr:D00225	dr:D02618	P	Target: GABRA1 GABRA2 GABRA3 GABRA4 GABRA5 GABRA6 GABRB1 GABRB2 GABRB3 GABRD GABRE GABRG1 GABRG2 GABRG3 GABRP GABRQ
+dr:D00225	dr:D02642	P	unclassified
+dr:D00225	dr:D02643	P	unclassified
+dr:D00225	dr:D02644	P	unclassified
+dr:D00225	dr:D02653	P	unclassified
+dr:D00225	dr:D02671	P	unclassified
+dr:D00225	dr:D02679	P	unclassified
+dr:D00225	dr:D02680	P	unclassified
+dr:D00225	dr:D02691	P	unclassified
+dr:D00225	dr:D02732	P	unclassified
+dr:D00225	dr:D02735	P	unclassified
+dr:D00225	dr:D02817	P	unclassified
+dr:D00225	dr:D02861	CI	unclassified
+dr:D00225	dr:D02867	CI,P	unclassified
+dr:D00225	dr:D02968	P	unclassified
+dr:D00225	dr:D03106	P	unclassified
+dr:D00225	dr:D03180	P	Target: GABRA1 GABRA2 GABRA3 GABRA4 GABRA5 GABRA6 GABRB1 GABRB2 GABRB3 GABRD GABRE GABRG1 GABRG2 GABRG3 GABRP GABRQ
+dr:D00225	dr:D03182	P	unclassified
+dr:D00225	dr:D03239	P	unclassified
+dr:D00225	dr:D03248	P	unclassified
+dr:D00225	dr:D03253	CI	unclassified
+dr:D00225	dr:D03274	P	unclassified
+dr:D00225	dr:D03409	P	unclassified
+dr:D00225	dr:D03503	P	unclassified
+dr:D00225	dr:D03656	CI	unclassified
+dr:D00225	dr:D03669	P	unclassified
+dr:D00225	dr:D03731	P	unclassified
+dr:D00225	dr:D03733	P	unclassified
+dr:D00225	dr:D03833	CI	unclassified
+dr:D00225	dr:D03835	CI	unclassified
+dr:D00225	dr:D03837	CI	unclassified
+dr:D00225	dr:D03839	CI	unclassified
+dr:D00225	dr:D03840	CI	unclassified
+dr:D00225	dr:D03842	CI	unclassified
+dr:D00225	dr:D03843	CI	unclassified
+dr:D00225	dr:D03852	P	unclassified
+dr:D00225	dr:D04024	P	unclassified
+dr:D00225	dr:D04034	P	unclassified
+dr:D00225	dr:D04038	P	unclassified
+dr:D00225	dr:D04059	P	unclassified
+dr:D00225	dr:D04077	P	unclassified
+dr:D00225	dr:D04092	P	unclassified
+dr:D00225	dr:D04307	P	unclassified
+dr:D00225	dr:D04641	P	unclassified
+dr:D00225	dr:D04666	P	unclassified
+dr:D00225	dr:D04681	P	unclassified
+dr:D00225	dr:D04965	P	unclassified
+dr:D00225	dr:D04985	P	Target: GABRA1
+dr:D00225	dr:D05033	P	unclassified
+dr:D00225	dr:D05039	P	unclassified
+dr:D00225	dr:D05040	P	unclassified
+dr:D00225	dr:D05538	CI	unclassified
+dr:D00225	dr:D05775	P	unclassified
+dr:D00225	dr:D05928	P	unclassified
+dr:D00225	dr:D06106	P	Target: GABRA1 GABRA2 GABRA3 GABRA4 GABRA5 GABRA6 GABRB1 GABRB2 GABRB3 GABRD GABRE GABRG1 GABRG2 GABRG3 GABRP GABRQ
+dr:D00225	dr:D06405	P	unclassified
+dr:D00225	dr:D06413	P	unclassified
+dr:D00225	dr:D06414	P	unclassified
+dr:D00225	dr:D06478	CI	unclassified
+dr:D00225	dr:D06597	P	unclassified
+dr:D00225	dr:D06887	P	Target: GABRA1 GABRA2 GABRA3 GABRA4 GABRA5 GABRA6 GABRB1 GABRB2 GABRB3 GABRD GABRE GABRG1 GABRG2 GABRG3 GABRP GABRQ
+dr:D00225	dr:D07065	P	unclassified
+dr:D00225	dr:D07132	P	unclassified
+dr:D00225	dr:D07298	P	Target: GABRA1 GABRA2 GABRA3 GABRA4 GABRA5 GABRA6 GABRB1 GABRB2 GABRB3 GABRD GABRE GABRG1 GABRG2 GABRG3 GABRP GABRQ
+dr:D00225	dr:D07307	P	unclassified
+dr:D00225	dr:D07308	P	unclassified
+dr:D00225	dr:D07321	P	unclassified
+dr:D00225	dr:D07322	P	unclassified
+dr:D00225	dr:D07323	P	unclassified
+dr:D00225	dr:D07324	P	unclassified
+dr:D00225	dr:D07337	P	unclassified
+dr:D00225	dr:D07338	P	unclassified
+dr:D00225	dr:D07471	CI	unclassified
+dr:D00225	dr:D07523	P	unclassified
+dr:D00225	dr:D07583	P	CYP induction: CYP3A
+dr:D00225	dr:D07595	P	unclassified
+dr:D00225	dr:D07685	P	unclassified
+dr:D00225	dr:D07756	P	unclassified
+dr:D00225	dr:D07757	P	unclassified
+dr:D00225	dr:D07791	P	unclassified
+dr:D00225	dr:D07865	P	unclassified
+dr:D00225	dr:D07977	P	unclassified
+dr:D00225	dr:D08070	P	unclassified
+dr:D00225	dr:D08071	P	unclassified
+dr:D00225	dr:D08085	P	unclassified
+dr:D00225	dr:D08259	CI	unclassified
+dr:D00225	dr:D08341	P	unclassified
+dr:D00225	dr:D08342	P	unclassified
+dr:D00225	dr:D08349	P	unclassified
+dr:D00225	dr:D08356	P	Target: GABRA1 GABRA2 GABRA3 GABRA4 GABRA5 GABRA6 GABRB1 GABRB2 GABRB3 GABRD GABRE GABRG1 GABRG2 GABRG3 GABRP GABRQ
+dr:D00225	dr:D08385	P	unclassified
+dr:D00225	dr:D08392	P	unclassified
+dr:D00225	dr:D08393	P	unclassified
+dr:D00225	dr:D08430	P	unclassified
+dr:D00225	dr:D08453	P	unclassified
+dr:D00225	dr:D08469	P	unclassified
+dr:D00225	dr:D08585	P	unclassified
+dr:D00225	dr:D08605	CI	unclassified
+dr:D00225	dr:D08625	P	unclassified
+dr:D00225	dr:D08636	P	unclassified
+dr:D00225	dr:D09216	P	unclassified
+dr:D00225	dr:D09594	P	unclassified
+dr:D00225	dr:D09638	P	unclassified
+dr:D00225	dr:D09731	P	CYP inhibition: CYP3A
+dr:D00225	dr:D09773	P	unclassified
+dr:D00225	dr:D09819	P	unclassified
+dr:D00225	dr:D09996	P	unclassified
+dr:D00225	dr:D10003	P	unclassified
+dr:D00225	dr:D10104	P	unclassified
+dr:D00225	dr:D10158	P	unclassified
+dr:D00225	dr:D10161	P	unclassified
+dr:D00225	dr:D10191	P	unclassified
+dr:D00225	dr:D10218	P	unclassified
+dr:D00225	dr:D10372	P	unclassified
+dr:D00225	dr:D10519	P	unclassified
+dr:D00225	dr:D10551	P	Enzyme: CYP3A
+dr:D00225	dr:D10564	P	Enzyme: CYP3A / CYP induction: CYP3A
+dr:D00225	dr:D10566	P	unclassified
+dr:D00225	dr:D10762	P	unclassified
+dr:D00225	dr:D10775	P	unclassified
+dr:D00225	dr:D10801	P	CYP inhibition: CYP3A
+dr:D00225	dr:D10829	P	unclassified
+dr:D00225	dr:D10926	P	CYP inhibition: CYP3A
+dr:D00225	dr:D11012	P	Enzyme: CYP3A / CYP induction: CYP3A
+dr:D00225	dr:D11040	P	unclassified
+dr:D00225	ev:E00840	P	unclassified

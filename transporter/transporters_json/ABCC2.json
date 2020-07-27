@@ -1,0 +1,333 @@
+{
+    "ABCC2": {
+        "expression": [
+            {
+                "Organ": "Brain",
+                "Source": "Nishimura",
+                "Relative Expression": 0.000408
+            },
+            {
+                "Organ": "Kidney*",
+                "Source": "Nishimura",
+                "Relative Expression": 0.0751
+            },
+            {
+                "Organ": "Liver*",
+                "Source": "Nishimura",
+                "Relative Expression": 0.208
+            },
+            {
+                "Organ": "Placenta*",
+                "Source": "Nishimura",
+                "Relative Expression": 0.00311
+            },
+            {
+                "Organ": "Small Intestine*",
+                "Source": "Nishimura",
+                "Relative Expression": 0.0273
+            },
+            {
+                "Organ": "Kidney*",
+                "Source": "Mean across all PMT Samples",
+                "Relative Expression": 0.337
+            },
+            {
+                "Organ": "Liver*",
+                "Source": "Mean across all PMT Samples",
+                "Relative Expression": 6.815
+            }
+        ],
+        "inhibitors": [
+            {
+                "Inhibitor": "Curcumin",
+                "IC50 (μM)": "5",
+                "Ki (μM)": null,
+                "Substrate used": "Ethacrynic acid glutathione",
+                "Cell System": "MRP2-expressing Sf9 vesicles",
+                "Reference": "Wortelboer, 2003"
+            },
+            {
+                "Inhibitor": "Cyclosporine",
+                "IC50 (μM)": "10",
+                "Ki (μM)": null,
+                "Substrate used": "Calcein AM",
+                "Cell System": "MDCK II-MRP2",
+                "Reference": "Wortelboer, 2003"
+            },
+            {
+                "Inhibitor": "Cyclosporine",
+                "IC50 (μM)": null,
+                "Ki (μM)": 4.7,
+                "Substrate used": "Leukotriene C4",
+                "Cell System": "MRP2-expressing LLC-PK1 vesicles",
+                "Reference": "Chen, 1999"
+            },
+            {
+                "Inhibitor": "Cyclosporine",
+                "IC50 (μM)": null,
+                "Ki (μM)": 8.11,
+                "Substrate used": "Vinblastine",
+                "Cell System": "MDCK II-MRP2",
+                "Reference": "Tang, 2002"
+            },
+            {
+                "Inhibitor": "Daunorubicin",
+                "IC50 (μM)": null,
+                "Ki (μM)": 49.4,
+                "Substrate used": "Vinblastine",
+                "Cell System": "MDCK II-MRP2",
+                "Reference": "Tang, 2002"
+            },
+            {
+                "Inhibitor": "Delavirdine",
+                "IC50 (μM)": "ND",
+                "Ki (μM)": null,
+                "Substrate used": "CMFDA",
+                "Cell System": "MDCKII-MRP2",
+                "Reference": "Weiss, 2007"
+            },
+            {
+                "Inhibitor": "Efavirenz",
+                "IC50 (μM)": "ND",
+                "Ki (μM)": null,
+                "Substrate used": "CMFDA",
+                "Cell System": "MDCKII-MRP2",
+                "Reference": "Weiss, 2007"
+            },
+            {
+                "Inhibitor": "Emtricitabine",
+                "IC50 (μM)": "ND",
+                "Ki (μM)": null,
+                "Substrate used": "CMFDA",
+                "Cell System": "MDCKII-MRP2",
+                "Reference": "Weiss, 2007"
+            },
+            {
+                "Inhibitor": "Etoposide",
+                "IC50 (μM)": null,
+                "Ki (μM)": 756.0,
+                "Substrate used": "Vinblastine",
+                "Cell System": "MDCK II-MRP2",
+                "Reference": "Tang, 2002"
+            },
+            {
+                "Inhibitor": "Gemifloxacin",
+                "IC50 (μM)": "16",
+                "Ki (μM)": null,
+                "Substrate used": "Erythromycin",
+                "Cell System": "MDCKII-MRP2",
+                "Reference": "Vadlapatla, 2011"
+            },
+            {
+                "Inhibitor": "Indomethacin",
+                "IC50 (μM)": "0.06",
+                "Ki (μM)": null,
+                "Substrate used": "Methotrexate",
+                "Cell System": "MRP2-expressing HEK293 vesicles",
+                "Reference": "El-Sheikh, 2007"
+            },
+            {
+                "Inhibitor": "Ketoprofen",
+                "IC50 (μM)": "1.4",
+                "Ki (μM)": null,
+                "Substrate used": "Methotrexate",
+                "Cell System": "MRP2-expressing HEK293 vesicles",
+                "Reference": "El-Sheikh, 2007"
+            },
+            {
+                "Inhibitor": "MK-571",
+                "IC50 (μM)": "4",
+                "Ki (μM)": null,
+                "Substrate used": "Ethacrynic acid glutathione",
+                "Cell System": "MRP2-expressing Sf9 vesicles",
+                "Reference": "Yamazaki, 2005"
+            },
+            {
+                "Inhibitor": "MK-571",
+                "IC50 (μM)": "50.0",
+                "Ki (μM)": null,
+                "Substrate used": "Irinotecan",
+                "Cell System": "Caco-2",
+                "Reference": "Luo, 2002"
+            },
+            {
+                "Inhibitor": "MK-571",
+                "IC50 (μM)": null,
+                "Ki (μM)": 13.1,
+                "Substrate used": "Leukotriene C4",
+                "Cell System": "MRP2-expressing LLC-PK1 vesicles",
+                "Reference": "Chen, 1999"
+            },
+            {
+                "Inhibitor": "MK-571",
+                "IC50 (μM)": null,
+                "Ki (μM)": 26.4,
+                "Substrate used": "Vinblastine",
+                "Cell System": "MDCK II-MRP2",
+                "Reference": "Tang, 2002"
+            },
+            {
+                "Inhibitor": "PAK-104P",
+                "IC50 (μM)": null,
+                "Ki (μM)": 3.7,
+                "Substrate used": "Leukotriene C4",
+                "Cell System": "MRP2-expressing LLC-PK1 vesicles",
+                "Reference": "Chen, 1999"
+            },
+            {
+                "Inhibitor": "Reserpine",
+                "IC50 (μM)": null,
+                "Ki (μM)": 295.0,
+                "Substrate used": "Vinblastine",
+                "Cell System": "MDCK II-MRP2",
+                "Reference": "Tang, 2002"
+            },
+            {
+                "Inhibitor": "Valsopodar (PSC-833)",
+                "IC50 (μM)": null,
+                "Ki (μM)": 28.9,
+                "Substrate used": "Leukotriene C4",
+                "Cell System": "MRP2-expressing LLC-PK1 vesicles",
+                "Reference": "Chen, 1999"
+            },
+            {
+                "Inhibitor": "Vincristine",
+                "IC50 (μM)": null,
+                "Ki (μM)": 802.0,
+                "Substrate used": "Vinblastine",
+                "Cell System": "MDCK II-MRP2",
+                "Reference": "Tang, 2002"
+            }
+        ],
+        "substrates": [
+            {
+                "Substrate": "Dehydroepiandrosterone sulfate",
+                "Km (μM)": 14.9,
+                "Cell System": "MRP2-expressing LLC-PK1 vesicles",
+                "Reference": "Yamada, 2007"
+            },
+            {
+                "Substrate": "Estradiol-17beta-glucuronide",
+                "Km (μM)": 7.2,
+                "Cell System": "MRP2-expressing HEK293 vesicles",
+                "Reference": "Cui, 1999"
+            },
+            {
+                "Substrate": "Etoposide",
+                "Km (μM)": 617.0,
+                "Cell System": "MDCK II-MRP2",
+                "Reference": "Guo, 2002"
+            },
+            {
+                "Substrate": "Irinotecan",
+                "Km (μM)": 48.9,
+                "Cell System": "bile canalicular membrane vesicles",
+                "Reference": "Chu, 1998"
+            },
+            {
+                "Substrate": "Irinotecan",
+                "Km (μM)": 90.8,
+                "Cell System": "MDCK II-MRP2",
+                "Reference": "Luo, 2002"
+            },
+            {
+                "Substrate": "Methotrexate",
+                "Km (μM)": 480.0,
+                "Cell System": "MRP2-expressing HEK293 vesicles",
+                "Reference": "El-Sheikh, 2007"
+            },
+            {
+                "Substrate": "Olmesartan",
+                "Km (μM)": 14.9,
+                "Cell System": "MRP2-expressing LLC-PK1 vesicles",
+                "Reference": "Yamada, 2007"
+            },
+            {
+                "Substrate": "Para-aminohippurate",
+                "Km (μM)": 880.0,
+                "Cell System": "MRP2-expressing HEK293 vesicles",
+                "Reference": "Leier, 2000"
+            },
+            {
+                "Substrate": "Para-aminohippurate",
+                "Km (μM)": 2100.0,
+                "Cell System": "MRP2-expressing MDCK II vesicles",
+                "Reference": "Smeets, 2004"
+            },
+            {
+                "Substrate": "Para-aminohippurate",
+                "Km (μM)": 5000.0,
+                "Cell System": "MRP2-expressing Sf9 vesicles",
+                "Reference": "Smeets, 2004"
+            },
+            {
+                "Substrate": "SN-38",
+                "Km (μM)": 180.0,
+                "Cell System": "bile canalicular membrane vesicles",
+                "Reference": "Chu, 1998"
+            },
+            {
+                "Substrate": "SN-38 glucuronide",
+                "Km (μM)": 5.7,
+                "Cell System": "bile canalicular membrane vesicles",
+                "Reference": "Chu, 1998"
+            },
+            {
+                "Substrate": "Valsartan",
+                "Km (μM)": 30.4,
+                "Cell System": "MRP2-expressing LLC-PK1 vesicles",
+                "Reference": "Yamashiro, 2006"
+            },
+            {
+                "Substrate": "Vinblastine",
+                "Km (μM)": 137.3,
+                "Cell System": "MDCK II-MRP2",
+                "Reference": "Tang, 2002"
+            }
+        ],
+        "ddi": [
+            {
+                "DDI": "1",
+                "Implicated Transporter": "MRPs",
+                "Interacting Drug": "Probenecid",
+                "Affected Drug": "Cefmetazole",
+                "AUC": "1.6",
+                "Cmax": "NS",
+                "CLR": "0.6",
+                "CL/F": "0.6",
+                "t1/2": "1.5",
+                "Effect on PD": "ND",
+                "Reference": "Ko, 1989",
+                "More Details": "DDI 1"
+            },
+            {
+                "DDI": "2",
+                "Implicated Transporter": "OATs/MRPs",
+                "Interacting Drug": "Probenecid",
+                "Affected Drug": "Ciprofloxacin",
+                "AUC": "1.7",
+                "Cmax": "NS",
+                "CLR": "0.4",
+                "CL/F": "0.6",
+                "t1/2": "1.5",
+                "Effect on PD": "ND",
+                "Reference": "Jaehde, 1995",
+                "More Details": "DDI 2"
+            },
+            {
+                "DDI": "3",
+                "Implicated Transporter": "OATs/MRPs",
+                "Interacting Drug": "Probenecid",
+                "Affected Drug": "Furosemide",
+                "AUC": "2.7",
+                "Cmax": "1.5",
+                "CLR": "0.3",
+                "CL/F": "0.4",
+                "t1/2": "1.7",
+                "Effect on PD": "ND",
+                "Reference": "Vree, 1995",
+                "More Details": "DDI 3"
+            }
+        ]
+    }
+}

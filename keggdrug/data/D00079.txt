@@ -1,0 +1,10 @@
+dr:D00079	dr:D00079	CI	Target: PTGER2
+dr:D00079	dr:D00081	CI,P	unclassified
+dr:D00079	dr:D00089	CI,P	unclassified
+dr:D00079	dr:D01227	P	unclassified
+dr:D00079	dr:D01337	P	unclassified
+dr:D00079	dr:D01616	CI	unclassified
+dr:D00079	dr:D02073	P	unclassified
+dr:D00079	dr:D02721	P	unclassified
+dr:D00079	dr:D06213	P	unclassified
+dr:D00079	dr:D09994	P	unclassified

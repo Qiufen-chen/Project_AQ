@@ -1,0 +1,78 @@
+dr:D00067	dr:D00211	P	CYP induction: CYP3A4
+dr:D00067	dr:D00219	P	unclassified
+dr:D00067	dr:D00271	P	unclassified
+dr:D00067	dr:D00276	P	Enzyme: CYP3A4 / CYP inhibition: CYP3A4
+dr:D00067	dr:D00336	P	Enzyme: CYP3A4
+dr:D00067	dr:D00420	P	unclassified
+dr:D00067	dr:D00506	P	unclassified
+dr:D00067	dr:D00512	P	unclassified
+dr:D00067	dr:D00550	P	Enzyme: CYP3A4
+dr:D00067	dr:D00593	P	unclassified
+dr:D00067	dr:D00594	P	unclassified
+dr:D00067	dr:D00636	P	Enzyme: CYP3A4
+dr:D00067	dr:D00701	P	unclassified
+dr:D00067	dr:D00831	P	unclassified
+dr:D00067	dr:D00944	P	unclassified
+dr:D00067	dr:D00951	CI,P	unclassified
+dr:D00067	dr:D00961	P	unclassified
+dr:D00067	dr:D01111	P	unclassified
+dr:D00067	dr:D01253	P	Enzyme: CYP3A4
+dr:D00067	dr:D01276	P	unclassified
+dr:D00067	dr:D01599	P	unclassified
+dr:D00067	dr:D01799	P	unclassified
+dr:D00067	dr:D01854	P	unclassified
+dr:D00067	dr:D01855	P	Enzyme: CYP3A4
+dr:D00067	dr:D02103	P	unclassified
+dr:D00067	dr:D02206	P	unclassified
+dr:D00067	dr:D02372	P	unclassified
+dr:D00067	dr:D02484	P	unclassified
+dr:D00067	dr:D02691	P	unclassified
+dr:D00067	dr:D02732	P	Enzyme: CYP3A4
+dr:D00067	dr:D02867	CI	Enzyme: CYP3A4 / CYP inhibition: CYP3A4
+dr:D00067	dr:D02968	P	Enzyme: CYP3A4 / CYP inhibition: CYP3A4 / CYP induction: CYP3A4
+dr:D00067	dr:D03106	P	unclassified
+dr:D00067	dr:D03230	P	unclassified
+dr:D00067	dr:D03250	P	unclassified
+dr:D00067	dr:D03669	P	CYP induction: CYP3A4
+dr:D00067	dr:D03799	P	Enzyme: CYP3A4
+dr:D00067	dr:D04024	P	Enzyme: CYP3A4
+dr:D00067	dr:D04059	P	unclassified
+dr:D00067	dr:D04307	P	unclassified
+dr:D00067	dr:D04475	P	unclassified
+dr:D00067	dr:D04477	P	unclassified
+dr:D00067	dr:D04539	P	unclassified
+dr:D00067	dr:D04540	P	unclassified
+dr:D00067	dr:D04641	P	Enzyme: CYP3A4 / CYP inhibition: CYP3A4
+dr:D00067	dr:D04666	P	unclassified
+dr:D00067	dr:D05775	P	unclassified
+dr:D00067	dr:D06413	P	Enzyme: CYP3A4
+dr:D00067	dr:D06414	P	Enzyme: CYP3A4
+dr:D00067	dr:D06597	P	Enzyme: CYP3A4 / CYP inhibition: CYP3A4 / CYP induction: CYP3A4
+dr:D00067	dr:D07583	P	unclassified
+dr:D00067	dr:D07595	P	CYP induction: CYP3A4
+dr:D00067	dr:D09638	P	Enzyme: CYP3A4
+dr:D00067	dr:D09727	P	unclassified
+dr:D00067	dr:D09731	P	Enzyme: CYP3A4
+dr:D00067	dr:D09744	P	unclassified
+dr:D00067	dr:D09848	P	unclassified
+dr:D00067	dr:D09996	P	unclassified
+dr:D00067	dr:D10003	P	unclassified
+dr:D00067	dr:D10104	P	Enzyme: CYP3A4 / CYP induction: CYP3A4
+dr:D00067	dr:D10160	P	unclassified
+dr:D00067	dr:D10161	P	unclassified
+dr:D00067	dr:D10218	P	unclassified
+dr:D00067	dr:D10253	P	unclassified
+dr:D00067	dr:D10372	P	unclassified
+dr:D00067	dr:D10551	P	unclassified
+dr:D00067	dr:D10564	P	unclassified
+dr:D00067	dr:D10566	P	unclassified
+dr:D00067	dr:D10570	P	unclassified
+dr:D00067	dr:D10743	P	unclassified
+dr:D00067	dr:D10762	P	unclassified
+dr:D00067	dr:D10801	P	unclassified
+dr:D00067	dr:D10926	P	Enzyme: CYP3A4
+dr:D00067	dr:D11012	P	unclassified
+dr:D00067	dr:D11034	P	unclassified
+dr:D00067	dr:D11040	P	Enzyme: CYP3A4 / CYP induction: CYP3A4
+dr:D00067	dr:D11109	P	unclassified
+dr:D00067	dr:D11567	P	unclassified

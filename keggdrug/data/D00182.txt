@@ -1,0 +1,7 @@
+dr:D00182	dr:D00951	CI,P	Target: PGR
+dr:D00182	dr:D02867	P	unclassified
+dr:D00182	dr:D03799	P	Target: PGR
+dr:D00182	dr:D04112	P	unclassified
+dr:D00182	dr:D06478	P	unclassified
+dr:D00182	dr:D10832	P	unclassified
+dr:D00182	dr:D11382	P	unclassified

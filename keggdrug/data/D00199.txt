@@ -1,0 +1,83 @@
+dr:D00199	dr:D00186	P	unclassified
+dr:D00199	dr:D00203	P	unclassified
+dr:D00199	dr:D00235	P	Enzyme: CYP2D6
+dr:D00199	dr:D00255	P	Enzyme: CYP2D6
+dr:D00199	dr:D00295	P	unclassified
+dr:D00199	dr:D00298	P	unclassified
+dr:D00199	dr:D00432	P	unclassified
+dr:D00199	dr:D00483	P	Enzyme: CYP2D6
+dr:D00199	dr:D00513	P	Enzyme: CYP2D6
+dr:D00199	dr:D00597	P	unclassified
+dr:D00199	dr:D00598	P	unclassified
+dr:D00199	dr:D00599	P	Enzyme: CYP2D6
+dr:D00199	dr:D00600	P	unclassified
+dr:D00199	dr:D00601	P	Enzyme: CYP2D6
+dr:D00199	dr:D00616	P	unclassified
+dr:D00199	dr:D00619	P	unclassified
+dr:D00199	dr:D00634	P	unclassified
+dr:D00199	dr:D00636	CI	Target: SCN10A SCN11A SCN1A SCN2A SCN3A SCN4A SCN5A SCN8A SCN9A
+dr:D00199	dr:D00644	P	unclassified
+dr:D00199	dr:D00738	P	Target: SCN10A SCN11A SCN1A SCN2A SCN3A SCN4A SCN5A SCN8A SCN9A
+dr:D00199	dr:D00765	P	unclassified
+dr:D00199	dr:D00767	P	unclassified
+dr:D00199	dr:D00776	P	unclassified
+dr:D00199	dr:D00811	P	Enzyme: CYP2D6
+dr:D00199	dr:D00815	P	Enzyme: CYP2D6
+dr:D00199	dr:D00818	P	Enzyme: CYP2D6
+dr:D00199	dr:D00831	P	unclassified
+dr:D00199	dr:D00874	CI	unclassified
+dr:D00199	dr:D00967	CI	unclassified
+dr:D00199	dr:D01026	P	unclassified
+dr:D00199	dr:D01179	P	CYP inhibition: CYP2D6
+dr:D00199	dr:D01240	P	unclassified
+dr:D00199	dr:D01253	P	unclassified
+dr:D00199	dr:D01369	P	unclassified
+dr:D00199	dr:D01469	P	unclassified
+dr:D00199	dr:D01504	P	unclassified
+dr:D00199	dr:D01691	P	unclassified
+dr:D00199	dr:D01741	P	unclassified
+dr:D00199	dr:D01830	P	unclassified
+dr:D00199	dr:D01847	P	unclassified
+dr:D00199	dr:D01856	P	unclassified
+dr:D00199	dr:D02102	P	Enzyme: CYP2D6
+dr:D00199	dr:D02106	P	unclassified
+dr:D00199	dr:D02126	P	unclassified
+dr:D00199	dr:D02216	P	unclassified
+dr:D00199	dr:D02260	P	Enzyme: CYP2D6 / CYP inhibition: CYP2D6
+dr:D00199	dr:D02342	P	unclassified
+dr:D00199	dr:D02484	P	unclassified
+dr:D00199	dr:D02540	P	unclassified
+dr:D00199	dr:D02567	P	Enzyme: CYP2D6 / CYP inhibition: CYP2D6
+dr:D00199	dr:D02587	P	unclassified
+dr:D00199	dr:D02740	P	unclassified
+dr:D00199	dr:D02748	P	unclassified
+dr:D00199	dr:D03260	CI	unclassified
+dr:D00199	dr:D04024	P	unclassified
+dr:D00199	dr:D04187	CI	unclassified
+dr:D00199	dr:D05277	P	unclassified
+dr:D00199	dr:D05908	P	unclassified
+dr:D00199	dr:D06402	P	unclassified
+dr:D00199	dr:D06407	P	unclassified
+dr:D00199	dr:D06413	P	unclassified
+dr:D00199	dr:D06414	P	unclassified
+dr:D00199	dr:D06637	P	unclassified
+dr:D00199	dr:D09535	P	CYP inhibition: CYP2D6
+dr:D00199	dr:D09595	P	unclassified
+dr:D00199	dr:D09701	P	unclassified
+dr:D00199	dr:D09756	P	CYP inhibition: CYP2D6
+dr:D00199	dr:D09785	P	Enzyme: CYP2D6
+dr:D00199	dr:D09894	CI,P	Enzyme: CYP2D6
+dr:D00199	dr:D09996	P	unclassified
+dr:D00199	dr:D10003	P	unclassified
+dr:D00199	dr:D10019	P	CYP inhibition: CYP2D6
+dr:D00199	dr:D10255	P	unclassified
+dr:D00199	dr:D10501	P	unclassified
+dr:D00199	dr:D10506	P	unclassified
+dr:D00199	dr:D10514	P	unclassified
+dr:D00199	dr:D10533	P	Enzyme: CYP2D6
+dr:D00199	dr:D10566	P	unclassified
+dr:D00199	dr:D10772	P	unclassified
+dr:D00199	dr:D10897	P	unclassified
+dr:D00199	dr:D11035	P	unclassified
+dr:D00199	dr:D11036	P	unclassified
+dr:D00199	dr:D11584	P	unclassified

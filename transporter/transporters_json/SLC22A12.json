@@ -1,0 +1,154 @@
+{
+    "SLC22A12": {
+        "expression": [
+            {
+                "Organ": "Brain",
+                "Source": "Nishimura",
+                "Relative Expression": "BLQ"
+            },
+            {
+                "Organ": "Kidney*",
+                "Source": "Nishimura",
+                "Relative Expression": "0.976"
+            },
+            {
+                "Organ": "Liver",
+                "Source": "Nishimura",
+                "Relative Expression": "BLQ"
+            },
+            {
+                "Organ": "Placenta",
+                "Source": "Nishimura",
+                "Relative Expression": "BLQ"
+            },
+            {
+                "Organ": "Small Intestine",
+                "Source": "Nishimura",
+                "Relative Expression": "BLQ"
+            },
+            {
+                "Organ": "Liver",
+                "Source": "Mean across all PMT Samples",
+                "Relative Expression": "0.336"
+            },
+            {
+                "Organ": "Kidney*",
+                "Source": "Mean across all PMT Samples",
+                "Relative Expression": "25.102"
+            }
+        ],
+        "inhibitors": [
+            {
+                "Inhibitor": "Benzbromarone",
+                "IC50 (μM)": "0.13",
+                "Ki (μM)": null,
+                "Substrate used": "Uric acid",
+                "Cell System": "HEK293-URAT1",
+                "Reference": "Uetake, 2010"
+            },
+            {
+                "Inhibitor": "Benzbromarone",
+                "IC50 (μM)": "~0.3",
+                "Ki (μM)": null,
+                "Substrate used": "Uric acid",
+                "Cell System": "HEK293-URAT1",
+                "Reference": "Yu, 2007"
+            },
+            {
+                "Inhibitor": "Fenofibric acid",
+                "IC50 (μM)": "35.68",
+                "Ki (μM)": null,
+                "Substrate used": "Uric acid",
+                "Cell System": "HEK293-URAT1",
+                "Reference": "Uetake, 2010"
+            },
+            {
+                "Inhibitor": "Losartan",
+                "IC50 (μM)": "570.5",
+                "Ki (μM)": null,
+                "Substrate used": "Uric acid",
+                "Cell System": "HEK293-URAT1",
+                "Reference": "Uetake, 2010"
+            },
+            {
+                "Inhibitor": "Losartan",
+                "IC50 (μM)": null,
+                "Ki (μM)": 0.0077,
+                "Substrate used": "Uric acid",
+                "Cell System": "URAT1-expressing oocytes",
+                "Reference": "Iwanaga, 2007"
+            },
+            {
+                "Inhibitor": "Morin",
+                "IC50 (μM)": "~2",
+                "Ki (μM)": null,
+                "Substrate used": "Uric acid",
+                "Cell System": "HEK293-URAT1",
+                "Reference": "Yu, 2007"
+            },
+            {
+                "Inhibitor": "Morin",
+                "IC50 (μM)": null,
+                "Ki (μM)": 5.74,
+                "Substrate used": "Uric acid",
+                "Cell System": "HEK293-URAT1",
+                "Reference": "Yu, 2007"
+            },
+            {
+                "Inhibitor": "Pratosartan",
+                "IC50 (μM)": null,
+                "Ki (μM)": 0.0067,
+                "Substrate used": "Uric acid",
+                "Cell System": "URAT1-expressing oocytes",
+                "Reference": "Iwanaga, 2007"
+            },
+            {
+                "Inhibitor": "Probenecid",
+                "IC50 (μM)": "~50",
+                "Ki (μM)": null,
+                "Substrate used": "Uric acid",
+                "Cell System": "HEK293-URAT1",
+                "Reference": "Yu, 2007"
+            },
+            {
+                "Inhibitor": "Sulfinpyrazone",
+                "IC50 (μM)": "~100",
+                "Ki (μM)": null,
+                "Substrate used": "Uric acid",
+                "Cell System": "HEK293-URAT1",
+                "Reference": "Yu, 2007"
+            },
+            {
+                "Inhibitor": "Telmisartan",
+                "IC50 (μM)": null,
+                "Ki (μM)": 0.0182,
+                "Substrate used": "Uric acid",
+                "Cell System": "URAT1-expressing oocytes",
+                "Reference": "Iwanaga, 2007"
+            },
+            {
+                "Inhibitor": "Uric acid",
+                "IC50 (μM)": "170",
+                "Ki (μM)": null,
+                "Substrate used": "Oxypurinol",
+                "Cell System": "URAT1-expressing oocytes",
+                "Reference": "Iwanaga, 2005"
+            }
+        ],
+        "substrates": [
+            {
+                "Substrate": "Oxypurinol",
+                "Km (μM)": 794.0,
+                "Cell System": "URAT1-expressing oocytes",
+                "Reference": "Iwanaga, 2005"
+            },
+            {
+                "Substrate": "Uric acid",
+                "Km (μM)": 357.6,
+                "Cell System": "URAT1-expressing oocytes",
+                "Reference": "Iwanaga, 2007"
+            }
+        ],
+        "ddi": ""
+    }
+}

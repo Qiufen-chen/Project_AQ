@@ -1,0 +1,218 @@
+{
+    "ABCB11": {
+        "expression": [
+            {
+                "Organ": "Brain",
+                "Source": "Nishimura",
+                "Relative Expression": "BLQ"
+            },
+            {
+                "Organ": "Kidney",
+                "Source": "Nishimura",
+                "Relative Expression": "BLQ"
+            },
+            {
+                "Organ": "Liver*",
+                "Source": "Nishimura",
+                "Relative Expression": "0.163"
+            },
+            {
+                "Organ": "Placenta",
+                "Source": "Nishimura",
+                "Relative Expression": "BLQ"
+            },
+            {
+                "Organ": "Small Intestine",
+                "Source": "Nishimura",
+                "Relative Expression": "BLQ"
+            },
+            {
+                "Organ": "Liver*",
+                "Source": "Mean across all PMT Samples",
+                "Relative Expression": "25.999"
+            },
+            {
+                "Organ": "Kidney",
+                "Source": "Mean across all PMT Samples",
+                "Relative Expression": "0.216"
+            }
+        ],
+        "inhibitors": [
+            {
+                "Inhibitor": "Atorvastatin",
+                "IC50 (μM)": null,
+                "Ki (μM)": 9.12,
+                "Substrate used": "Taurocholate",
+                "Cell System": "BSEP-expressing HEK293 vesicles",
+                "Reference": "Hirano, 2005"
+            },
+            {
+                "Inhibitor": "Cerivastatin",
+                "IC50 (μM)": null,
+                "Ki (μM)": 11.4,
+                "Substrate used": "Taurocholate",
+                "Cell System": "BSEP-expressing HEK293 vesicles",
+                "Reference": "Hirano, 2005"
+            },
+            {
+                "Inhibitor": "Clofazimine",
+                "IC50 (μM)": 2.3,
+                "Ki (μM)": null,
+                "Substrate used": "Taurocholate",
+                "Cell System": "BSEP-expressing Sf9 vesicles",
+                "Reference": "Kis, 2009"
+            },
+            {
+                "Inhibitor": "Cyclosporine",
+                "IC50 (μM)": 0.93,
+                "Ki (μM)": null,
+                "Substrate used": "Glycocholate",
+                "Cell System": "BSEP-expressing Sf9 vesicles",
+                "Reference": "Kis, 2009"
+            },
+            {
+                "Inhibitor": "Cyclosporine",
+                "IC50 (μM)": 0.94,
+                "Ki (μM)": null,
+                "Substrate used": "Taurochenodeoxycholate",
+                "Cell System": "BSEP-expressing Sf9 vesicles",
+                "Reference": "Kis, 2009"
+            },
+            {
+                "Inhibitor": "Cyclosporine",
+                "IC50 (μM)": 8.4,
+                "Ki (μM)": null,
+                "Substrate used": "Taurocholate",
+                "Cell System": "BSEP-expressing Sf9 vesicles",
+                "Reference": "Kis, 2009"
+            },
+            {
+                "Inhibitor": "Cyclosporine",
+                "IC50 (μM)": 18.9,
+                "Ki (μM)": null,
+                "Substrate used": "Taurocholate",
+                "Cell System": "BSEP-expressing Sf9 vesicles",
+                "Reference": "Kis, 2009"
+            },
+            {
+                "Inhibitor": "Glyburide",
+                "IC50 (μM)": 18.8,
+                "Ki (μM)": null,
+                "Substrate used": "Glycocholate",
+                "Cell System": "BSEP-expressing Sf9 vesicles",
+                "Reference": "Kis, 2009"
+            },
+            {
+                "Inhibitor": "Glyburide",
+                "IC50 (μM)": 15.8,
+                "Ki (μM)": null,
+                "Substrate used": "Taurochenodeoxycholate",
+                "Cell System": "BSEP-expressing Sf9 vesicles",
+                "Reference": "Kis, 2009"
+            },
+            {
+                "Inhibitor": "Glyburide",
+                "IC50 (μM)": 11.3,
+                "Ki (μM)": null,
+                "Substrate used": "Taurocholate",
+                "Cell System": "BSEP-expressing Sf9 vesicles",
+                "Reference": "Kis, 2009"
+            },
+            {
+                "Inhibitor": "Glyburide",
+                "IC50 (μM)": 14.7,
+                "Ki (μM)": null,
+                "Substrate used": "Taurocholate",
+                "Cell System": "BSEP-expressing Sf9 vesicles",
+                "Reference": "Kis, 2009"
+            },
+            {
+                "Inhibitor": "Reserpine",
+                "IC50 (μM)": 2.8,
+                "Ki (μM)": null,
+                "Substrate used": "Taurocholate",
+                "Cell System": "Sf9-BSEP",
+                "Reference": "Kis, 2009"
+            },
+            {
+                "Inhibitor": "Rifampicin",
+                "IC50 (μM)": 10.5,
+                "Ki (μM)": null,
+                "Substrate used": "Taurocholate",
+                "Cell System": "BSEP-expressing Sf9 vesicles",
+                "Reference": "Kis, 2009"
+            },
+            {
+                "Inhibitor": "Troglitazone",
+                "IC50 (μM)": 16.0,
+                "Ki (μM)": null,
+                "Substrate used": "Glycocholate",
+                "Cell System": "BSEP-expressing Sf9 vesicles",
+                "Reference": "Kis, 2009"
+            },
+            {
+                "Inhibitor": "Troglitazone",
+                "IC50 (μM)": 27.6,
+                "Ki (μM)": null,
+                "Substrate used": "Taurochenodeoxycholate",
+                "Cell System": "BSEP-expressing Sf9 vesicles",
+                "Reference": "Kis, 2009"
+            },
+            {
+                "Inhibitor": "Troglitazone",
+                "IC50 (μM)": 9.5,
+                "Ki (μM)": null,
+                "Substrate used": "Taurocholate",
+                "Cell System": "BSEP-expressing Sf9 vesicles",
+                "Reference": "Kis, 2009"
+            },
+            {
+                "Inhibitor": "Valinomycin",
+                "IC50 (μM)": 0.7,
+                "Ki (μM)": null,
+                "Substrate used": "Taurocholate",
+                "Cell System": "BSEP-expressing Sf9 vesicles",
+                "Reference": "Kis, 2009"
+            }
+        ],
+        "substrates": [
+            {
+                "Substrate": "Glycochenodeoxycholate",
+                "Km (μM)": 1.7,
+                "Cell System": "Sf9-BSEP",
+                "Reference": "Kis, 2009"
+            },
+            {
+                "Substrate": "Glycocholate",
+                "Km (μM)": 35.5,
+                "Cell System": "Sf9-BSEP",
+                "Reference": "Kis, 2009"
+            },
+            {
+                "Substrate": "Pravastatin",
+                "Km (μM)": 124.0,
+                "Cell System": "BSEP-expressing HEK293 vesicles",
+                "Reference": "Hirano, 2005"
+            },
+            {
+                "Substrate": "Taurochenodeoxycholate",
+                "Km (μM)": 4.2,
+                "Cell System": "Sf9-BSEP",
+                "Reference": "Kis, 2009"
+            },
+            {
+                "Substrate": "Taurocholate",
+                "Km (μM)": 4.64,
+                "Cell System": "BSEP-expressing HEK293 vesicles",
+                "Reference": "Hirano, 2005"
+            },
+            {
+                "Substrate": "Taurocholate",
+                "Km (μM)": 15.0,
+                "Cell System": "Sf9-BSEP",
+                "Reference": "Kis, 2009"
+            }
+        ],
+        "ddi": ""
+    }
+}

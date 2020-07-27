@@ -1,0 +1,439 @@
+{
+    "ABCG2": {
+        "expression": [
+            {
+                "Organ": "Brain",
+                "Source": "Nishimura",
+                "Relative Expression": 0.0224
+            },
+            {
+                "Organ": "Kidney*",
+                "Source": "Nishimura",
+                "Relative Expression": 0.00463
+            },
+            {
+                "Organ": "Liver*",
+                "Source": "Nishimura",
+                "Relative Expression": 0.0139
+            },
+            {
+                "Organ": "Placenta*",
+                "Source": "Nishimura",
+                "Relative Expression": 0.0954
+            },
+            {
+                "Organ": "Small Intestine*",
+                "Source": "Nishimura",
+                "Relative Expression": 0.0492
+            },
+            {
+                "Organ": "Liver*",
+                "Source": "Mean across all PMT Samples",
+                "Relative Expression": 1.555
+            },
+            {
+                "Organ": "Kidney*",
+                "Source": "Mean across all PMT Samples",
+                "Relative Expression": 0.739
+            }
+        ],
+        "inhibitors": [
+            {
+                "Inhibitor": "17beta-estradiol",
+                "IC50 (μM)": 4.8,
+                "Ki (μM)": null,
+                "Substrate used": null,
+                "Cell System": "Steroid Sensitivity of K562-BCRP",
+                "Reference": "Imai, 2002"
+            },
+            {
+                "Inhibitor": "17beta-estradiol-3-sulfate",
+                "IC50 (μM)": 14.0,
+                "Ki (μM)": null,
+                "Substrate used": "Estrone 3-sulfate",
+                "Cell System": "BCRP-expressing vesicles from mouse lymphoma (P388) cells",
+                "Reference": "Suzuki, 2003"
+            },
+            {
+                "Inhibitor": "Abacavir",
+                "IC50 (μM)": 385.0,
+                "Ki (μM)": null,
+                "Substrate used": "Pheophorbide A",
+                "Cell System": "MDCK II-BCRP",
+                "Reference": "Weiss, 2007"
+            },
+            {
+                "Inhibitor": "Amprenavir",
+                "IC50 (μM)": 181.0,
+                "Ki (μM)": null,
+                "Substrate used": "Pheophorbide A",
+                "Cell System": "MDCK II-BCRP",
+                "Reference": "Weiss, 2007"
+            },
+            {
+                "Inhibitor": "Atazanavir",
+                "IC50 (μM)": 69.1,
+                "Ki (μM)": null,
+                "Substrate used": "Pheophorbide A",
+                "Cell System": "MDCK II-BCRP",
+                "Reference": "Weiss, 2007"
+            },
+            {
+                "Inhibitor": "Atorvastatin",
+                "IC50 (μM)": null,
+                "Ki (μM)": 14.3,
+                "Substrate used": "Estrone 3-sulfate",
+                "Cell System": "BCRP-expressing HEK293 vesicles",
+                "Reference": "Hirano, 2005"
+            },
+            {
+                "Inhibitor": "Cerivastatin",
+                "IC50 (μM)": null,
+                "Ki (μM)": 18.1,
+                "Substrate used": "Estrone 3-sulfate",
+                "Cell System": "BCRP-expressing HEK293 vesicles",
+                "Reference": "Hirano, 2005"
+            },
+            {
+                "Inhibitor": "Daunomycin",
+                "IC50 (μM)": 59.0,
+                "Ki (μM)": null,
+                "Substrate used": "Estrone 3-sulfate",
+                "Cell System": "BCRP-expressing vesicles from mouse lymphoma (P388) cells",
+                "Reference": "Suzuki, 2003"
+            },
+            {
+                "Inhibitor": "Dehydroepiandrosterone sulfate",
+                "IC50 (μM)": 55.0,
+                "Ki (μM)": null,
+                "Substrate used": "Estrone 3-sulfate",
+                "Cell System": "BCRP-expressing vesicles from mouse lymphoma (P388) cells",
+                "Reference": "Suzuki, 2003"
+            },
+            {
+                "Inhibitor": "Delavirdine",
+                "IC50 (μM)": 18.7,
+                "Ki (μM)": null,
+                "Substrate used": "Pheophorbide A",
+                "Cell System": "MDCK II-BCRP",
+                "Reference": "Weiss, 2007"
+            },
+            {
+                "Inhibitor": "Efavirenz",
+                "IC50 (μM)": 20.6,
+                "Ki (μM)": null,
+                "Substrate used": "Pheophorbide A",
+                "Cell System": "MDCK II-BCRP",
+                "Reference": "Weiss, 2007"
+            },
+            {
+                "Inhibitor": "Elacridar (GF120918)",
+                "IC50 (μM)": 0.31,
+                "Ki (μM)": null,
+                "Substrate used": "Mitoxantrone",
+                "Cell System": "HEK293-BCRP",
+                "Reference": "Ahmed-Belkacem, 2005"
+            },
+            {
+                "Inhibitor": "Erlotinib",
+                "IC50 (μM)": 0.13,
+                "Ki (μM)": 0.15,
+                "Substrate used": "Estrone 3-sulfate",
+                "Cell System": "BCRP-expressing K562 vesicles",
+                "Reference": "Noguchi, 2009"
+            },
+            {
+                "Inhibitor": "Fluvastatin",
+                "IC50 (μM)": null,
+                "Ki (μM)": 5.43,
+                "Substrate used": "Estrone 3-sulfate",
+                "Cell System": "BCRP-expressing HEK293 vesicles",
+                "Reference": "Hirano, 2005"
+            },
+            {
+                "Inhibitor": "Fumitremorgin C",
+                "IC50 (μM)": 0.25,
+                "Ki (μM)": 0.55,
+                "Substrate used": "Estrone 3-sulfate",
+                "Cell System": "BCRP-expressing K562 vesicles",
+                "Reference": "Noguchi, 2009"
+            },
+            {
+                "Inhibitor": "Fumitremorgin C",
+                "IC50 (μM)": 0.47,
+                "Ki (μM)": null,
+                "Substrate used": "Pheophorbide A",
+                "Cell System": "MDCK II-BCRP",
+                "Reference": "Weiss, 2007"
+            },
+            {
+                "Inhibitor": "Ko143",
+                "IC50 (μM)": 0.01,
+                "Ki (μM)": null,
+                "Substrate used": "Pheophorbide A",
+                "Cell System": "MDCK II-BCRP",
+                "Reference": "Weiss, 2007"
+            },
+            {
+                "Inhibitor": "Lopinavir",
+                "IC50 (μM)": 7.66,
+                "Ki (μM)": null,
+                "Substrate used": "Pheophorbide A",
+                "Cell System": "MDCK II-BCRP",
+                "Reference": "Weiss, 2007"
+            },
+            {
+                "Inhibitor": "Nelfinavir",
+                "IC50 (μM)": 13.5,
+                "Ki (μM)": null,
+                "Substrate used": "Pheophorbide A",
+                "Cell System": "MDCK II-BCRP",
+                "Reference": "Weiss, 2007"
+            },
+            {
+                "Inhibitor": "Nilotinib",
+                "IC50 (μM)": null,
+                "Ki (μM)": 0.69,
+                "Substrate used": "Methotrexate",
+                "Cell System": "BCRP-expressing HEK293 vesicles",
+                "Reference": "Tiwari, 2009"
+            },
+            {
+                "Inhibitor": "Pitavastatin",
+                "IC50 (μM)": null,
+                "Ki (μM)": 2.92,
+                "Substrate used": "Estrone 3-sulfate",
+                "Cell System": "BCRP-expressing HEK293 vesicles",
+                "Reference": "Hirano, 2005"
+            },
+            {
+                "Inhibitor": "Rosuvastatin",
+                "IC50 (μM)": null,
+                "Ki (μM)": 15.4,
+                "Substrate used": "Estrone 3-sulfate",
+                "Cell System": "BCRP-expressing HEK293 vesicles",
+                "Reference": "Hirano, 2005"
+            },
+            {
+                "Inhibitor": "Saquinavir",
+                "IC50 (μM)": 27.4,
+                "Ki (μM)": null,
+                "Substrate used": "Pheophorbide A",
+                "Cell System": "MDCK II-BCRP",
+                "Reference": "Weiss, 2007"
+            },
+            {
+                "Inhibitor": "Simvastatin",
+                "IC50 (μM)": null,
+                "Ki (μM)": 18.0,
+                "Substrate used": "Estrone 3-sulfate",
+                "Cell System": "BCRP-expressing HEK293 vesicles",
+                "Reference": "Hirano, 2005"
+            },
+            {
+                "Inhibitor": "SN-38",
+                "IC50 (μM)": 1.6,
+                "Ki (μM)": null,
+                "Substrate used": "Estrone 3-sulfate",
+                "Cell System": "BCRP-expressing vesicles from mouse lymphoma (P388) cells",
+                "Reference": "Suzuki, 2003"
+            },
+            {
+                "Inhibitor": "Sulfasalazine",
+                "IC50 (μM)": 0.73,
+                "Ki (μM)": null,
+                "Substrate used": "Estrone 3-sulfate",
+                "Cell System": "BCRP-expressing oocytes",
+                "Reference": "Elsby, 2011"
+            }
+        ],
+        "substrates": [
+            {
+                "Substrate": "4-methylumbelliferone sulfate",
+                "Km (μM)": "12.9",
+                "Cell System": "BCRP-expressing vesicles from mouse lymphoma (P388) cells",
+                "Reference": "Suzuki, 2003"
+            },
+            {
+                "Substrate": "Daunorubicin",
+                "Km (μM)": "2.5",
+                "Cell System": "ATP hydrolysis assay of BCRP-expressing Sf9 vesicles",
+                "Reference": "Ozvegy, 2001"
+            },
+            {
+                "Substrate": "Doxorubicin",
+                "Km (μM)": "5",
+                "Cell System": "ATP hydrolysis assay of BCRP-expressing Sf9 vesicles",
+                "Reference": "Ozvegy, 2001"
+            },
+            {
+                "Substrate": "Estradiol-17beta-glucuronide",
+                "Km (μM)": "44.2",
+                "Cell System": "BCRP-expressing HEK293 vesicles",
+                "Reference": "Chen, 2003"
+            },
+            {
+                "Substrate": "Estrone 3-sulfate",
+                "Km (μM)": "6.8",
+                "Cell System": "BCRP-expressing K562 vesicles",
+                "Reference": "Imai, 2003"
+            },
+            {
+                "Substrate": "Estrone 3-sulfate",
+                "Km (μM)": "16.6",
+                "Cell System": "BCRP-expressing vesicles from mouse lymphoma (P388) cells",
+                "Reference": "Suzuki, 2003"
+            },
+            {
+                "Substrate": "Hematoporphyrin",
+                "Km (μM)": "17.8",
+                "Cell System": "BCRP-expressing Sf9 vesicles",
+                "Reference": "Tamura, 2006"
+            },
+            {
+                "Substrate": "Imatinib",
+                "Km (μM)": "ND",
+                "Cell System": "Intracellular accumulation in BCRP-expressing HEK293 cells inhbited with Ko-143",
+                "Reference": "Burger, 2004"
+            },
+            {
+                "Substrate": "Methotrexate",
+                "Km (μM)": "681",
+                "Cell System": "BCRP-expressing MCF7\\/MX vesicles",
+                "Reference": "Volk, 2003"
+            },
+            {
+                "Substrate": "Methotrexate",
+                "Km (μM)": "1340",
+                "Cell System": "BCRP-expressing HEK293 vesicles",
+                "Reference": "Chen, 2003"
+            },
+            {
+                "Substrate": "Methotrexate",
+                "Km (μM)": "1410",
+                "Cell System": "BCRP-expressing HEK293 vesicles",
+                "Reference": "Tiwari, 2009"
+            },
+            {
+                "Substrate": "Mitoxantrone",
+                "Km (μM)": "7",
+                "Cell System": "ATP hydrolysis assay of BCRP-expressing Sf9 vesicles",
+                "Reference": "Ozvegy, 2001"
+            },
+            {
+                "Substrate": "Pitavastatin*",
+                "Km (μM)": "5.73",
+                "Cell System": "BCRP-expressing HEK293 vesicles",
+                "Reference": "Hirano, 2005"
+            },
+            {
+                "Substrate": "Rosuvastatin*",
+                "Km (μM)": "2.02",
+                "Cell System": "BCRP-expressing HEK293 vesicles",
+                "Reference": "Kitamura, 2008"
+            },
+            {
+                "Substrate": "Rosuvastatin*",
+                "Km (μM)": "10.1",
+                "Cell System": "MDCK II-BCRP",
+                "Reference": "Deng, 2008"
+            },
+            {
+                "Substrate": "SN-38",
+                "Km (μM)": "4.0",
+                "Cell System": "BCRP-expressing PC-6\\/SN2-5H vesicles",
+                "Reference": "Nakatomi, 2001"
+            },
+            {
+                "Substrate": "SN-38 glucuronide",
+                "Km (μM)": "26",
+                "Cell System": "BCRP-expressing PC-6\\/SN2-5H vesicles",
+                "Reference": "Nakatomi, 2001"
+            },
+            {
+                "Substrate": "Sulfasalazine",
+                "Km (μM)": "0.7",
+                "Cell System": "BCRP-expressing Sf9 vesicles",
+                "Reference": "Jani, 2009"
+            },
+            {
+                "Substrate": "Topotecan",
+                "Km (μM)": "213",
+                "Cell System": "MDCK II-BCRP",
+                "Reference": "Li, 2008"
+            }
+        ],
+        "ddi": [
+            {
+                "DDI": "1",
+                "Implicated Transporter": "ABCG2/OATPs",
+                "Interacting Drug": "Atazanavir  / Ritonavir",
+                "Affected Drug": "Rosuvastatin",
+                "AUC": "3.1",
+                "Cmax": "7.0",
+                "CLR": "ND",
+                "CL/F": "ND",
+                "t1/2": "ND",
+                "Effect on PD": "ND",
+                "Reference": "Busti, 2008",
+                "More Details": "DDI 1"
+            },
+            {
+                "DDI": "2",
+                "Implicated Transporter": "ABCG2/OATPs",
+                "Interacting Drug": "Cyclosporine",
+                "Affected Drug": "Pitavastatin",
+                "AUC": "4.6",
+                "Cmax": "6.6",
+                "CLR": "ND",
+                "CL/F": "ND",
+                "t1/2": "ND",
+                "Effect on PD": "ND",
+                "Reference": "Livalo Drug Label",
+                "More Details": "DDI 2"
+            },
+            {
+                "DDI": "3",
+                "Implicated Transporter": "ABCG2/OATPs",
+                "Interacting Drug": "Cyclosporine",
+                "Affected Drug": "Rosuvastatin",
+                "AUC": "5.0",
+                "Cmax": "10.6",
+                "CLR": "ND",
+                "CL/F": "ND",
+                "t1/2": "ND",
+                "Effect on PD": "ND",
+                "Reference": "Simonson, 2004",
+                "More Details": "DDI 3"
+            },
+            {
+                "DDI": "4",
+                "Implicated Transporter": "ABCG2/OATPs",
+                "Interacting Drug": "Cyclosporine",
+                "Affected Drug": "Rosuvastatin",
+                "AUC": "6.4",
+                "Cmax": "18.2",
+                "CLR": "ND",
+                "CL/F": "ND",
+                "t1/2": "ND",
+                "Effect on PD": "ND",
+                "Reference": "Simonson, 2004",
+                "More Details": "DDI 4"
+            },
+            {
+                "DDI": "5",
+                "Implicated Transporter": "ABCB1/ABCG2",
+                "Interacting Drug": "Elacridar (GF120918)",
+                "Affected Drug": "Topotecan",
+                "AUC": "2.4",
+                "Cmax": "2.8",
+                "CLR": "ND",
+                "CL/F": "ND",
+                "t1/2": "NS",
+                "Effect on PD": "ND",
+                "Reference": "Kruijtzer, 2002",
+                "More Details": "DDI 5"
+            }
+        ]
+    }
+}

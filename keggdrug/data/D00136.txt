@@ -1,0 +1,657 @@
+dr:D00136	cpd:C07051	P	unclassified
+dr:D00136	cpd:C07506	P	unclassified
+dr:D00136	cpd:C07521	P	unclassified
+dr:D00136	cpd:C07814	P	unclassified
+dr:D00136	dr:D00059	P	Target: DRD2
+dr:D00136	dr:D00068	P	unclassified
+dr:D00136	dr:D00095	CI,P	unclassified
+dr:D00136	dr:D00113	P	unclassified
+dr:D00136	dr:D00136	P	Enzyme: CYP2D6 CYP3A4 / Target: DRD2
+dr:D00136	dr:D00138	P	unclassified
+dr:D00136	dr:D00140	P	unclassified
+dr:D00136	dr:D00147	P	unclassified
+dr:D00136	dr:D00184	P	Enzyme: CYP3A4 / CYP inhibition: CYP3A4
+dr:D00136	dr:D00210	P	unclassified
+dr:D00136	dr:D00211	P	CYP induction: CYP3A4
+dr:D00136	dr:D00228	P	Enzyme: CYP2D6
+dr:D00136	dr:D00232	P	unclassified
+dr:D00136	dr:D00252	P	Enzyme: CYP3A4 / CYP induction: CYP3A4
+dr:D00136	dr:D00253	P	unclassified
+dr:D00136	dr:D00270	P	Enzyme: CYP2D6 / Target: DRD2 / CYP inhibition: CYP2D6
+dr:D00136	dr:D00276	P	Enzyme: CYP3A4 / CYP inhibition: CYP3A4
+dr:D00136	dr:D00282	P	unclassified
+dr:D00136	dr:D00283	P	Enzyme: CYP3A4
+dr:D00136	dr:D00292	P	Enzyme: CYP3A4 / CYP induction: CYP3A4
+dr:D00136	dr:D00295	P	unclassified
+dr:D00136	dr:D00308	P	Target: DRD2
+dr:D00136	dr:D00322	P	unclassified
+dr:D00136	dr:D00326	P	Enzyme: CYP2D6 / CYP inhibition: CYP2D6
+dr:D00136	dr:D00350	P	Enzyme: CYP3A4 / CYP inhibition: CYP3A4
+dr:D00136	dr:D00351	P	unclassified
+dr:D00136	dr:D00373	P	Target: DRD2
+dr:D00136	dr:D00374	P	Target: DRD2
+dr:D00136	dr:D00390	P	Target: DRD2
+dr:D00136	dr:D00394	P	unclassified
+dr:D00136	dr:D00395	P	unclassified
+dr:D00136	dr:D00397	P	unclassified
+dr:D00136	dr:D00403	P	Target: DRD2
+dr:D00136	dr:D00416	P	unclassified
+dr:D00136	dr:D00420	P	unclassified
+dr:D00136	dr:D00422	P	CYP inhibition: CYP2D6
+dr:D00136	dr:D00424	P	Enzyme: CYP3A4
+dr:D00136	dr:D00426	P	Enzyme: CYP2D6 CYP3A4 / Target: DRD2
+dr:D00136	dr:D00427	P	Enzyme: CYP2D6
+dr:D00136	dr:D00430	P	unclassified
+dr:D00136	dr:D00454	P	Target: DRD2
+dr:D00136	dr:D00458	P	Enzyme: CYP3A4 / Target: DRD2
+dr:D00136	dr:D00465	P	Enzyme: CYP3A4
+dr:D00136	dr:D00474	P	unclassified
+dr:D00136	dr:D00479	P	Target: DRD2
+dr:D00136	dr:D00480	P	Enzyme: CYP2D6
+dr:D00136	dr:D00481	P	unclassified
+dr:D00136	dr:D00484	P	unclassified
+dr:D00136	dr:D00493	P	Target: DRD2
+dr:D00136	dr:D00494	P	Enzyme: CYP2D6
+dr:D00136	dr:D00499	P	unclassified
+dr:D00136	dr:D00500	P	unclassified
+dr:D00136	dr:D00502	P	Target: DRD2
+dr:D00136	dr:D00503	P	Enzyme: CYP2D6 / Target: DRD2
+dr:D00136	dr:D00506	P	unclassified
+dr:D00136	dr:D00512	P	unclassified
+dr:D00136	dr:D00515	P	unclassified
+dr:D00136	dr:D00533	P	unclassified
+dr:D00136	dr:D00538	P	unclassified
+dr:D00136	dr:D00540	P	unclassified
+dr:D00136	dr:D00550	P	Enzyme: CYP3A4
+dr:D00136	dr:D00554	P	Enzyme: CYP3A4 / CYP inhibition: CYP3A4
+dr:D00136	dr:D00555	P	unclassified
+dr:D00136	dr:D00559	P	Target: DRD2
+dr:D00136	dr:D00560	P	Enzyme: CYP3A4 / Target: DRD2
+dr:D00136	dr:D00561	P	Target: DRD2
+dr:D00136	dr:D00567	P	CYP inhibition: CYP2D6
+dr:D00136	dr:D00578	P	unclassified
+dr:D00136	dr:D00585	P	Enzyme: CYP3A4
+dr:D00136	dr:D00613	P	unclassified
+dr:D00136	dr:D00631	P	Enzyme: CYP2D6 CYP3A4 / CYP inhibition: CYP2D6
+dr:D00136	dr:D00633	P	Target: DRD2
+dr:D00136	dr:D00636	P	Enzyme: CYP3A4
+dr:D00136	dr:D00642	P	unclassified
+dr:D00136	dr:D00643	P	unclassified
+dr:D00136	dr:D00646	P	Enzyme: CYP2D6 CYP3A4
+dr:D00136	dr:D00666	P	unclassified
+dr:D00136	dr:D00668	P	Enzyme: CYP2D6 / CYP inhibition: CYP2D6
+dr:D00136	dr:D00673	P	CYP inhibition: CYP2D6
+dr:D00136	dr:D00679	P	Enzyme: CYP3A4
+dr:D00136	dr:D00698	P	unclassified
+dr:D00136	dr:D00699	P	unclassified
+dr:D00136	dr:D00700	P	unclassified
+dr:D00136	dr:D00701	P	unclassified
+dr:D00136	dr:D00707	P	unclassified
+dr:D00136	dr:D00712	P	unclassified
+dr:D00136	dr:D00713	P	unclassified
+dr:D00136	dr:D00714	P	unclassified
+dr:D00136	dr:D00715	P	unclassified
+dr:D00136	dr:D00716	P	unclassified
+dr:D00136	dr:D00717	P	unclassified
+dr:D00136	dr:D00719	P	unclassified
+dr:D00136	dr:D00720	P	unclassified
+dr:D00136	dr:D00721	P	unclassified
+dr:D00136	dr:D00722	P	Enzyme: CYP3A4
+dr:D00136	dr:D00723	P	unclassified
+dr:D00136	dr:D00726	P	Enzyme: CYP2D6 / Target: DRD2 / CYP inhibition: CYP2D6
+dr:D00136	dr:D00753	P	Enzyme: CYP3A4 / CYP inhibition: CYP3A4
+dr:D00136	dr:D00762	P	unclassified
+dr:D00136	dr:D00774	P	unclassified
+dr:D00136	dr:D00778	P	unclassified
+dr:D00136	dr:D00779	P	unclassified
+dr:D00136	dr:D00780	P	Enzyme: CYP3A4 / Target: DRD2 / CYP inhibition: CYP3A4
+dr:D00136	dr:D00782	P	unclassified
+dr:D00136	dr:D00784	P	Target: DRD2
+dr:D00136	dr:D00785	P	Enzyme: CYP2D6 CYP3A4
+dr:D00136	dr:D00787	P	unclassified
+dr:D00136	dr:D00788	P	Target: DRD2
+dr:D00136	dr:D00789	P	Enzyme: CYP2D6 / Target: DRD2 / CYP inhibition: CYP2D6
+dr:D00136	dr:D00791	P	Target: DRD2
+dr:D00136	dr:D00792	P	Enzyme: CYP2D6 / Target: DRD2
+dr:D00136	dr:D00793	P	Enzyme: CYP2D6 / Target: DRD2
+dr:D00136	dr:D00794	P	Enzyme: CYP2D6 CYP3A4 / Target: DRD2
+dr:D00136	dr:D00795	P	Target: DRD2
+dr:D00136	dr:D00796	P	Target: DRD2
+dr:D00136	dr:D00797	P	Target: DRD2
+dr:D00136	dr:D00798	P	Target: DRD2
+dr:D00136	dr:D00799	P	Target: DRD2
+dr:D00136	dr:D00800	P	Target: DRD2
+dr:D00136	dr:D00801	P	unclassified
+dr:D00136	dr:D00809	P	Enzyme: CYP2D6 CYP3A4
+dr:D00136	dr:D00811	P	Enzyme: CYP2D6 CYP3A4
+dr:D00136	dr:D00812	P	unclassified
+dr:D00136	dr:D00814	P	Enzyme: CYP2D6
+dr:D00136	dr:D00815	P	Enzyme: CYP2D6 CYP3A4
+dr:D00136	dr:D00816	P	Enzyme: CYP2D6
+dr:D00136	dr:D00821	P	Enzyme: CYP2D6
+dr:D00136	dr:D00823	P	Enzyme: CYP2D6 / CYP inhibition: CYP2D6
+dr:D00136	dr:D00824	P	Enzyme: CYP2D6 / CYP inhibition: CYP2D6 CYP3A4
+dr:D00136	dr:D00831	P	unclassified
+dr:D00136	dr:D00851	P	unclassified
+dr:D00136	dr:D00854	P	unclassified
+dr:D00136	dr:D00874	P	unclassified
+dr:D00136	dr:D00879	P	unclassified
+dr:D00136	dr:D00882	P	unclassified
+dr:D00136	dr:D00894	P	Enzyme: CYP3A4
+dr:D00136	dr:D00895	P	unclassified
+dr:D00136	dr:D00896	P	Enzyme: CYP3A4 / CYP induction: CYP3A4
+dr:D00136	dr:D00897	P	Enzyme: CYP3A4 / CYP inhibition: CYP3A4
+dr:D00136	dr:D00899	P	Enzyme: CYP3A4 / CYP inhibition: CYP3A4
+dr:D00136	dr:D00945	P	unclassified
+dr:D00136	dr:D00960	P	unclassified
+dr:D00136	dr:D00961	P	unclassified
+dr:D00136	dr:D00975	P	Enzyme: CYP3A4 / CYP induction: CYP3A4
+dr:D00136	dr:D00987	P	Enzyme: CYP3A4 / Target: DRD2
+dr:D00136	dr:D00996	CI	unclassified
+dr:D00136	dr:D01002	P	unclassified
+dr:D00136	dr:D01003	P	unclassified
+dr:D00136	dr:D01004	P	unclassified
+dr:D00136	dr:D01005	P	unclassified
+dr:D00136	dr:D01006	P	unclassified
+dr:D00136	dr:D01007	P	Enzyme: CYP3A4
+dr:D00136	dr:D01028	P	unclassified
+dr:D00136	dr:D01044	P	Target: DRD2
+dr:D00136	dr:D01051	P	Target: DRD2
+dr:D00136	dr:D01071	P	unclassified
+dr:D00136	dr:D01077	P	unclassified
+dr:D00136	dr:D01078	P	Enzyme: CYP2D6 / CYP inhibition: CYP2D6
+dr:D00136	dr:D01101	P	Enzyme: CYP3A4 / Target: DRD2
+dr:D00136	dr:D01103	P	unclassified
+dr:D00136	dr:D01105	P	Target: DRD2
+dr:D00136	dr:D01110	P	unclassified
+dr:D00136	dr:D01118	P	unclassified
+dr:D00136	dr:D01130	P	Target: DRD2
+dr:D00136	dr:D01148	P	Enzyme: CYP2D6 CYP3A4
+dr:D00136	dr:D01165	P	unclassified
+dr:D00136	dr:D01176	P	Enzyme: CYP3A4 / Target: DRD2
+dr:D00136	dr:D01179	P	CYP inhibition: CYP2D6
+dr:D00136	dr:D01201	P	unclassified
+dr:D00136	dr:D01226	P	Target: DRD2
+dr:D00136	dr:D01227	P	Enzyme: CYP3A4 / CYP induction: CYP3A4
+dr:D00136	dr:D01231	P	unclassified
+dr:D00136	dr:D01235	P	unclassified
+dr:D00136	dr:D01236	P	unclassified
+dr:D00136	dr:D01242	P	Enzyme: CYP2D6
+dr:D00136	dr:D01253	P	Enzyme: CYP3A4
+dr:D00136	dr:D01269	P	Enzyme: CYP3A4
+dr:D00136	dr:D01276	P	unclassified
+dr:D00136	dr:D01277	P	unclassified
+dr:D00136	dr:D01285	P	unclassified
+dr:D00136	dr:D01297	P	unclassified
+dr:D00136	dr:D01302	P	CYP inhibition: CYP2D6
+dr:D00136	dr:D01307	P	unclassified
+dr:D00136	dr:D01310	P	unclassified
+dr:D00136	dr:D01314	P	unclassified
+dr:D00136	dr:D01315	P	unclassified
+dr:D00136	dr:D01321	P	Target: DRD2
+dr:D00136	dr:D01322	P	Enzyme: CYP3A4 / CYP inhibition: CYP3A4
+dr:D00136	dr:D01339	P	unclassified
+dr:D00136	dr:D01348	P	Target: DRD2
+dr:D00136	dr:D01359	P	unclassified
+dr:D00136	dr:D01361	P	unclassified
+dr:D00136	dr:D01377	P	unclassified
+dr:D00136	dr:D01382	P	unclassified
+dr:D00136	dr:D01412	P	Target: DRD2
+dr:D00136	dr:D01425	P	unclassified
+dr:D00136	dr:D01429	P	unclassified
+dr:D00136	dr:D01447	P	Target: DRD2
+dr:D00136	dr:D01448	P	Target: DRD2
+dr:D00136	dr:D01451	P	unclassified
+dr:D00136	dr:D01462	P	Target: DRD2
+dr:D00136	dr:D01463	P	unclassified
+dr:D00136	dr:D01468	P	Enzyme: CYP3A4 / Target: DRD2
+dr:D00136	dr:D01477	P	Target: DRD2
+dr:D00136	dr:D01482	P	Target: DRD2
+dr:D00136	dr:D01485	P	Target: DRD2
+dr:D00136	dr:D01491	P	unclassified
+dr:D00136	dr:D01505	P	Target: DRD2
+dr:D00136	dr:D01510	P	Enzyme: CYP3A4 / CYP induction: CYP3A4
+dr:D00136	dr:D01520	P	Target: DRD2
+dr:D00136	dr:D01521	P	unclassified
+dr:D00136	dr:D01522	P	Target: DRD2
+dr:D00136	dr:D01538	P	unclassified
+dr:D00136	dr:D01546	P	Enzyme: CYP2D6
+dr:D00136	dr:D01548	P	Target: DRD2
+dr:D00136	dr:D01600	P	unclassified
+dr:D00136	dr:D01615	P	Enzyme: CYP3A4 / CYP induction: CYP3A4
+dr:D00136	dr:D01632	P	Enzyme: CYP3A4 / CYP induction: CYP3A4
+dr:D00136	dr:D01636	P	unclassified
+dr:D00136	dr:D01648	P	unclassified
+dr:D00136	dr:D01699	P	Enzyme: CYP2D6 CYP3A4
+dr:D00136	dr:D01740	P	unclassified
+dr:D00136	dr:D01742	P	Target: DRD2
+dr:D00136	dr:D01745	P	Enzyme: CYP3A4 / Target: DRD2
+dr:D00136	dr:D01815	P	unclassified
+dr:D00136	dr:D01832	P	Enzyme: CYP3A4 / CYP induction: CYP3A4
+dr:D00136	dr:D01855	P	Enzyme: CYP3A4
+dr:D00136	dr:D01860	P	Target: DRD2
+dr:D00136	dr:D01871	P	unclassified
+dr:D00136	dr:D01875	P	unclassified
+dr:D00136	dr:D01898	P	Enzyme: CYP2D6 CYP3A4 / Target: DRD2
+dr:D00136	dr:D01903	P	unclassified
+dr:D00136	dr:D01929	P	unclassified
+dr:D00136	dr:D01939	P	Target: DRD2
+dr:D00136	dr:D01946	P	unclassified
+dr:D00136	dr:D01948	P	Enzyme: CYP3A4 / CYP induction: CYP3A4
+dr:D00136	dr:D01976	P	unclassified
+dr:D00136	dr:D01980	P	unclassified
+dr:D00136	dr:D01992	P	unclassified
+dr:D00136	dr:D02004	P	Target: DRD2
+dr:D00136	dr:D02009	P	unclassified
+dr:D00136	dr:D02022	P	Target: DRD2
+dr:D00136	dr:D02034	P	unclassified
+dr:D00136	dr:D02035	P	Target: DRD2
+dr:D00136	dr:D02037	P	Enzyme: CYP2D6 / Target: DRD2
+dr:D00136	dr:D02069	P	unclassified
+dr:D00136	dr:D02070	P	unclassified
+dr:D00136	dr:D02071	P	unclassified
+dr:D00136	dr:D02091	P	unclassified
+dr:D00136	dr:D02096	P	CYP induction: CYP3A4
+dr:D00136	dr:D02100	P	Target: DRD2
+dr:D00136	dr:D02102	P	Enzyme: CYP2D6 CYP3A4 / CYP induction: CYP3A4
+dr:D00136	dr:D02103	P	unclassified
+dr:D00136	dr:D02106	P	unclassified
+dr:D00136	dr:D02126	P	unclassified
+dr:D00136	dr:D02135	P	unclassified
+dr:D00136	dr:D02149	CI	unclassified
+dr:D00136	dr:D02163	P	Target: DRD2
+dr:D00136	dr:D02174	P	Enzyme: CYP3A4 / CYP induction: CYP3A4
+dr:D00136	dr:D02184	P	unclassified
+dr:D00136	dr:D02208	P	Target: DRD2
+dr:D00136	dr:D02211	P	Enzyme: CYP3A4
+dr:D00136	dr:D02212	P	unclassified
+dr:D00136	dr:D02213	P	Enzyme: CYP2D6 / Target: DRD2 / CYP inhibition: CYP2D6
+dr:D00136	dr:D02219	P	Enzyme: CYP3A4 / CYP inhibition: CYP2D6
+dr:D00136	dr:D02236	P	Target: DRD2
+dr:D00136	dr:D02246	P	unclassified
+dr:D00136	dr:D02247	P	unclassified
+dr:D00136	dr:D02248	P	Target: DRD2
+dr:D00136	dr:D02252	P	unclassified
+dr:D00136	dr:D02253	P	unclassified
+dr:D00136	dr:D02260	P	Enzyme: CYP2D6 / CYP inhibition: CYP2D6
+dr:D00136	dr:D02272	P	unclassified
+dr:D00136	dr:D02340	P	Enzyme: CYP2D6 CYP3A4 / Target: DRD2
+dr:D00136	dr:D02354	P	Target: DRD2
+dr:D00136	dr:D02362	P	Enzyme: CYP2D6 / CYP inhibition: CYP2D6
+dr:D00136	dr:D02371	P	Target: DRD2
+dr:D00136	dr:D02372	P	Target: DRD2
+dr:D00136	dr:D02375	P	Enzyme: CYP3A4 / CYP inhibition: CYP2D6
+dr:D00136	dr:D02408	P	unclassified
+dr:D00136	dr:D02417	P	unclassified
+dr:D00136	dr:D02484	P	unclassified
+dr:D00136	dr:D02485	P	unclassified
+dr:D00136	dr:D02497	P	Enzyme: CYP3A4 / CYP inhibition: CYP3A4
+dr:D00136	dr:D02498	P	unclassified
+dr:D00136	dr:D02523	P	unclassified
+dr:D00136	dr:D02524	P	unclassified
+dr:D00136	dr:D02525	P	unclassified
+dr:D00136	dr:D02535	P	unclassified
+dr:D00136	dr:D02537	P	CYP inhibition: CYP2D6
+dr:D00136	dr:D02554	P	Enzyme: CYP3A4 / CYP induction: CYP3A4
+dr:D00136	dr:D02555	P	CYP inhibition: CYP3A4
+dr:D00136	dr:D02556	P	unclassified
+dr:D00136	dr:D02561	P	CYP inhibition: CYP2D6
+dr:D00136	dr:D02565	P	unclassified
+dr:D00136	dr:D02567	P	Enzyme: CYP2D6 CYP3A4 / CYP inhibition: CYP2D6
+dr:D00136	dr:D02591	P	Enzyme: CYP3A4 / CYP induction: CYP3A4
+dr:D00136	dr:D02592	P	Enzyme: CYP3A4 / CYP induction: CYP3A4
+dr:D00136	dr:D02599	P	unclassified
+dr:D00136	dr:D02604	P	Target: DRD2
+dr:D00136	dr:D02605	P	Target: DRD2
+dr:D00136	dr:D02607	P	unclassified
+dr:D00136	dr:D02608	P	Target: DRD2
+dr:D00136	dr:D02609	P	Target: DRD2
+dr:D00136	dr:D02610	P	Target: DRD2
+dr:D00136	dr:D02612	P	Target: DRD2
+dr:D00136	dr:D02613	P	Target: DRD2
+dr:D00136	dr:D02618	P	unclassified
+dr:D00136	dr:D02622	P	Target: DRD2
+dr:D00136	dr:D02623	P	Target: DRD2
+dr:D00136	dr:D02625	P	Target: DRD2
+dr:D00136	dr:D02626	P	Enzyme: CYP3A4 / Target: DRD2
+dr:D00136	dr:D02641	P	Target: DRD2
+dr:D00136	dr:D02642	P	unclassified
+dr:D00136	dr:D02643	P	unclassified
+dr:D00136	dr:D02644	P	Target: DRD2
+dr:D00136	dr:D02645	P	Target: DRD2
+dr:D00136	dr:D02653	P	unclassified
+dr:D00136	dr:D02656	P	unclassified
+dr:D00136	dr:D02663	P	unclassified
+dr:D00136	dr:D02666	P	Enzyme: CYP2D6 CYP3A4 / Target: DRD2
+dr:D00136	dr:D02670	P	Target: DRD2
+dr:D00136	dr:D02671	P	Target: DRD2
+dr:D00136	dr:D02676	P	Target: DRD2
+dr:D00136	dr:D02679	P	unclassified
+dr:D00136	dr:D02680	P	Target: DRD2
+dr:D00136	dr:D02681	P	Target: DRD2
+dr:D00136	dr:D02682	P	Target: DRD2
+dr:D00136	dr:D02683	P	Target: DRD2
+dr:D00136	dr:D02688	P	Target: DRD2
+dr:D00136	dr:D02691	P	unclassified
+dr:D00136	dr:D02704	P	unclassified
+dr:D00136	dr:D02732	P	Enzyme: CYP3A4
+dr:D00136	dr:D02748	P	unclassified
+dr:D00136	dr:D02775	P	unclassified
+dr:D00136	dr:D02798	P	unclassified
+dr:D00136	dr:D02817	P	unclassified
+dr:D00136	dr:D02861	P	Enzyme: CYP3A4 / CYP inhibition: CYP3A4
+dr:D00136	dr:D02867	CI,P	Enzyme: CYP3A4 / CYP inhibition: CYP3A4
+dr:D00136	dr:D02876	P	unclassified
+dr:D00136	dr:D02968	P	Enzyme: CYP3A4 / CYP inhibition: CYP3A4 / CYP induction: CYP3A4
+dr:D00136	dr:D02972	P	unclassified
+dr:D00136	dr:D02995	P	Target: DRD2 / CYP inhibition: CYP2D6
+dr:D00136	dr:D03038	P	unclassified
+dr:D00136	dr:D03071	P	unclassified
+dr:D00136	dr:D03087	P	unclassified
+dr:D00136	dr:D03106	P	unclassified
+dr:D00136	dr:D03165	P	Enzyme: CYP3A4 / Target: DRD2 / CYP inhibition: CYP3A4
+dr:D00136	dr:D03180	P	unclassified
+dr:D00136	dr:D03182	P	unclassified
+dr:D00136	dr:D03199	P	unclassified
+dr:D00136	dr:D03214	P	Target: DRD2
+dr:D00136	dr:D03264	P	unclassified
+dr:D00136	dr:D03274	P	Enzyme: CYP2D6 / Target: DRD2 / CYP inhibition: CYP2D6
+dr:D00136	dr:D03276	P	unclassified
+dr:D00136	dr:D03290	P	Enzyme: CYP2D6
+dr:D00136	dr:D03491	P	unclassified
+dr:D00136	dr:D03494	P	Target: DRD2
+dr:D00136	dr:D03503	P	unclassified
+dr:D00136	dr:D03504	P	Enzyme: CYP3A4 / CYP inhibition: CYP2D6
+dr:D00136	dr:D03505	P	Enzyme: CYP3A4 / CYP inhibition: CYP2D6
+dr:D00136	dr:D03534	P	Target: DRD2
+dr:D00136	dr:D03535	P	unclassified
+dr:D00136	dr:D03556	P	Enzyme: CYP2D6 / Target: DRD2
+dr:D00136	dr:D03654	P	Enzyme: CYP2D6 CYP3A4
+dr:D00136	dr:D03656	P	Enzyme: CYP3A4 / CYP inhibition: CYP3A4
+dr:D00136	dr:D03669	P	CYP induction: CYP3A4
+dr:D00136	dr:D03711	P	unclassified
+dr:D00136	dr:D03824	P	unclassified
+dr:D00136	dr:D03833	P	Enzyme: CYP3A4 / CYP inhibition: CYP3A4
+dr:D00136	dr:D03835	P	Enzyme: CYP3A4 / CYP inhibition: CYP3A4
+dr:D00136	dr:D03837	P	Enzyme: CYP3A4 / CYP inhibition: CYP3A4
+dr:D00136	dr:D03891	P	Target: DRD2
+dr:D00136	dr:D03892	P	Target: DRD2
+dr:D00136	dr:D03914	P	CYP inhibition: CYP2D6
+dr:D00136	dr:D03937	P	unclassified
+dr:D00136	dr:D04024	P	Enzyme: CYP3A4
+dr:D00136	dr:D04034	P	Enzyme: CYP2D6 / Target: DRD2 / CYP inhibition: CYP2D6
+dr:D00136	dr:D04038	P	Enzyme: CYP2D6 / Target: DRD2
+dr:D00136	dr:D04052	CI,P	Enzyme: CYP3A4
+dr:D00136	dr:D04054	P	unclassified
+dr:D00136	dr:D04057	P	unclassified
+dr:D00136	dr:D04059	P	unclassified
+dr:D00136	dr:D04077	P	unclassified
+dr:D00136	dr:D04087	P	unclassified
+dr:D00136	dr:D04112	P	Enzyme: CYP3A4 / CYP induction: CYP3A4
+dr:D00136	dr:D04116	P	unclassified
+dr:D00136	dr:D04307	P	unclassified
+dr:D00136	dr:D04458	P	CYP inhibition: CYP2D6
+dr:D00136	dr:D04479	P	unclassified
+dr:D00136	dr:D04488	P	Target: DRD2
+dr:D00136	dr:D04556	P	unclassified
+dr:D00136	dr:D04605	P	unclassified
+dr:D00136	dr:D04641	P	Enzyme: CYP3A4 / CYP inhibition: CYP3A4
+dr:D00136	dr:D04652	P	unclassified
+dr:D00136	dr:D04666	P	unclassified
+dr:D00136	dr:D04693	P	Target: DRD2
+dr:D00136	dr:D04694	P	Target: DRD2
+dr:D00136	dr:D04749	P	unclassified
+dr:D00136	dr:D04750	P	unclassified
+dr:D00136	dr:D04813	P	Enzyme: CYP3A4
+dr:D00136	dr:D04820	P	Enzyme: CYP3A4 / Target: DRD2
+dr:D00136	dr:D04855	P	unclassified
+dr:D00136	dr:D04868	P	unclassified
+dr:D00136	dr:D04965	P	Enzyme: CYP2D6 / Target: DRD2
+dr:D00136	dr:D04985	P	unclassified
+dr:D00136	dr:D05008	P	Enzyme: CYP2D6 / Target: DRD2 / CYP inhibition: CYP2D6
+dr:D00136	dr:D05010	P	Target: DRD2
+dr:D00136	dr:D05024	P	unclassified
+dr:D00136	dr:D05231	P	unclassified
+dr:D00136	dr:D05276	P	unclassified
+dr:D00136	dr:D05339	P	Target: DRD2
+dr:D00136	dr:D05340	P	Target: DRD2
+dr:D00136	dr:D05351	P	unclassified
+dr:D00136	dr:D05374	P	Enzyme: CYP2D6 / CYP inhibition: CYP2D6
+dr:D00136	dr:D05375	P	Enzyme: CYP2D6 / CYP inhibition: CYP2D6
+dr:D00136	dr:D05575	P	Target: DRD2
+dr:D00136	dr:D05677	P	Target: DRD2
+dr:D00136	dr:D05682	P	Target: DRD2
+dr:D00136	dr:D05690	P	Target: DRD2
+dr:D00136	dr:D05699	P	CYP inhibition: CYP2D6
+dr:D00136	dr:D05700	P	CYP inhibition: CYP2D6
+dr:D00136	dr:D05701	P	CYP inhibition: CYP2D6
+dr:D00136	dr:D05768	P	Target: DRD2
+dr:D00136	dr:D05775	P	unclassified
+dr:D00136	dr:D05832	P	Target: DRD2
+dr:D00136	dr:D05891	P	unclassified
+dr:D00136	dr:D05928	P	Enzyme: CYP3A4 / CYP inhibition: CYP3A4 CYP2D6
+dr:D00136	dr:D06106	P	unclassified
+dr:D00136	dr:D06246	P	unclassified
+dr:D00136	dr:D06273	P	Enzyme: CYP3A4
+dr:D00136	dr:D06405	P	Enzyme: CYP3A4
+dr:D00136	dr:D06407	P	Enzyme: CYP3A4
+dr:D00136	dr:D06413	P	Enzyme: CYP3A4
+dr:D00136	dr:D06414	P	Enzyme: CYP3A4
+dr:D00136	dr:D06478	P	Enzyme: CYP3A4 / CYP inhibition: CYP3A4
+dr:D00136	dr:D06542	P	unclassified
+dr:D00136	dr:D06566	P	Target: DRD2
+dr:D00136	dr:D06567	P	Target: DRD2
+dr:D00136	dr:D06597	P	Enzyme: CYP3A4 / CYP inhibition: CYP3A4 / CYP induction: CYP3A4
+dr:D00136	dr:D06623	P	Target: DRD2
+dr:D00136	dr:D06887	P	unclassified
+dr:D00136	dr:D07065	P	Target: DRD2
+dr:D00136	dr:D07073	P	Enzyme: CYP3A4
+dr:D00136	dr:D07076	P	unclassified
+dr:D00136	dr:D07099	P	unclassified
+dr:D00136	dr:D07101	P	Target: DRD2
+dr:D00136	dr:D07102	P	Target: DRD2
+dr:D00136	dr:D07217	P	Target: DRD2
+dr:D00136	dr:D07226	P	Enzyme: CYP2D6 CYP3A4
+dr:D00136	dr:D07298	P	unclassified
+dr:D00136	dr:D07301	P	unclassified
+dr:D00136	dr:D07302	P	unclassified
+dr:D00136	dr:D07303	P	unclassified
+dr:D00136	dr:D07305	P	Target: DRD2
+dr:D00136	dr:D07307	P	unclassified
+dr:D00136	dr:D07308	P	unclassified
+dr:D00136	dr:D07310	P	Target: DRD2
+dr:D00136	dr:D07311	P	unclassified
+dr:D00136	dr:D07312	P	Target: DRD2
+dr:D00136	dr:D07321	P	unclassified
+dr:D00136	dr:D07322	P	unclassified
+dr:D00136	dr:D07323	P	unclassified
+dr:D00136	dr:D07324	P	unclassified
+dr:D00136	dr:D07334	P	unclassified
+dr:D00136	dr:D07335	P	unclassified
+dr:D00136	dr:D07336	P	unclassified
+dr:D00136	dr:D07406	P	unclassified
+dr:D00136	dr:D07448	P	Enzyme: CYP2D6 CYP3A4
+dr:D00136	dr:D07460	P	Target: DRD2
+dr:D00136	dr:D07471	P	unclassified
+dr:D00136	dr:D07511	P	unclassified
+dr:D00136	dr:D07513	P	unclassified
+dr:D00136	dr:D07520	P	Enzyme: CYP2D6 CYP3A4 / CYP inhibition: CYP2D6
+dr:D00136	dr:D07538	P	Enzyme: CYP3A4 / CYP induction: CYP3A4
+dr:D00136	dr:D07563	P	Target: DRD2
+dr:D00136	dr:D07583	P	unclassified
+dr:D00136	dr:D07595	P	CYP induction: CYP3A4
+dr:D00136	dr:D07601	P	unclassified
+dr:D00136	dr:D07685	P	unclassified
+dr:D00136	dr:D07710	P	Enzyme: CYP3A4 / CYP inhibition: CYP3A4
+dr:D00136	dr:D07718	P	Target: DRD2
+dr:D00136	dr:D07727	P	Enzyme: CYP2D6 CYP3A4
+dr:D00136	dr:D07748	P	unclassified
+dr:D00136	dr:D07756	P	unclassified
+dr:D00136	dr:D07757	P	unclassified
+dr:D00136	dr:D07759	P	unclassified
+dr:D00136	dr:D07782	P	unclassified
+dr:D00136	dr:D07791	P	unclassified
+dr:D00136	dr:D07796	P	Enzyme: CYP3A4 / CYP induction: CYP3A4
+dr:D00136	dr:D07797	P	Enzyme: CYP3A4 / CYP induction: CYP3A4
+dr:D00136	dr:D07798	P	Enzyme: CYP3A4 / CYP induction: CYP3A4
+dr:D00136	dr:D07799	P	Enzyme: CYP3A4 / CYP induction: CYP3A4
+dr:D00136	dr:D07800	P	Enzyme: CYP3A4 / CYP induction: CYP3A4
+dr:D00136	dr:D07801	P	Enzyme: CYP3A4 / CYP induction: CYP3A4
+dr:D00136	dr:D07802	P	Enzyme: CYP3A4 / CYP induction: CYP3A4
+dr:D00136	dr:D07803	P	Enzyme: CYP2D6 / CYP inhibition: CYP2D6
+dr:D00136	dr:D07804	P	unclassified
+dr:D00136	dr:D07812	P	unclassified
+dr:D00136	dr:D07820	P	unclassified
+dr:D00136	dr:D07821	P	unclassified
+dr:D00136	dr:D07837	P	Enzyme: CYP3A4
+dr:D00136	dr:D07838	P	Enzyme: CYP3A4
+dr:D00136	dr:D07865	P	unclassified
+dr:D00136	dr:D07868	P	Enzyme: CYP3A4 / Target: DRD2
+dr:D00136	dr:D07870	P	Target: DRD2
+dr:D00136	dr:D07872	P	Enzyme: CYP2D6
+dr:D00136	dr:D07875	P	Enzyme: CYP2D6
+dr:D00136	dr:D07880	P	CYP inhibition: CYP2D6
+dr:D00136	dr:D07906	P	Enzyme: CYP3A4
+dr:D00136	dr:D07909	P	unclassified
+dr:D00136	dr:D07910	P	unclassified
+dr:D00136	dr:D07913	P	Enzyme: CYP2D6 CYP3A4 / CYP inhibition: CYP2D6
+dr:D00136	dr:D07928	P	Enzyme: CYP3A4 / CYP inhibition: CYP3A4
+dr:D00136	dr:D07946	P	unclassified
+dr:D00136	dr:D07951	P	unclassified
+dr:D00136	dr:D07976	P	Target: DRD2
+dr:D00136	dr:D07977	P	Target: DRD2
+dr:D00136	dr:D07984	P	Enzyme: CYP2D6 / CYP inhibition: CYP2D6 CYP3A4
+dr:D00136	dr:D07993	P	CYP induction: CYP3A4
+dr:D00136	dr:D08033	P	unclassified
+dr:D00136	dr:D08035	P	Enzyme: CYP2D6 CYP3A4 / Target: DRD2
+dr:D00136	dr:D08044	P	CYP inhibition: CYP2D6
+dr:D00136	dr:D08057	P	Target: DRD2
+dr:D00136	dr:D08070	P	Enzyme: CYP2D6 CYP3A4
+dr:D00136	dr:D08071	P	Enzyme: CYP2D6 CYP3A4
+dr:D00136	dr:D08072	P	unclassified
+dr:D00136	dr:D08132	P	Target: DRD2
+dr:D00136	dr:D08133	P	unclassified
+dr:D00136	dr:D08134	P	unclassified
+dr:D00136	dr:D08135	P	unclassified
+dr:D00136	dr:D08136	P	unclassified
+dr:D00136	dr:D08137	P	unclassified
+dr:D00136	dr:D08140	P	unclassified
+dr:D00136	dr:D08148	P	Enzyme: CYP2D6 CYP3A4 / Target: DRD2
+dr:D00136	dr:D08157	P	unclassified
+dr:D00136	dr:D08160	P	unclassified
+dr:D00136	dr:D08171	P	unclassified
+dr:D00136	dr:D08195	P	Enzyme: CYP2D6 CYP3A4 / CYP induction: CYP3A4
+dr:D00136	dr:D08209	P	unclassified
+dr:D00136	dr:D08217	P	unclassified
+dr:D00136	dr:D08220	P	unclassified
+dr:D00136	dr:D08226	P	Target: DRD2
+dr:D00136	dr:D08235	P	Target: DRD2
+dr:D00136	dr:D08259	P	Enzyme: CYP3A4 / CYP inhibition: CYP3A4
+dr:D00136	dr:D08287	P	unclassified
+dr:D00136	dr:D08288	P	Enzyme: CYP2D6
+dr:D00136	dr:D08297	P	Target: DRD2
+dr:D00136	dr:D08305	P	unclassified
+dr:D00136	dr:D08325	P	unclassified
+dr:D00136	dr:D08339	P	Target: DRD2
+dr:D00136	dr:D08341	P	Target: DRD2
+dr:D00136	dr:D08342	P	Target: DRD2
+dr:D00136	dr:D08356	P	unclassified
+dr:D00136	dr:D08378	P	unclassified
+dr:D00136	dr:D08382	P	unclassified
+dr:D00136	dr:D08384	P	unclassified
+dr:D00136	dr:D08385	P	Target: DRD2
+dr:D00136	dr:D08389	P	unclassified
+dr:D00136	dr:D08395	P	unclassified
+dr:D00136	dr:D08425	P	unclassified
+dr:D00136	dr:D08426	P	unclassified
+dr:D00136	dr:D08430	P	Target: DRD2
+dr:D00136	dr:D08432	P	Enzyme: CYP2D6
+dr:D00136	dr:D08441	P	Enzyme: CYP3A4
+dr:D00136	dr:D08447	P	unclassified
+dr:D00136	dr:D08456	P	Enzyme: CYP3A4 / Target: DRD2
+dr:D00136	dr:D08457	P	Target: DRD2
+dr:D00136	dr:D08458	P	unclassified
+dr:D00136	dr:D08459	P	unclassified
+dr:D00136	dr:D08479	P	CYP induction: CYP3A4
+dr:D00136	dr:D08489	P	Target: DRD2
+dr:D00136	dr:D08511	P	unclassified
+dr:D00136	dr:D08522	P	Enzyme: CYP3A4
+dr:D00136	dr:D08549	P	Target: DRD2
+dr:D00136	dr:D08558	P	Target: DRD2
+dr:D00136	dr:D08561	P	unclassified
+dr:D00136	dr:D08575	P	Enzyme: CYP2D6
+dr:D00136	dr:D08585	P	Target: DRD2
+dr:D00136	dr:D08590	P	Target: DRD2
+dr:D00136	dr:D08594	P	unclassified
+dr:D00136	dr:D08595	P	unclassified
+dr:D00136	dr:D08616	P	Enzyme: CYP3A4 / CYP inhibition: CYP2D6 CYP3A4
+dr:D00136	dr:D08636	P	Target: DRD2
+dr:D00136	dr:D08637	P	Target: DRD2
+dr:D00136	dr:D08638	P	unclassified
+dr:D00136	dr:D08645	P	unclassified
+dr:D00136	dr:D08653	P	unclassified
+dr:D00136	dr:D08687	P	Target: DRD2
+dr:D00136	dr:D08691	P	Enzyme: CYP2D6 / Target: DRD2
+dr:D00136	dr:D08692	P	Enzyme: CYP2D6 / Target: DRD2
+dr:D00136	dr:D08693	P	Enzyme: CYP2D6 / Target: DRD2
+dr:D00136	dr:D08768	P	Enzyme: CYP2D6
+dr:D00136	dr:D08774	P	Enzyme: CYP3A4 / CYP inhibition: CYP3A4
+dr:D00136	dr:D08837	P	CYP inhibition: CYP2D6 CYP3A4
+dr:D00136	dr:D08838	P	unclassified
+dr:D00136	dr:D08876	P	unclassified
+dr:D00136	dr:D08923	P	Enzyme: CYP2D6 CYP3A4
+dr:D00136	dr:D08988	P	Enzyme: CYP3A4 / CYP inhibition: CYP2D6
+dr:D00136	dr:D09012	P	Enzyme: CYP3A4 / CYP inhibition: CYP3A4
+dr:D00136	dr:D09017	P	unclassified
+dr:D00136	dr:D09215	P	unclassified
+dr:D00136	dr:D09216	P	unclassified
+dr:D00136	dr:D09394	P	unclassified
+dr:D00136	dr:D09402	P	unclassified
+dr:D00136	dr:D09535	P	Enzyme: CYP3A4 / CYP inhibition: CYP2D6
+dr:D00136	dr:D09612	P	unclassified
+dr:D00136	dr:D09638	P	Enzyme: CYP3A4
+dr:D00136	dr:D09701	P	Enzyme: CYP3A4
+dr:D00136	dr:D09731	P	Enzyme: CYP3A4
+dr:D00136	dr:D09756	P	Enzyme: CYP3A4 / CYP inhibition: CYP2D6 CYP3A4
+dr:D00136	dr:D09785	P	Enzyme: CYP2D6 CYP3A4
+dr:D00136	dr:D09819	P	Enzyme: CYP2D6 / Target: DRD2 / CYP inhibition: CYP2D6
+dr:D00136	dr:D09876	P	Enzyme: CYP3A4 / Target: DRD2
+dr:D00136	dr:D09881	P	Enzyme-Target: CYP3A4 / CYP inhibition: CYP2D6
+dr:D00136	dr:D09883	P	unclassified
+dr:D00136	dr:D09894	P	Enzyme: CYP2D6
+dr:D00136	dr:D09996	P	unclassified
+dr:D00136	dr:D09997	P	Enzyme: CYP3A4 / Target: DRD2
+dr:D00136	dr:D10003	P	unclassified
+dr:D00136	dr:D10019	P	Enzyme: CYP3A4 / CYP inhibition: CYP2D6
+dr:D00136	dr:D10064	P	Enzyme: CYP3A4 / CYP induction: CYP3A4
+dr:D00136	dr:D10065	P	Enzyme: CYP3A4
+dr:D00136	dr:D10081	P	unclassified
+dr:D00136	dr:D10093	P	CYP inhibition: CYP2D6 / CYP induction: CYP3A4
+dr:D00136	dr:D10104	P	Enzyme: CYP3A4 / CYP induction: CYP3A4
+dr:D00136	dr:D10105	P	Enzyme: CYP3A4
+dr:D00136	dr:D10161	P	unclassified
+dr:D00136	dr:D10180	P	Enzyme: CYP2D6
+dr:D00136	dr:D10181	P	Enzyme: CYP2D6
+dr:D00136	dr:D10191	P	unclassified
+dr:D00136	dr:D10218	P	unclassified
+dr:D00136	dr:D10293	P	unclassified
+dr:D00136	dr:D10319	P	Enzyme: CYP3A4 / CYP inhibition: CYP2D6
+dr:D00136	dr:D10372	P	unclassified
+dr:D00136	dr:D10469	P	unclassified
+dr:D00136	dr:D10514	P	unclassified
+dr:D00136	dr:D10519	P	Enzyme: CYP3A4 / CYP inhibition: CYP3A4
+dr:D00136	dr:D10551	P	unclassified
+dr:D00136	dr:D10564	P	unclassified
+dr:D00136	dr:D10566	P	unclassified
+dr:D00136	dr:D10742	P	Enzyme: CYP3A4 / CYP inhibition: CYP2D6
+dr:D00136	dr:D10745	P	Enzyme: CYP3A4 / CYP inhibition: CYP3A4
+dr:D00136	dr:D10762	P	unclassified
+dr:D00136	dr:D10775	P	Enzyme: CYP2D6 CYP3A4 / CYP inhibition: CYP3A4
+dr:D00136	dr:D10801	P	unclassified
+dr:D00136	dr:D10882	P	CYP induction: CYP3A4
+dr:D00136	dr:D10895	P	Enzyme: CYP3A4 / CYP inhibition: CYP3A4 / CYP induction: CYP3A4
+dr:D00136	dr:D10926	P	Enzyme: CYP3A4
+dr:D00136	dr:D11012	P	unclassified
+dr:D00136	dr:D11040	P	Enzyme: CYP3A4 / CYP induction: CYP3A4
+dr:D00136	dr:D11521	P	unclassified
+dr:D00136	dr:D11769	P	Target: DRD2 / CYP inhibition: CYP2D6

@@ -1,0 +1,8 @@
+Organ,Source,Relative Expression,Organ_link,Source_link
+Brain,Nishimura,0.00913,http://transportal.compbio.ucsf.edu/organs/brain/,http://www.ncbi.nlm.nih.gov/pubmed/16415531
+Kidney*,Nishimura,0.0851,http://transportal.compbio.ucsf.edu/organs/kidney/,http://www.ncbi.nlm.nih.gov/pubmed/16415531
+Liver*,Nishimura,0.023,http://transportal.compbio.ucsf.edu/organs/liver/,http://www.ncbi.nlm.nih.gov/pubmed/16415531
+Placenta*,Nishimura,0.0255,http://transportal.compbio.ucsf.edu/organs/placenta/,http://www.ncbi.nlm.nih.gov/pubmed/16415531
+Small Intestine*,Nishimura,0.0337,http://transportal.compbio.ucsf.edu/organs/small-intestine/,http://www.ncbi.nlm.nih.gov/pubmed/16415531
+Liver*,Mean across all PMT Samples,0.256,http://transportal.compbio.ucsf.edu/organs/liver/,http://transportal.compbio.ucsf.edu/samples/liver/ABCB1/
+Kidney*,Mean across all PMT Samples,0.47100000000000003,http://transportal.compbio.ucsf.edu/organs/kidney/,http://transportal.compbio.ucsf.edu/samples/kidney/ABCB1/

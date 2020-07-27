@@ -1,0 +1,1125 @@
+{
+    "SLCO1B1": {
+        "expression": [
+            {
+                "Organ": "Brain",
+                "Source": "Nishimura",
+                "Relative Expression": "0.0000357"
+            },
+            {
+                "Organ": "Kidney",
+                "Source": "Nishimura",
+                "Relative Expression": "BLQ"
+            },
+            {
+                "Organ": "Liver*",
+                "Source": "Nishimura",
+                "Relative Expression": "0.252"
+            },
+            {
+                "Organ": "Placenta",
+                "Source": "Nishimura",
+                "Relative Expression": "BLQ"
+            },
+            {
+                "Organ": "Small Intestine",
+                "Source": "Nishimura",
+                "Relative Expression": "BLQ"
+            },
+            {
+                "Organ": "Kidney",
+                "Source": "Mean across all PMT Samples",
+                "Relative Expression": "0.0809"
+            },
+            {
+                "Organ": "Liver*",
+                "Source": "Mean across all PMT Samples",
+                "Relative Expression": "19.561"
+            }
+        ],
+        "inhibitors": [
+            {
+                "Inhibitor": "17beta-estradiol",
+                "IC50 (μM)": 3.9,
+                "Ki (μM)": null,
+                "Substrate used": "Estradiol-17beta-glucuronide",
+                "Cell System": "CHO-OATP1B1",
+                "Reference": "Gui, 2008"
+            },
+            {
+                "Inhibitor": "17beta-estradiol",
+                "IC50 (μM)": null,
+                "Ki (μM)": 3.3,
+                "Substrate used": "Estradiol-17beta-glucuronide",
+                "Cell System": "CHO-OATP1B1",
+                "Reference": "Gui, 2009"
+            },
+            {
+                "Inhibitor": "5beta-Androstane",
+                "IC50 (μM)": null,
+                "Ki (μM)": 374.0,
+                "Substrate used": "Estradiol-17beta-glucuronide",
+                "Cell System": "CHO-OATP1B1",
+                "Reference": "Gui, 2009"
+            },
+            {
+                "Inhibitor": "Amprenavir",
+                "IC50 (μM)": 14.4,
+                "Ki (μM)": 12.8,
+                "Substrate used": "Cholyl-glycylamido-fluorescein (CGamF)",
+                "Cell System": "CHO-OATP1B1",
+                "Reference": "Annaert, 2010"
+            },
+            {
+                "Inhibitor": "Antamanide",
+                "IC50 (μM)": 100.0,
+                "Ki (μM)": null,
+                "Substrate used": "Bromsulphthalein (BSP)",
+                "Cell System": "MDCK II-OATP1B1",
+                "Reference": "Letschert, 2006"
+            },
+            {
+                "Inhibitor": "Atazanavir",
+                "IC50 (μM)": 1.7,
+                "Ki (μM)": 1.5,
+                "Substrate used": "Cholyl-glycylamido-fluorescein (CGamF)",
+                "Cell System": "CHO-OATP1B1",
+                "Reference": "Annaert, 2010"
+            },
+            {
+                "Inhibitor": "Bezafibrate",
+                "IC50 (μM)": null,
+                "Ki (μM)": 45.2,
+                "Substrate used": "Estradiol-17beta-glucuronide",
+                "Cell System": "CHO-OATP1B1",
+                "Reference": "Gui, 2009"
+            },
+            {
+                "Inhibitor": "Bromsulphthalein (BSP)",
+                "IC50 (μM)": 0.7,
+                "Ki (μM)": 0.6,
+                "Substrate used": "Cholyl-glycylamido-fluorescein (CGamF)",
+                "Cell System": "CHO-OATP1B1",
+                "Reference": "Annaert, 2010"
+            },
+            {
+                "Inhibitor": "Bromsulphthalein (BSP)",
+                "IC50 (μM)": 0.08,
+                "Ki (μM)": null,
+                "Substrate used": "Estradiol-17beta-glucuronide",
+                "Cell System": "HeLa-OATP1B1",
+                "Reference": "Tirona, 2003"
+            },
+            {
+                "Inhibitor": "Bromsulphthalein (BSP)",
+                "IC50 (μM)": 1.7,
+                "Ki (μM)": null,
+                "Substrate used": "Estrone 3-sulfate",
+                "Cell System": "COS1-OATP1A2",
+                "Reference": "Lan, 2009"
+            },
+            {
+                "Inhibitor": "Chenodeoxycholic acid",
+                "IC50 (μM)": null,
+                "Ki (μM)": 3.4,
+                "Substrate used": "Estradiol-17beta-glucuronide",
+                "Cell System": "CHO-OATP1B1",
+                "Reference": "Gui, 2009"
+            },
+            {
+                "Inhibitor": "Cholic acid",
+                "IC50 (μM)": null,
+                "Ki (μM)": 25.0,
+                "Substrate used": "Estradiol-17beta-glucuronide",
+                "Cell System": "CHO-OATP1B1",
+                "Reference": "Gui, 2009"
+            },
+            {
+                "Inhibitor": "Clotrimazole",
+                "IC50 (μM)": 9.0,
+                "Ki (μM)": null,
+                "Substrate used": "Estradiol-17beta-glucuronide",
+                "Cell System": "CHO-OATP1B1",
+                "Reference": "Gui, 2008"
+            },
+            {
+                "Inhibitor": "Clotrimazole",
+                "IC50 (μM)": null,
+                "Ki (μM)": 7.6,
+                "Substrate used": "Estradiol-17beta-glucuronide",
+                "Cell System": "CHO-OATP1B1",
+                "Reference": "Gui, 2009"
+            },
+            {
+                "Inhibitor": "Cyclosporine*",
+                "IC50 (μM)": 0.3,
+                "Ki (μM)": null,
+                "Substrate used": "Bosentan",
+                "Cell System": "CHO-OATP1B1",
+                "Reference": "Treiber, 2007"
+            },
+            {
+                "Inhibitor": "Cyclosporine",
+                "IC50 (μM)": 3.5,
+                "Ki (μM)": null,
+                "Substrate used": "Bromsulphthalein (BSP)",
+                "Cell System": "MDCK II-OATP1B1",
+                "Reference": "Letschert, 2006"
+            },
+            {
+                "Inhibitor": "Cyclosporine*",
+                "IC50 (μM)": 0.37,
+                "Ki (μM)": null,
+                "Substrate used": "Estradiol-17beta-glucuronide",
+                "Cell System": "HeLa-OATP1B1",
+                "Reference": "Tirona, 2003"
+            },
+            {
+                "Inhibitor": "Cyclosporine*",
+                "IC50 (μM)": null,
+                "Ki (μM)": 0.24,
+                "Substrate used": "Pitavastatin",
+                "Cell System": "HEK293-OATP1B1",
+                "Reference": "Hirano, 2006"
+            },
+            {
+                "Inhibitor": "Cyclosporine*",
+                "IC50 (μM)": 0.31,
+                "Ki (μM)": null,
+                "Substrate used": "Rosuvastatin",
+                "Cell System": "HeLa-OATP1B1",
+                "Reference": "Ho, 2006"
+            },
+            {
+                "Inhibitor": "Cyclosporine*",
+                "IC50 (μM)": 2.2,
+                "Ki (μM)": null,
+                "Substrate used": "Rosuvastatin",
+                "Cell System": "OATP1B1-expressing oocytes",
+                "Reference": "Simonson, 2004"
+            },
+            {
+                "Inhibitor": "Darunavir",
+                "IC50 (μM)": 3.5,
+                "Ki (μM)": 3.1,
+                "Substrate used": "Cholyl-glycylamido-fluorescein (CGamF)",
+                "Cell System": "CHO-OATP1B1",
+                "Reference": "Annaert, 2010"
+            },
+            {
+                "Inhibitor": "Dehydrocholic acid",
+                "IC50 (μM)": null,
+                "Ki (μM)": 29.7,
+                "Substrate used": "Estradiol-17beta-glucuronide",
+                "Cell System": "CHO-OATP1B1",
+                "Reference": "Gui, 2009"
+            },
+            {
+                "Inhibitor": "Deoxycholic acid",
+                "IC50 (μM)": null,
+                "Ki (μM)": 3.2,
+                "Substrate used": "Estradiol-17beta-glucuronide",
+                "Cell System": "CHO-OATP1B1",
+                "Reference": "Gui, 2009"
+            },
+            {
+                "Inhibitor": "Digoxin",
+                "IC50 (μM)": 7.9,
+                "Ki (μM)": 7.0,
+                "Substrate used": "Cholyl-glycylamido-fluorescein (CGamF)",
+                "Cell System": "CHO-OATP1B1",
+                "Reference": "Annaert, 2010"
+            },
+            {
+                "Inhibitor": "Estrone 3-sulfate",
+                "IC50 (μM)": 0.79,
+                "Ki (μM)": null,
+                "Substrate used": "Estradiol-17beta-glucuronide",
+                "Cell System": "HEK293-OATP1B1",
+                "Reference": "Ishiguro, 2006"
+            },
+            {
+                "Inhibitor": "Estrone 3-sulfate",
+                "IC50 (μM)": null,
+                "Ki (μM)": 0.2,
+                "Substrate used": "Estradiol-17beta-glucuronide",
+                "Cell System": "CHO-OATP1B1",
+                "Reference": "Gui, 2009"
+            },
+            {
+                "Inhibitor": "Fenofibrate",
+                "IC50 (μM)": null,
+                "Ki (μM)": 105.2,
+                "Substrate used": "Estradiol-17beta-glucuronide",
+                "Cell System": "CHO-OATP1B1",
+                "Reference": "Gui, 2009"
+            },
+            {
+                "Inhibitor": "Fexofenadine",
+                "IC50 (μM)": null,
+                "Ki (μM)": 257.0,
+                "Substrate used": "Estrone 3-sulfate",
+                "Cell System": "HEK293-OATP1B1",
+                "Reference": "Shimizu, 2005"
+            },
+            {
+                "Inhibitor": "Gemfibrozil",
+                "IC50 (μM)": null,
+                "Ki (μM)": 12.5,
+                "Substrate used": "Estradiol-17beta-glucuronide",
+                "Cell System": "HEK293-OATP1B1",
+                "Reference": "Yamazaki, 2005"
+            },
+            {
+                "Inhibitor": "Gemfibrozil",
+                "IC50 (μM)": 25.0,
+                "Ki (μM)": null,
+                "Substrate used": "Rosuvastatin",
+                "Cell System": "HeLa-OATP1B1",
+                "Reference": "Ho, 2006"
+            },
+            {
+                "Inhibitor": "Glyburide",
+                "IC50 (μM)": null,
+                "Ki (μM)": 0.75,
+                "Substrate used": "Pitavastatin",
+                "Cell System": "HEK293-OATP1B1",
+                "Reference": "Hirano, 2006"
+            },
+            {
+                "Inhibitor": "Glycocholic acid",
+                "IC50 (μM)": null,
+                "Ki (μM)": 22.0,
+                "Substrate used": "Estradiol-17beta-glucuronide",
+                "Cell System": "CHO-OATP1B1",
+                "Reference": "Gui, 2009"
+            },
+            {
+                "Inhibitor": "GW1929",
+                "IC50 (μM)": null,
+                "Ki (μM)": 0.3,
+                "Substrate used": "Estradiol-17beta-glucuronide",
+                "Cell System": "CHO-OATP1B1",
+                "Reference": "Gui, 2009"
+            },
+            {
+                "Inhibitor": "GW4064",
+                "IC50 (μM)": null,
+                "Ki (μM)": 32.4,
+                "Substrate used": "Estradiol-17beta-glucuronide",
+                "Cell System": "CHO-OATP1B1",
+                "Reference": "Gui, 2009"
+            },
+            {
+                "Inhibitor": "Hyperforin",
+                "IC50 (μM)": 0.82,
+                "Ki (μM)": null,
+                "Substrate used": "Estradiol-17beta-glucuronide",
+                "Cell System": "HeLa-OATP1B1",
+                "Reference": "Tirona, 2003"
+            },
+            {
+                "Inhibitor": "Indinavir",
+                "IC50 (μM)": 12.2,
+                "Ki (μM)": 10.8,
+                "Substrate used": "Cholyl-glycylamido-fluorescein (CGamF)",
+                "Cell System": "CHO-OATP1B1",
+                "Reference": "Annaert, 2010"
+            },
+            {
+                "Inhibitor": "Indinavir",
+                "IC50 (μM)": 5.84,
+                "Ki (μM)": null,
+                "Substrate used": "Estradiol-17beta-glucuronide",
+                "Cell System": "HeLa-OATP1B1",
+                "Reference": "Tirona, 2003"
+            },
+            {
+                "Inhibitor": "Lithocholate",
+                "IC50 (μM)": 0.7,
+                "Ki (μM)": null,
+                "Substrate used": "Estradiol-17beta-glucuronide",
+                "Cell System": "CHO-OATP1B1",
+                "Reference": "Gui, 2008"
+            },
+            {
+                "Inhibitor": "Lithocholate",
+                "IC50 (μM)": null,
+                "Ki (μM)": 1.2,
+                "Substrate used": "Estradiol-17beta-glucuronide",
+                "Cell System": "CHO-OATP1B1",
+                "Reference": "Gui, 2009"
+            },
+            {
+                "Inhibitor": "Lopinavir",
+                "IC50 (μM)": 0.5,
+                "Ki (μM)": 0.5,
+                "Substrate used": "Cholyl-glycylamido-fluorescein (CGamF)",
+                "Cell System": "CHO-OATP1B1",
+                "Reference": "Annaert, 2010"
+            },
+            {
+                "Inhibitor": "Mevinolin",
+                "IC50 (μM)": 6.1,
+                "Ki (μM)": null,
+                "Substrate used": "Estradiol-17beta-glucuronide",
+                "Cell System": "CHO-OATP1B1",
+                "Reference": "Gui, 2008"
+            },
+            {
+                "Inhibitor": "Mevinolin",
+                "IC50 (μM)": null,
+                "Ki (μM)": 12.7,
+                "Substrate used": "Estradiol-17beta-glucuronide",
+                "Cell System": "CHO-OATP1B1",
+                "Reference": "Gui, 2009"
+            },
+            {
+                "Inhibitor": "Mifepristone",
+                "IC50 (μM)": 3.3,
+                "Ki (μM)": null,
+                "Substrate used": "Estradiol-17beta-glucuronide",
+                "Cell System": "CHO-OATP1B1",
+                "Reference": "Gui, 2008"
+            },
+            {
+                "Inhibitor": "Mifepristone",
+                "IC50 (μM)": null,
+                "Ki (μM)": 2.2,
+                "Substrate used": "Estradiol-17beta-glucuronide",
+                "Cell System": "CHO-OATP1B1",
+                "Reference": "Gui, 2009"
+            },
+            {
+                "Inhibitor": "MK-571",
+                "IC50 (μM)": 5.0,
+                "Ki (μM)": null,
+                "Substrate used": "Bromsulphthalein (BSP)",
+                "Cell System": "MDCK II-OATP1B1",
+                "Reference": "Letschert, 2006"
+            },
+            {
+                "Inhibitor": "MK-571",
+                "IC50 (μM)": 0.3,
+                "Ki (μM)": null,
+                "Substrate used": "Estradiol-17beta-glucuronide",
+                "Cell System": "HEK293-OATP1B1",
+                "Reference": "Yamazaki, 2005"
+            },
+            {
+                "Inhibitor": "Montelukast",
+                "IC50 (μM)": 10.0,
+                "Ki (μM)": null,
+                "Substrate used": "Bromsulphthalein (BSP)",
+                "Cell System": "MDCK II-OATP1B1",
+                "Reference": "Letschert, 2006"
+            },
+            {
+                "Inhibitor": "Nelfinavir",
+                "IC50 (μM)": 0.93,
+                "Ki (μM)": null,
+                "Substrate used": "Estradiol-17beta-glucuronide",
+                "Cell System": "HeLa-OATP1B1",
+                "Reference": "Tirona, 2003"
+            },
+            {
+                "Inhibitor": "Paclitaxel",
+                "IC50 (μM)": 50.0,
+                "Ki (μM)": null,
+                "Substrate used": "Bromsulphthalein (BSP)",
+                "Cell System": "MDCK II-OATP1B1",
+                "Reference": "Letschert, 2006"
+            },
+            {
+                "Inhibitor": "Paclitaxel",
+                "IC50 (μM)": 0.03,
+                "Ki (μM)": null,
+                "Substrate used": "Estradiol-17beta-glucuronide",
+                "Cell System": "CHO-OATP1B1",
+                "Reference": "Gui, 2008"
+            },
+            {
+                "Inhibitor": "Pravastatin",
+                "IC50 (μM)": null,
+                "Ki (μM)": 21.8,
+                "Substrate used": "Estradiol-17beta-glucuronide",
+                "Cell System": "CHO-OATP1B1",
+                "Reference": "Gui, 2009"
+            },
+            {
+                "Inhibitor": "Repaglinide",
+                "IC50 (μM)": 2.2,
+                "Ki (μM)": null,
+                "Substrate used": "Bromsulphthalein (BSP)",
+                "Cell System": "HEK293-OATP1B1",
+                "Reference": "Bachmakov, 2008"
+            },
+            {
+                "Inhibitor": "Rifampicin*",
+                "IC50 (μM)": 3.25,
+                "Ki (μM)": 3.08,
+                "Substrate used": "Atorvastatin",
+                "Cell System": "HEK293-OATP1B1",
+                "Reference": "Lau, 2007"
+            },
+            {
+                "Inhibitor": "Rifampicin*",
+                "IC50 (μM)": 3.2,
+                "Ki (μM)": null,
+                "Substrate used": "Bosentan",
+                "Cell System": "CHO-OATP1B1",
+                "Reference": "Treiber, 2007"
+            },
+            {
+                "Inhibitor": "Rifampicin",
+                "IC50 (μM)": 120.0,
+                "Ki (μM)": null,
+                "Substrate used": "Bromsulphthalein (BSP)",
+                "Cell System": "MDCK II-OATP1B1",
+                "Reference": "Letschert, 2006"
+            },
+            {
+                "Inhibitor": "Rifampicin*",
+                "IC50 (μM)": null,
+                "Ki (μM)": 17.0,
+                "Substrate used": "Bromsulphthalein (BSP)",
+                "Cell System": "OATP1B1-expressing oocytes",
+                "Reference": "Vavricka, 2002"
+            },
+            {
+                "Inhibitor": "Rifampicin",
+                "IC50 (μM)": 1.8,
+                "Ki (μM)": 1.6,
+                "Substrate used": "Cholyl-glycylamido-fluorescein (CGamF)",
+                "Cell System": "CHO-OATP1B1",
+                "Reference": "Annaert, 2010"
+            },
+            {
+                "Inhibitor": "Rifampicin*",
+                "IC50 (μM)": 0.94,
+                "Ki (μM)": null,
+                "Substrate used": "Estradiol-17beta-glucuronide",
+                "Cell System": "HeLa-OATP1B1",
+                "Reference": "Tirona, 2003"
+            },
+            {
+                "Inhibitor": "Rifampicin*",
+                "IC50 (μM)": 1.5,
+                "Ki (μM)": null,
+                "Substrate used": "Estradiol-17beta-glucuronide",
+                "Cell System": "CHO-OATP1B1",
+                "Reference": "Gui, 2008"
+            },
+            {
+                "Inhibitor": "Rifampicin*",
+                "IC50 (μM)": null,
+                "Ki (μM)": 0.48,
+                "Substrate used": "Pitavastatin",
+                "Cell System": "HEK293-OATP1B1",
+                "Reference": "Hirano, 2006"
+            },
+            {
+                "Inhibitor": "Rifamycin SV",
+                "IC50 (μM)": null,
+                "Ki (μM)": 2.0,
+                "Substrate used": "Bromsulphthalein (BSP)",
+                "Cell System": "OATP1B1-expressing oocytes",
+                "Reference": "Vavricka, 2002"
+            },
+            {
+                "Inhibitor": "Rifamycin SV",
+                "IC50 (μM)": null,
+                "Ki (μM)": 0.17,
+                "Substrate used": "Pitavastatin",
+                "Cell System": "HEK293-OATP1B1",
+                "Reference": "Hirano, 2006"
+            },
+            {
+                "Inhibitor": "Ritonavir*",
+                "IC50 (μM)": 1.6,
+                "Ki (μM)": 1.4,
+                "Substrate used": "Cholyl-glycylamido-fluorescein (CGamF)",
+                "Cell System": "CHO-OATP1B1",
+                "Reference": "Annaert, 2010"
+            },
+            {
+                "Inhibitor": "Ritonavir*",
+                "IC50 (μM)": 0.71,
+                "Ki (μM)": null,
+                "Substrate used": "Estradiol-17beta-glucuronide",
+                "Cell System": "HeLa-OATP1B1",
+                "Reference": "Tirona, 2003"
+            },
+            {
+                "Inhibitor": "Ritonavir*",
+                "IC50 (μM)": null,
+                "Ki (μM)": 0.78,
+                "Substrate used": "Pitavastatin",
+                "Cell System": "HEK293-OATP1B1",
+                "Reference": "Hirano, 2006"
+            },
+            {
+                "Inhibitor": "Rosiglitazone",
+                "IC50 (μM)": 6.0,
+                "Ki (μM)": null,
+                "Substrate used": "Bromsulphthalein (BSP)",
+                "Cell System": "HEK293-OATP1B1",
+                "Reference": "Bachmakov, 2008"
+            },
+            {
+                "Inhibitor": "Saquinavir",
+                "IC50 (μM)": 2.1,
+                "Ki (μM)": 1.8,
+                "Substrate used": "Cholyl-glycylamido-fluorescein (CGamF)",
+                "Cell System": "CHO-OATP1B1",
+                "Reference": "Annaert, 2010"
+            },
+            {
+                "Inhibitor": "Saquinavir",
+                "IC50 (μM)": 1.23,
+                "Ki (μM)": null,
+                "Substrate used": "Estradiol-17beta-glucuronide",
+                "Cell System": "HeLa-OATP1B1",
+                "Reference": "Tirona, 2003"
+            },
+            {
+                "Inhibitor": "Saquinavir",
+                "IC50 (μM)": null,
+                "Ki (μM)": 1.59,
+                "Substrate used": "Pitavastatin",
+                "Cell System": "HEK293-OATP1B1",
+                "Reference": "Hirano, 2006"
+            },
+            {
+                "Inhibitor": "Sildenafil",
+                "IC50 (μM)": 1.5,
+                "Ki (μM)": null,
+                "Substrate used": "Bosentan",
+                "Cell System": "CHO-OATP1B1",
+                "Reference": "Treiber, 2007"
+            },
+            {
+                "Inhibitor": "Silibinin dihemisuccinate",
+                "IC50 (μM)": 10.0,
+                "Ki (μM)": null,
+                "Substrate used": "Bromsulphthalein (BSP)",
+                "Cell System": "MDCK II-OATP1B1",
+                "Reference": "Letschert, 2006"
+            },
+            {
+                "Inhibitor": "Tacrolimus",
+                "IC50 (μM)": null,
+                "Ki (μM)": 0.61,
+                "Substrate used": "Pitavastatin",
+                "Cell System": "HEK293-OATP1B1",
+                "Reference": "Hirano, 2006"
+            },
+            {
+                "Inhibitor": "Taurocholate",
+                "IC50 (μM)": null,
+                "Ki (μM)": 11.4,
+                "Substrate used": "Estradiol-17beta-glucuronide",
+                "Cell System": "CHO-OATP1B1",
+                "Reference": "Gui, 2009"
+            },
+            {
+                "Inhibitor": "Telmisartan",
+                "IC50 (μM)": null,
+                "Ki (μM)": 0.44,
+                "Substrate used": "Pitavastatin",
+                "Cell System": "HEK293-OATP1B1",
+                "Reference": "Hirano, 2006"
+            },
+            {
+                "Inhibitor": "Thyroxine",
+                "IC50 (μM)": null,
+                "Ki (μM)": 3.5,
+                "Substrate used": "Estradiol-17beta-glucuronide",
+                "Cell System": "CHO-OATP1B1",
+                "Reference": "Gui, 2009"
+            },
+            {
+                "Inhibitor": "Troglitazone",
+                "IC50 (μM)": 1.2,
+                "Ki (μM)": null,
+                "Substrate used": "Estradiol-17beta-glucuronide",
+                "Cell System": "CHO-OATP1B1",
+                "Reference": "Gui, 2008"
+            },
+            {
+                "Inhibitor": "Troglitazone",
+                "IC50 (μM)": null,
+                "Ki (μM)": 1.0,
+                "Substrate used": "Estradiol-17beta-glucuronide",
+                "Cell System": "CHO-OATP1B1",
+                "Reference": "Gui, 2009"
+            },
+            {
+                "Inhibitor": "Valsartan",
+                "IC50 (μM)": null,
+                "Ki (μM)": 8.96,
+                "Substrate used": "Pitavastatin",
+                "Cell System": "HEK293-OATP1B1",
+                "Reference": "Hirano, 2006"
+            },
+            {
+                "Inhibitor": "WY-14643",
+                "IC50 (μM)": null,
+                "Ki (μM)": 1.6,
+                "Substrate used": "Estradiol-17beta-glucuronide",
+                "Cell System": "CHO-OATP1B1",
+                "Reference": "Gui, 2009"
+            }
+        ],
+        "substrates": [
+            {
+                "Substrate": "17beta-Glucuronosyl estradiol",
+                "Km (μM)": "8.2",
+                "Cell System": "HEK293-OATP1B1",
+                "Reference": "Cui, 2001"
+            },
+            {
+                "Substrate": "Atorvastatin*",
+                "Km (μM)": "12.4",
+                "Cell System": "HEK293-OATP1B1",
+                "Reference": "Kameyama, 2005"
+            },
+            {
+                "Substrate": "Atorvastatin*",
+                "Km (μM)": "18.9",
+                "Cell System": "HEK293-OATP1B1",
+                "Reference": "Lau, 2007"
+            },
+            {
+                "Substrate": "Bilirubin",
+                "Km (μM)": "0.00076",
+                "Cell System": "OATP1B1-expressing oocytes",
+                "Reference": "Briz, 2003"
+            },
+            {
+                "Substrate": "Bisglucuronosyl bilirubin",
+                "Km (μM)": "0.28",
+                "Cell System": "HEK293-OATP1B1",
+                "Reference": "Cui, 2001"
+            },
+            {
+                "Substrate": "Bosentan",
+                "Km (μM)": "44",
+                "Cell System": "CHO-OATP1B1",
+                "Reference": "Treiber, 2007"
+            },
+            {
+                "Substrate": "Bromsulphthalein (BSP)",
+                "Km (μM)": "0.3",
+                "Cell System": "OATP1B1-expressing oocytes",
+                "Reference": "Kullak-Ublick, 2001"
+            },
+            {
+                "Substrate": "Bromsulphthalein (BSP)",
+                "Km (μM)": "0.14",
+                "Cell System": "HEK293-OATP1B1",
+                "Reference": "Cui, 2001"
+            },
+            {
+                "Substrate": "Cholate",
+                "Km (μM)": "11.4",
+                "Cell System": "HEK293-OATP1B1",
+                "Reference": "Cui, 2001"
+            },
+            {
+                "Substrate": "Cholyl-glycylamido-fluorescein (CGamF)",
+                "Km (μM)": "7.9",
+                "Cell System": "CHO-OATP1B1",
+                "Reference": "Annaert, 2010"
+            },
+            {
+                "Substrate": "Cholyl taurine",
+                "Km (μM)": "10",
+                "Cell System": "HEK293-OATP1B1",
+                "Reference": "Cui, 2001"
+            },
+            {
+                "Substrate": "Dehydroepiandrosterone sulfate",
+                "Km (μM)": "21.5",
+                "Cell System": "HEK293-OATP1B1",
+                "Reference": "Cui, 2001"
+            },
+            {
+                "Substrate": "Estradiol-17beta-glucuronide",
+                "Km (μM)": "2.5",
+                "Cell System": "HEK293-OATP1B1",
+                "Reference": "Yamazaki, 2005"
+            },
+            {
+                "Substrate": "Estradiol-17beta-glucuronide",
+                "Km (μM)": "5.4",
+                "Cell System": "CHO-OATP1B1",
+                "Reference": "Gui, 2008"
+            },
+            {
+                "Substrate": "Estradiol-17beta-glucuronide",
+                "Km (μM)": "5.9",
+                "Cell System": "CHO-OATP1B1",
+                "Reference": "Gui, 2009"
+            },
+            {
+                "Substrate": "Estradiol-17beta-glucuronide",
+                "Km (μM)": "8.29",
+                "Cell System": "HEK293-OATP1B1",
+                "Reference": "Hirano, 2004"
+            },
+            {
+                "Substrate": "Estrone 3-sulfate",
+                "Km (μM)": "0.23",
+                "Cell System": "CHO-OATP1B1",
+                "Reference": "Noe, 2007"
+            },
+            {
+                "Substrate": "Estrone 3-sulfate",
+                "Km (μM)": "0.46",
+                "Cell System": "HEK293-OATP1B1",
+                "Reference": "Hirano, 2004"
+            },
+            {
+                "Substrate": "Estrone 3-sulfate",
+                "Km (μM)": "2.4",
+                "Cell System": "CHO-OATP1B1",
+                "Reference": "Gui, 2008"
+            },
+            {
+                "Substrate": "Estrone 3-sulfate",
+                "Km (μM)": "12.5",
+                "Cell System": "HEK293-OATP1B1",
+                "Reference": "Cui, 2001"
+            },
+            {
+                "Substrate": "Fluo-3",
+                "Km (μM)": "2.3",
+                "Cell System": "CHO-OATP1B1",
+                "Reference": "Gui, 2008"
+            },
+            {
+                "Substrate": "Fluvastatin*",
+                "Km (μM)": "1.4",
+                "Cell System": "CHO-OATP1B1",
+                "Reference": "Noe, 2007"
+            },
+            {
+                "Substrate": "Fluvastatin*",
+                "Km (μM)": "3.5",
+                "Cell System": "CHO-OATP1B1",
+                "Reference": "Noe, 2007"
+            },
+            {
+                "Substrate": "Fluvastatin*",
+                "Km (μM)": "31.1",
+                "Cell System": "OATP1B1-expressing oocytes",
+                "Reference": "Deng, 2008"
+            },
+            {
+                "Substrate": "Glycoursodeoxycholate",
+                "Km (μM)": "5.17",
+                "Cell System": "HEK293-OATP1B1",
+                "Reference": "Maeda, 2006"
+            },
+            {
+                "Substrate": "Methotrexate",
+                "Km (μM)": "ND",
+                "Cell System": "OATP1B1-expressing oocytes",
+                "Reference": "Abe, 2001"
+            },
+            {
+                "Substrate": "Methotrexate",
+                "Km (μM)": "ND",
+                "Cell System": "OATP1B1-expressing oocytes",
+                "Reference": "Abe, 2001"
+            },
+            {
+                "Substrate": "Monoglucuronosyl bilirubin",
+                "Km (μM)": "0.1",
+                "Cell System": "HEK293-OATP1B1",
+                "Reference": "Cui, 2001"
+            },
+            {
+                "Substrate": "Olmesartan*",
+                "Km (μM)": "12.8",
+                "Cell System": "HEK293-OATP1B1",
+                "Reference": "Yamada, 2007"
+            },
+            {
+                "Substrate": "Olmesartan*",
+                "Km (μM)": "42.6",
+                "Cell System": "OATP1B1-expressing oocytes",
+                "Reference": "Nakagomi-Hagihara, 2006"
+            },
+            {
+                "Substrate": "Pitavastatin*",
+                "Km (μM)": "3",
+                "Cell System": "HEK293-OATP1B1",
+                "Reference": "Hirano, 2004"
+            },
+            {
+                "Substrate": "Pitavastatin*",
+                "Km (μM)": "3.6",
+                "Cell System": "OATP1B1-expressing oocytes",
+                "Reference": "Fujino, 2005"
+            },
+            {
+                "Substrate": "Pitavastatin*",
+                "Km (μM)": "6.7",
+                "Cell System": "OATP1B1-expressing oocytes",
+                "Reference": "Deng, 2008"
+            },
+            {
+                "Substrate": "Pravastatin*",
+                "Km (μM)": "57.5",
+                "Cell System": "OATP1B1-expressing oocytes",
+                "Reference": "Deng, 2008"
+            },
+            {
+                "Substrate": "Pravastatin*",
+                "Km (μM)": "85.7",
+                "Cell System": "HEK293-OATP1B1",
+                "Reference": "Kameyama, 2005"
+            },
+            {
+                "Substrate": "Rifampicin",
+                "Km (μM)": "1.5",
+                "Cell System": "HeLa-OATP1B1",
+                "Reference": "Tirona, 2003"
+            },
+            {
+                "Substrate": "Rifampicin",
+                "Km (μM)": "13",
+                "Cell System": "OATP1B1-expressing oocytes",
+                "Reference": "Vavricka, 2002"
+            },
+            {
+                "Substrate": "Rosuvastatin*",
+                "Km (μM)": "0.8",
+                "Cell System": "HEK293-OATP1B1",
+                "Reference": "Kitamura, 2008"
+            },
+            {
+                "Substrate": "Rosuvastatin*",
+                "Km (μM)": "4",
+                "Cell System": "HeLa-OATP1B1",
+                "Reference": "Ho, 2006"
+            },
+            {
+                "Substrate": "Rosuvastatin*",
+                "Km (μM)": "7.3",
+                "Cell System": "HeLa-OATP1B1",
+                "Reference": "Ho, 2006"
+            },
+            {
+                "Substrate": "Rosuvastatin*",
+                "Km (μM)": "8.5",
+                "Cell System": "OATP1B1-expressing oocytes",
+                "Reference": "Simonson, 2004"
+            },
+            {
+                "Substrate": "Tauroursodeoxycholate",
+                "Km (μM)": "7.47",
+                "Cell System": "HEK293-OATP1B1",
+                "Reference": "Maeda, 2006"
+            },
+            {
+                "Substrate": "Valsartan",
+                "Km (μM)": "1.39",
+                "Cell System": "HEK293-OATP1B1",
+                "Reference": "Yamashiro, 2006"
+            },
+            {
+                "Substrate": "Valsartan",
+                "Km (μM)": "17.8",
+                "Cell System": "CHO-OATP1B1",
+                "Reference": "Poirier, 2009"
+            }
+        ],
+        "ddi": [
+            {
+                "DDI": "1",
+                "Implicated Transporter": "ABCG2/OATPs",
+                "Interacting Drug": "Atazanavir  / Ritonavir",
+                "Affected Drug": "Rosuvastatin",
+                "AUC": "3.1",
+                "Cmax": "7.0",
+                "CLR": "ND",
+                "CL/F": "ND",
+                "t1/2": "ND",
+                "Effect on PD": "ND",
+                "Reference": "Busti, 2008",
+                "More Details": "DDI 1"
+            },
+            {
+                "DDI": "2",
+                "Implicated Transporter": "ABCB1/OATPs",
+                "Interacting Drug": "Cyclosporine",
+                "Affected Drug": "Docetaxel",
+                "AUC": "7.3",
+                "Cmax": "5.7",
+                "CLR": "ND",
+                "CL/F": "ND",
+                "t1/2": "ND",
+                "Effect on PD": "ND",
+                "Reference": "Malingre, 2001",
+                "More Details": "DDI 2"
+            },
+            {
+                "DDI": "3",
+                "Implicated Transporter": "ABCB1/OATPs",
+                "Interacting Drug": "Cyclosporine",
+                "Affected Drug": "Paclitaxel",
+                "AUC": "8.5",
+                "Cmax": "2.0",
+                "CLR": "ND",
+                "CL/F": "ND",
+                "t1/2": "ND",
+                "Effect on PD": "ND",
+                "Reference": "Meerum, 1999",
+                "More Details": "DDI 3"
+            },
+            {
+                "DDI": "4",
+                "Implicated Transporter": "ABCG2/OATPs",
+                "Interacting Drug": "Cyclosporine",
+                "Affected Drug": "Pitavastatin",
+                "AUC": "4.6",
+                "Cmax": "6.6",
+                "CLR": "ND",
+                "CL/F": "ND",
+                "t1/2": "ND",
+                "Effect on PD": "ND",
+                "Reference": "Livalo Drug Label",
+                "More Details": "DDI 4"
+            },
+            {
+                "DDI": "5",
+                "Implicated Transporter": "ABCG2/OATPs",
+                "Interacting Drug": "Cyclosporine",
+                "Affected Drug": "Rosuvastatin",
+                "AUC": "5.0",
+                "Cmax": "10.6",
+                "CLR": "ND",
+                "CL/F": "ND",
+                "t1/2": "ND",
+                "Effect on PD": "ND",
+                "Reference": "Simonson, 2004",
+                "More Details": "DDI 5"
+            },
+            {
+                "DDI": "6",
+                "Implicated Transporter": "ABCG2/OATPs",
+                "Interacting Drug": "Cyclosporine",
+                "Affected Drug": "Rosuvastatin",
+                "AUC": "6.4",
+                "Cmax": "18.2",
+                "CLR": "ND",
+                "CL/F": "ND",
+                "t1/2": "ND",
+                "Effect on PD": "ND",
+                "Reference": "Simonson, 2004",
+                "More Details": "DDI 6"
+            },
+            {
+                "DDI": "7",
+                "Implicated Transporter": "ABCB1/OATPs",
+                "Interacting Drug": "Erythromycin",
+                "Affected Drug": "Simvastatin",
+                "AUC": "6.2",
+                "Cmax": "3.5",
+                "CLR": "ND",
+                "CL/F": "ND",
+                "t1/2": "NS",
+                "Effect on PD": "ND",
+                "Reference": "Kantola, 1998",
+                "More Details": "DDI 7"
+            },
+            {
+                "DDI": "8",
+                "Implicated Transporter": "ABCB1/OATPs",
+                "Interacting Drug": "Indinavir  / Ritonavir",
+                "Affected Drug": "Fexofenadine",
+                "AUC": "4.8",
+                "Cmax": "2.5",
+                "CLR": "ND",
+                "CL/F": "0.2",
+                "t1/2": "0.7",
+                "Effect on PD": "ND",
+                "Reference": "Kharasch, 2009",
+                "More Details": "DDI 8"
+            },
+            {
+                "DDI": "9",
+                "Implicated Transporter": "OATPs",
+                "Interacting Drug": "Lopinavir  / Ritonavir",
+                "Affected Drug": "Rosuvastatin",
+                "AUC": "2.1",
+                "Cmax": "4.7",
+                "CLR": "ND",
+                "CL/F": "0.5",
+                "t1/2": "NS",
+                "Effect on PD": "yes",
+                "Reference": "Kiser, 2008",
+                "More Details": "DDI 9"
+            },
+            {
+                "DDI": "10",
+                "Implicated Transporter": "OATPs",
+                "Interacting Drug": "Rifampicin",
+                "Affected Drug": "Glyburide",
+                "AUC": "2.2",
+                "Cmax": "1.8",
+                "CLR": "NS",
+                "CL/F": "0.5",
+                "t1/2": "ND",
+                "Effect on PD": "yes",
+                "Reference": "Zheng, 2009",
+                "More Details": "DDI 10"
+            },
+            {
+                "DDI": "11",
+                "Implicated Transporter": "ABCB1/OATPs",
+                "Interacting Drug": "Ritonavir",
+                "Affected Drug": "Digoxin",
+                "AUC": "1.9",
+                "Cmax": "ND",
+                "CLR": "0.6",
+                "CL/F": "0.6",
+                "t1/2": "2.6",
+                "Effect on PD": "ND",
+                "Reference": "Ding, 2004",
+                "More Details": "DDI 11"
+            },
+            {
+                "DDI": "12",
+                "Implicated Transporter": "ABCB1/OATPs",
+                "Interacting Drug": "Ritonavir",
+                "Affected Drug": "Saquinavir",
+                "AUC": "29.9",
+                "Cmax": "22.5",
+                "CLR": "ND",
+                "CL/F": "ND",
+                "t1/2": "ND",
+                "Effect on PD": "ND",
+                "Reference": "la, 2007",
+                "More Details": "DDI 12"
+            },
+            {
+                "DDI": "13",
+                "Implicated Transporter": "ABCB1/OATPs",
+                "Interacting Drug": "Verapamil",
+                "Affected Drug": "Simvastatin",
+                "AUC": "4.6",
+                "Cmax": "2.6",
+                "CLR": "ND",
+                "CL/F": "ND",
+                "t1/2": "NS",
+                "Effect on PD": "ND",
+                "Reference": "Kantola, 1998",
+                "More Details": "DDI 13"
+            }
+        ]
+    }
+}
