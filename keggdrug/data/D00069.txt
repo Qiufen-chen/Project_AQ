@@ -1,9 +1,0 @@
-dr:D00069	dr:D00094	CI	unclassified
-dr:D00069	dr:D00316	CI	unclassified
-dr:D00069	dr:D00491	P	Enzyme: CYP2C8
-dr:D00069	dr:D00769	P	CYP inhibition: CYP2C8
-dr:D00069	dr:D01418	CI	unclassified
-dr:D00069	dr:D01516	CI	unclassified
-dr:D00069	dr:D03106	CI	unclassified
-dr:D00069	dr:D04024	P	Enzyme: CYP2C8
-dr:D00069	dr:D10513	P	CYP inhibition: CYP2C8

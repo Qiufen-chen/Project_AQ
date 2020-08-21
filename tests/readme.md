@@ -1,4 +1,3 @@
-
 * [queryall.py](./queryall.py): Simple queries with multiple indexes
 
 * [test_metanetx_queries.py](./test_metanetx_queries.py): Simple queries with MetaNetX
@@ -7,7 +6,7 @@
 * [query-pubtator.py](./query-pubtator.py): Simple queries with PubTator
  annotations
 
-* [test_uniprot_queries.py](./test_uniprot_queries.py): Simple queries with UniProt data
+* [test_uniprot_queries.py](../nosqlbiosets/uniprot/test_uniprot_queries.py): Simple queries with UniProt data
 
 * [querysuggestions.py](./querysuggestions.py): Simple suggest/search queries
 

@@ -6,22 +6,22 @@ import unittest
 from nosqlbiosets.uniprot.query import QueryUniProt, idmatch
 
 MDB_COLLECTION = "uniprot"
-ESINDEX = "uniprot"
-MDBHOST = "tests.cbrc.kaust.edu.sa"
-ESHOST = "tests.cbrc.kaust.edu.sa"
+# ESINDEX = "uniprot"
+MDBHOST = "39.97.240.2"
+# ESHOST = "tests.cbrc.kaust.edu.sa"
 
 qryuniprot = QueryUniProt("MongoDB", "biosets", MDB_COLLECTION,
                           host=MDBHOST)
-qryuniprot_es = QueryUniProt("Elasticsearch", ESINDEX, "",
-                             host=ESHOST, port=9200)
+# qryuniprot_es = QueryUniProt("Elasticsearch", ESINDEX, "",
+#                              host=ESHOST, port=9200)
 
 
 class TestQueryUniProt(unittest.TestCase):
 
-    def test_kegg_geneid_queries_es(self):
-        ids = qryuniprot_es.getnamesforkegg_geneids(
-            ['hsa:7157', 'hsa:121504'], "Elasticsearch")
-        self.assertListEqual(['H4_HUMAN', 'P53_HUMAN'], sorted(set(ids)))
+    # def test_kegg_geneid_queries_es(self):
+    #     ids = qryuniprot_es.getnamesforkegg_geneids(
+    #         ['hsa:7157', 'hsa:121504'], "Elasticsearch")
+    #     self.assertListEqual(['H4_HUMAN', 'P53_HUMAN'], sorted(set(ids)))
 
     def test_kegg_geneid_queries_mdb(self):
         db = "MongoDB"
@@ -196,7 +196,7 @@ class TestQueryUniProt(unittest.TestCase):
 
     def test_getenzymedata(self):
         enzys = [
-            ('2.2.1.11', {'Q58980'}, ("ordered locus", 'MJ1585', 1),
+            ('2.2.1.ddi_json', {'Q58980'}, ("ordered locus", 'MJ1585', 1),
              "Aromatic compound metabolism.",
              'beta-D-fructose 1,6-bisphosphate = D-glyceraldehyde 3-phosphate'
              ' + dihydroxyacetone phosphate',

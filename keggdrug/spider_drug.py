@@ -7,8 +7,9 @@ date:2020/07/07
 from bs4 import BeautifulSoup
 import urllib.request
 import unicodedata
-import pprint
+from pprint import pprint
 import json
+import re
 
 def check_link(url):
     try:
@@ -37,7 +38,7 @@ def get_contents(ulist, rurl):
     for i in range(0, len(th_content)):
         th_data = th_content[i].get_text()
         th_format = unicodedata.normalize('NFKC', th_data).strip()  # unicodedata.normalize()清理字符串,使用strip()居中对齐
-        pprint.pprint(th_format)
+        pprint(th_format)
         title.append(th_format)
     # print(title)
 
@@ -46,14 +47,79 @@ def get_contents(ulist, rurl):
     print(len(td_content))
     for i in range(0, len(td_content)):
         td_data = td_content[i].get_text()
-        td_format = unicodedata.normalize('NFKC', td_data).strip().replace('\n', '')    # 格式化并过滤掉'\n'
+        td_format = unicodedata.normalize('NFKC', td_data).replace('\n', '').strip()   # 格式化并过滤掉'\n'
         content.append(td_format)
-        pprint.pprint(td_format)
-    pprint.pprint(content)
+        # content.append(td_data)
+        # pprint(td_format)
+    # pprint(content)
 
     result_dic = dict(zip(title, content))
+
+    if "Structure" in result_dic:
+        del result_dic["Structure"]
+
+    if "Brite" in result_dic:
+        del result_dic["Brite"]
+
+    if "LinkDB" in result_dic:
+        del result_dic["LinkDB"]
+
+    if "KCF data" in result_dic:
+        del result_dic["KCF data"]
+
+    if "Generic" in result_dic:
+        del result_dic["Generic"]
+
+    if "Product" in result_dic:
+        del result_dic["Product"]
+
+    if "Entry" in result_dic:
+        entry_value = result_dic["Entry"]
+        new_entry_value = str(entry_value).split()[0]
+        # pprint(new_entry_value)
+        result_dic["Entry"] = new_entry_value
+
+    if "Name" in result_dic:
+        name_value = result_dic["Name"]
+        new_name_value = str(name_value).split(';')
+        result_dic["Name"] = new_name_value
+
+    if "Remark" in result_dic:
+        remark_value = result_dic["Remark"]
+        new_remark_value = str(remark_value)
+        remark_list = []
+        remark_list.append(new_remark_value[0:15])
+
+        # Convert to dictionary
+        remark_dic = {}
+        for i in range(len(remark_list)):
+            remark_dic[remark_list[i].split(':')[0]] = remark_list[i].split(':')[1].strip()
+
+        result_dic["Remark"] = remark_dic
+
+
+    if "Other DBs" in result_dic:
+        result_dic["LinkDB"] = result_dic.pop("Other DBs")  # 替换key值
+        linkdb_value = result_dic["LinkDB"]
+        new_linkdb_value = str(linkdb_value)
+        linkdb_list = []
+        linkdb_list.append(new_linkdb_value[0:14])
+        linkdb_list.append(new_linkdb_value[14:30])
+        linkdb_list.append(new_linkdb_value[30:42])
+        linkdb_list.append(new_linkdb_value[42:63])
+        linkdb_list.append(new_linkdb_value[63:90].strip())
+        linkdb_list.append(new_linkdb_value[90:107])
+        linkdb_list.append(new_linkdb_value[107:])
+        pprint(linkdb_list)
+
+        # Convert to dictionary
+        linkdb_dic = {}
+        for i in range(len(linkdb_list)):
+            linkdb_dic[linkdb_list[i].split(':')[0]] = linkdb_list[i].split(':')[1].strip()
+        result_dic["LinkDB"] = linkdb_dic
+
     # 使用json格式保存到文件中
-    json.dump(result_dic, open('C:\\Users\\KerryChen\\Desktop\\nosql-biosets-master\\KeggDrug_Data\\data\\D00565.txt', 'w'), ensure_ascii=False, indent=2)
+    json.dump(result_dic, open('C:\\Users\\KerryChen\\Desktop\\nosql-biosets-master\\keggdrug\\D00001.json', 'w'), ensure_ascii=False, indent=4)
 
 
 def main():
@@ -61,7 +127,7 @@ def main():
     urli = []
     url = 'https://www.kegg.jp/dbget-bin/www_bget?dr:D00001'
     rs = check_link(url)
-    get_contents(urli,rs)
+    get_contents(urli, rs)
 
     # print(urli)
 

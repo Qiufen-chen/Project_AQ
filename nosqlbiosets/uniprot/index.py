@@ -13,8 +13,14 @@ import xmltodict
 from pymongo import IndexModel
 from six import string_types
 
+# 以下三行代码为自己添加
+import os
+import sys
+sys.path.append(os.path.abspath(__file__).rsplit('/', 3)[0])
+
 from nosqlbiosets.dbutils import DBconnection, dbargs
 
+# 线程池的创建(ThreadPool(args))，args为线程池中线程个数
 pool = ThreadPool(14)   # Threads for index calls, parsing is in the main thread
 MAX_QUEUED_JOBS = 1400  # Maximum number of index jobs in queue
 MDBCOLLECTION = 'uniprot'
@@ -31,6 +37,7 @@ class Indexer(DBconnection):
             "index.number_of_replicas": 0,
             "index.number_of_shards": 5,
             "index.refresh_interval": "1m"}
+
         super(Indexer, self).__init__(db, self.index, host, port,
                                       mdbcollection=mdbcollection,
                                       es_indexsettings=indxcfg,
@@ -73,6 +80,7 @@ class Indexer(DBconnection):
                 print(traceback.format_exc())
                 exit(-1)
             self.reportprogress(1000)
+
         if isinstance(entry, string_types):  # Assume <copyright> notice
             print("\nUniProt copyright notice: %s " % entry.strip())
         else:
@@ -97,6 +105,7 @@ class Indexer(DBconnection):
         for a in al:
             if a in c:
                 del c[a]
+
         if hasattr(c, 'location'):
             c['location']['begin']['position'] =\
                 int(c['location']['begin']['position'])
@@ -246,5 +255,13 @@ if __name__ == '__main__':
                            ' xml dataset')
     dbargs(args)
     args = args.parse_args()
+    """
+    infile: XML file that needs to parse
+    mdbdb：Name of the MongoDB database，such as biosets
+    mdbcollection：Name for the MongoDB collection
+    dbtype：MongoDB
+    host：MongoDB server hostname
+    port：MongoDB server port number
+    """
     main(args.infile, args.esindex, args.mdbdb, args.mdbcollection,
          args.dbtype, args.host, args.port)

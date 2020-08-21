@@ -1,4 +1,0 @@
-dr:D00018	dr:D00218	P	unclassified
-dr:D00018	dr:D01186	P	unclassified
-dr:D00018	dr:D01196	P	unclassified
-dr:D00018	dr:D04747	P	unclassified

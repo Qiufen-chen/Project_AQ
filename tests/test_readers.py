@@ -50,7 +50,7 @@ class TestDataReaders(unittest.TestCase):
     #     assert 30 == len(idlist)
     #     r = idlist[0]
     #     self.assertEqual(r['_id'], 'URS0000000001')
-    #     self.assertEqual(len(r['mappings']), 11)
+    #     self.assertEqual(len(r['mappings']), ddi_json)
     #     assert r['mappings'][0]['type'] == 'rRNA'
     #     r = idlist[-1]
     #     assert r['mappings'][-1]['gene'] == 'trnL'

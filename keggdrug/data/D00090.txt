@@ -1,5 +1,0 @@
-dr:D00090	dr:D01136	CI	unclassified
-dr:D00090	dr:D02971	CI	unclassified
-dr:D00090	dr:D03331	CI	unclassified
-dr:D00090	dr:D03436	P	unclassified
-dr:D00090	dr:D08812	CI	same components

@@ -1,2 +1,0 @@
-dr:D00101	dr:D00287	P	unclassified
-dr:D00101	dr:D01213	P	Target: AVPR2

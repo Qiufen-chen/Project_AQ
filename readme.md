@@ -192,7 +192,7 @@ curl -XGET "http://localhost:9200/uniprot/_search?pretty=true"\
 }'
 ```
 
-Check [`./tests/test_uniprot_queries.py`](tests/test_uniprot_queries.py) 
+Check [`./tests/test_uniprot_queries.py`](nosqlbiosets/uniprot/test_uniprot_queries.py) 
 and [`./nosqlbiosets/uniprot/query.py`](./nosqlbiosets/uniprot/query.py) for
 example queries with Elasticsearch and MongoDB.
 

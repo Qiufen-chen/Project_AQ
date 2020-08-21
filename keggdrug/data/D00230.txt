@@ -1,2 +1,0 @@
-dr:D00230	dr:D00752	P	unclassified
-dr:D00230	dr:D06466	P	unclassified

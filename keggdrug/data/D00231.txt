@@ -1,5 +1,0 @@
-dr:D00231	dr:D00331	P	unclassified
-dr:D00231	dr:D00831	P	unclassified
-dr:D00231	dr:D01240	P	unclassified
-dr:D00231	dr:D01697	P	unclassified
-dr:D00231	dr:D10255	P	Target: PDE3A PDE3B

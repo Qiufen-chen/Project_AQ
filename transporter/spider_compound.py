@@ -36,7 +36,7 @@ def check_link(url):
         return e.code
 
 # 爬取资源
-def get_contents(rurl, com_id ):
+def get_compound_contents(rurl, com_id ):
     new_dir = '/home/cqfnenu/nosql-biosets-master/transporter/compounds_data/' + com_id + '/'
     make_dir(new_dir)
     soup = BeautifulSoup(rurl, 'lxml')
