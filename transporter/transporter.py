@@ -11,80 +11,65 @@
 
 """ Index Transporter json datasets with MongoDB"""
 
-
-from pymongo import MongoClient
 import json
 import os
 import argparse
+from utils.dbutils import DBconnection
+import sys
+
+sys.path.append(os.path.abspath(__file__).rsplit('/', 2)[0])
+
+DOCTYPE = 'transpoter'
 
 
 # ---------------------------------------------------------------------------------------------------
-def connection(host, password, user, mdbdb, doctype):
+def main(infile_path, index, doctype=DOCTYPE, host=None, port=None):
+    if not infile_path:
+        #  Gets the full path to the script
+        file_path = os.path.abspath(__file__).rsplit('/', 2)[0] + "/transporters_json/"
+    else:
+        file_path = infile_path
+    print(file_path)
 
-    conn = MongoClient(host)
-    db_signin = conn['admin']
-    db_signin.authenticate(user, password)
-    db = conn[mdbdb]
-    set = db[doctype]
-    return set
+    db_transportal = DBconnection(index, host=host, port=port)
 
-
-# ---------------------------------------------------------------------------------------------------
-def insertToMongoDB(set, jsondir, doctype):
-
-    for (root, dirs, files) in os.walk(jsondir):
+    for (root, dirs, files) in os.walk(file_path):
         for filename in files:
 
-            if doctype == "transporter":
+            if doctype in ['transporter', 'compound']:
                 with open(os.path.join(root, filename), 'r', encoding='utf-8') as f:
                     tran_data = json.load(f)
-                    set.insert(tran_data)
+                    db_transportal.mdbi[doctype].insert(tran_data)
                 print(filename + " insert successfully!")
 
-
-            elif doctype == "compound":
-                with open(os.path.join(root, filename), 'r', encoding='utf-8') as f:
-                    comp_data = json.load(f)
-                    set.insert(comp_data)
-                print(filename + " insert successfully!")
-
-
-
-# ---------------------------------------------------------------------------------------------------
-def main(dir, mdbdb, doctype, host, user, password):
-    """
-    Index Transportal json dataset with MongoDB, downloaded from crawler
-    :param dir: Input dir pathway
-    :param mdbdb: Name of the MongoDB database, default=ALL
-    :param doctype: MongoDB collection name, default=DOCTYPE
-    :param host: MongoDB server host name
-    :param user: User login name
-    :param password: MongoDB server password
-    :return:
-    """
-
-    set = connection(host, password, user, mdbdb, doctype)
-    insertToMongoDB(set, dir, doctype)
+            else:
+                pass
 
 
 #########################################################################################################################################
 if __name__ == '__main__':
+    parser = argparse.ArgumentParser(description='Index Transportal JSON dataset with MongoDB')
+    parser.add_argument('-infile',
+                        '--infile',
+                        help='Input folder name')
+    parser.add_argument('--index',
+                        default="all",
+                        help='Name of the MongoDB database index')
+    parser.add_argument('--mdbcollection',
+                        default=DOCTYPE,
+                        help='MongoDB collection name')
+    parser.add_argument('--host',
+                        help='MongoDB server hostname')
+    parser.add_argument('--port',
+                        help="MongoDB server port number")
 
-    # parser = argparse.ArgumentParser(description='Index Transportal json dataset with MongoDB')
-    # parser.add_argument('--dir', required=True, help='Input dir pathway')
-    # parser.add_argument('--mdbdb', help='Name of the MongoDB database index')
-    # parser.add_argument('--doctype', help='MongoDB collection name')
-    # parser.add_argument('--host', help='MongoDB server host name')
-    # parser.add_argument('--user', help='User login name')
-    # parser.add_argument('--password', help='MongoDB server password')
-    # args = parser.parse_args()
-    #
-    # main(args.dir, args.mdbdb, args.mdbcollection, args.host, args.user, args.password)
+    args = parser.parse_args()
+    main(args.infile, args.index, args.mdbcollection, args.host, args.port)
 
     # ------------------------------------------------------------------------------------------------------------------------------------
     # Transporter data to MongoDB
-    # main('/home/cqfnenu/nosql-biosets-master/transporter/transporters_json/', 'transportal', 'transporter', '39.97.240.2', 'root', "@nenu_icb_2019_2022@")
+    # main('/home/cqfnenu/nosql-biosets-master/transporter/transporters_json/', 'transportal', 'transporter', '39.97.240.2')
 
     # Compound data to MongoDB
-    main('/home/cqfnenu/nosql-biosets-master/transporter/compounds_json/', 'transportal', 'compound', '39.97.240.2', 'root', "@nenu_icb_2019_2022@")
+    # main('/home/cqfnenu/nosql-biosets-master/transporter/compounds_json/', 'transportal', 'compound', '39.97.240.2')
 
