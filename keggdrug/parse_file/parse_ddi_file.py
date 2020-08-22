@@ -148,8 +148,8 @@ def parse_ddi_file(index_dir, save_dir):
 
 
 def main():
-    index_dir = 'C:/Users/KerryChen/Desktop/nosql-biosets-master/keggdrug/ddi_data/'
-    save_dir = 'C:/Users/KerryChen/Desktop/nosql-biosets-master/keggdrug/ddi_json/'
+    index_dir = '/home/cqfnenu/nosql-biosets-master/keggdrug/ddi_data/'
+    save_dir = '/home/cqfnenu/nosql-biosets-master/keggdrug/ddi_json/'
     parse_ddi_file(index_dir, save_dir)
 
 

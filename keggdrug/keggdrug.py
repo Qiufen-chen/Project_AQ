@@ -64,20 +64,20 @@ def main(dir, mdbdb, doctype, host, user, password):
 #########################################################################################################################################
 if __name__ == '__main__':
 
-    parser = argparse.ArgumentParser(description='Index KEGGDrug json dataset with MongoDB')
-    parser.add_argument('--dir', required=True, help='Input dir pathway')
-    parser.add_argument('--mdbdb', help='Name of the MongoDB database index')
-    parser.add_argument('--doctype', help='MongoDB collection name')
-    parser.add_argument('--host', help='MongoDB server host name')
-    parser.add_argument('--user', help='User login name')
-    parser.add_argument('--password', help='MongoDB server password')
-    args = parser.parse_args()
-
-    main(args.dir, args.mdbdb, args.mdbcollection, args.host, args.user, args.password)
+    # parser = argparse.ArgumentParser(description='Index KEGGDrug json dataset with MongoDB')
+    # parser.add_argument('--dir', required=True, help='Input dir pathway')
+    # parser.add_argument('--mdbdb', help='Name of the MongoDB database index')
+    # parser.add_argument('--doctype', help='MongoDB collection name')
+    # parser.add_argument('--host', help='MongoDB server host name')
+    # parser.add_argument('--user', help='User login name')
+    # parser.add_argument('--password', help='MongoDB server password')
+    # args = parser.parse_args()
+    #
+    # main(args.dir, args.mdbdb, args.mdbcollection, args.host, args.user, args.password)
 
     # ------------------------------------------------------------------------------------------------------------------------------------
     # keggdrug_drug data to MongoDB
     # main('/home/cqfnenu/nosql-biosets-master/keggdrug/drug_json/', 'keggdrug', 'drug', '39.97.240.2', 'root', "@nenu_icb_2019_2022@")
 
     # keggdrug_ddi data to MongoDB
-    # main('/home/cqfnenu/nosql-biosets-master/keggdrug/ddi_json/', 'keggdrug', 'interaction', '39.97.240.2', 'root', "@nenu_icb_2019_2022@")
+    main('/home/cqfnenu/nosql-biosets-master/keggdrug/ddi_json/', 'keggdrug', 'interaction', '39.97.240.2', 'root', "@nenu_icb_2019_2022@")
