@@ -41,7 +41,7 @@ class get_ddi(object):
             pre_data = body_content[i].get_text()
 
             # Save as .txt file
-            with open('C:/Users/KerryChen/Desktop/nosql-biosets-master/keggdrug/ddi_json/' + str(drug_id).replace('\n', '') + '.txt', "w", encoding='utf-8') as f:
+            with open('C:/Users/KerryChen/Desktop/nosql-biosets-master/keggdrug/drug_json/' + str(drug_id).replace('\n', '') + '.txt', "w", encoding='utf-8') as f:
                 f.write(pre_data)
                 f.close()
 

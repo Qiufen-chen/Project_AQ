@@ -12,7 +12,7 @@
       <paths name="cqfnenu@39.97.240.2:22">
         <serverdata>
           <mappings>
-            <mapping deploy="/home/cqfnenu/nosql-biosets-master" local="$PROJECT_DIR$" />
+            <mapping local="$PROJECT_DIR$" web="/" />
           </mappings>
         </serverdata>
       </paths>

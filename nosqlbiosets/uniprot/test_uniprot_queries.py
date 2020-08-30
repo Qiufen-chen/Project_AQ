@@ -196,7 +196,7 @@ class TestQueryUniProt(unittest.TestCase):
 
     def test_getenzymedata(self):
         enzys = [
-            ('2.2.1.ddi_json', {'Q58980'}, ("ordered locus", 'MJ1585', 1),
+            ('2.2.1.drug_json', {'Q58980'}, ("ordered locus", 'MJ1585', 1),
              "Aromatic compound metabolism.",
              'beta-D-fructose 1,6-bisphosphate = D-glyceraldehyde 3-phosphate'
              ' + dihydroxyacetone phosphate',

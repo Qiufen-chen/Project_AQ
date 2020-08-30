@@ -48,28 +48,28 @@ def main(infile_path, index, doctype=DOCTYPE, host=None, port=None):
 
 #########################################################################################################################################
 if __name__ == '__main__':
-    parser = argparse.ArgumentParser(description='Index Transportal JSON dataset with MongoDB')
-    parser.add_argument('-infile',
-                        '--infile',
-                        help='Input folder name')
-    parser.add_argument('--index',
-                        default="all",
-                        help='Name of the MongoDB database index')
-    parser.add_argument('--mdbcollection',
-                        default=DOCTYPE,
-                        help='MongoDB collection name')
-    parser.add_argument('--host',
-                        help='MongoDB server hostname')
-    parser.add_argument('--port',
-                        help="MongoDB server port number")
-
-    args = parser.parse_args()
-    main(args.infile, args.index, args.mdbcollection, args.host, args.port)
+    # parser = argparse.ArgumentParser(description='Index Transportal JSON dataset with MongoDB')
+    # parser.add_argument('-infile',
+    #                     '--infile',
+    #                     help='Input folder name')
+    # parser.add_argument('--index',
+    #                     default="all",
+    #                     help='Name of the MongoDB database index')
+    # parser.add_argument('--mdbcollection',
+    #                     default=DOCTYPE,
+    #                     help='MongoDB collection name')
+    # parser.add_argument('--host',
+    #                     help='MongoDB server hostname')
+    # parser.add_argument('--port',
+    #                     help="MongoDB server port number")
+    #
+    # args = parser.parse_args()
+    # main(args.infile, args.index, args.mdbcollection, args.host, args.port)
 
     # ------------------------------------------------------------------------------------------------------------------------------------
     # Transporter data to MongoDB
-    # main('/home/cqfnenu/nosql-biosets-master/transporter/transporters_json/', 'transportal', 'transporter', '39.97.240.2')
+    main('/home/cqfnenu/nosql-biosets-master/transporter/transporters_json/', 'transportal', 'transporter', '39.97.240.2')
 
     # Compound data to MongoDB
-    # main('/home/cqfnenu/nosql-biosets-master/transporter/compounds_json/', 'transportal', 'compound', '39.97.240.2')
+    main('/home/cqfnenu/nosql-biosets-master/transporter/compounds_json/', 'transportal', 'compound', '39.97.240.2')
 
